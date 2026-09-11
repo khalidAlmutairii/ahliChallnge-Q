@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ahli Challenge</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+  <div class="page-glow page-glow-1"></div>
+  <div class="page-glow page-glow-2"></div>
+
+  <header class="navbar">
+    <div class="brand">
+      <div class="brand-mark">A</div>
+      <div>
+        <strong>Ahli Challenge</strong>
+        <span>تحدي الأهلاويين</span>
+      </div>
+    </div>
+
+    <nav>
+      <button class="nav-link active">الرئيسية</button>
+      <button class="nav-link">المتصدرون</button>
+      <button class="nav-link">الملف الشخصي</button>
+    </nav>
+
+    <button class="login-btn" id="topLoginBtn">دخول اللاعب</button>
+  </header>
+
+  <main class="hero">
+    <section class="hero-copy">
+      <div class="eyebrow">
+        <span class="live-dot"></span>
+        تحديات أهلاوية مباشرة
+      </div>
+
+      <h1>
+        اختبر معرفتك
+        <span>بالملكي</span>
+      </h1>
+
+      <p class="hero-description">
+        أسئلة وصور وأصوات وتحديات من تاريخ النادي الأهلي السعودي.
+        العب لحالك، واجه لاعبًا عشوائيًا، أو كوّن فريق 2 ضد 2.
+      </p>
+
+      <div class="mode-grid">
+        <button class="mode-card active" data-mode="solo">
+          <span class="mode-icon">👤</span>
+          <span class="mode-text">
+            <strong>العب لحالك</strong>
+            <small>اختبر نفسك واجمع أعلى نقاط</small>
+          </span>
+          <span class="mode-arrow">←</span>
+        </button>
+
+        <button class="mode-card quick" data-mode="quick1v1">
+          <span class="mode-icon">⚔️</span>
+          <span class="mode-text">
+            <strong>خصم عشوائي</strong>
+            <small>ابحث عن لاعب أونلاين 1 ضد 1</small>
+          </span>
+          <span class="status-pill">LIVE</span>
+        </button>
+
+        <button class="mode-card quick" data-mode="quick2v2">
+          <span class="mode-icon">👥</span>
+          <span class="mode-text">
+            <strong>2 ضد 2 عشوائي</strong>
+            <small>ادخل مع لاعبين ويتكوّن فريقان</small>
+          </span>
+          <span class="status-pill">LIVE</span>
+        </button>
+
+        <button class="mode-card" data-mode="private">
+          <span class="mode-icon">🔐</span>
+          <span class="mode-text">
+            <strong>غرفة خاصة</strong>
+            <small>أنشئ كود وارسله لأصحابك</small>
+          </span>
+          <span class="mode-arrow">←</span>
+        </button>
+      </div>
+
+      <div class="action-row">
+        <button class="primary-btn" id="playNowBtn">ابدأ اللعب</button>
+        <button class="secondary-btn" id="joinCodeBtn">دخول بكود</button>
+      </div>
+
+      <div class="mini-stats">
+        <div>
+          <strong>4</strong>
+          <span>أنماط لعب</span>
+        </div>
+        <div>
+          <strong>10</strong>
+          <span>ثوانٍ لكل سؤال</span>
+        </div>
+        <div>
+          <strong>100+</strong>
+          <span>سؤال أهلاوي</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="preview-shell">
+      <div class="preview-topbar">
+        <span>الجولة 3 / 10</span>
+        <span class="score">النقاط: 850</span>
+      </div>
+
+      <div class="preview-question-card">
+        <div class="timer-ring">
+          <span>10</span>
+        </div>
+
+        <div class="question-type">سؤال صورة</div>
+
+        <div class="mystery-image">
+          <div class="silhouette">?</div>
+          <div class="scan-line"></div>
+        </div>
+
+        <h2>من هذا اللاعب؟</h2>
+
+        <div class="answer-grid">
+          <button>عمر السومة</button>
+          <button class="selected-answer">تيسير الجاسم</button>
+          <button>فيكتور سيموس</button>
+          <button>معتز الموسى</button>
+        </div>
+      </div>
+
+      <div class="online-strip">
+        <div class="avatars">
+          <span>خ</span>
+          <span>م</span>
+          <span>س</span>
+        </div>
+        <div>
+          <strong>مباريات مباشرة</strong>
+          <small>البحث العشوائي سيكون عبر Firebase</small>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <section class="feature-strip">
+    <article>
+      <span>🖼️</span>
+      <strong>صور اللاعبين</strong>
+      <small>كشف تدريجي للصورة</small>
+    </article>
+    <article>
+      <span>🎙️</span>
+      <strong>أصوات المعلقين</strong>
+      <small>خمن المعلق أو المباراة</small>
+    </article>
+    <article>
+      <span>📜</span>
+      <strong>تاريخ الأهلي</strong>
+      <small>بطولات ومدربين ومباريات</small>
+    </article>
+    <article>
+      <span>🏆</span>
+      <strong>الترتيب</strong>
+      <small>نافس على أعلى النقاط</small>
+    </article>
+  </section>
+
+  <div class="modal" id="playerModal">
+    <div class="modal-box">
+      <button class="close-btn" id="closePlayerModal">×</button>
+
+      <div class="modal-icon">👑</div>
+      <h2 id="playerModalTitle">جاهز للتحدي؟</h2>
+      <p id="playerModalText">اكتب اسمك للبدء.</p>
+
+      <label for="playerName">اسم اللاعب</label>
+      <input id="playerName" maxlength="18" placeholder="مثال: Khalid" />
+
+      <div class="selected-mode-box">
+        <span>وضع اللعب</span>
+        <strong id="selectedModeLabel">العب لحالك</strong>
+      </div>
+
+      <button class="primary-btn full" id="confirmPlayBtn">متابعة</button>
+    </div>
+  </div>
+
+  <div class="modal" id="matchModal">
+    <div class="modal-box matchmaking-box">
+      <button class="close-btn" id="cancelMatchBtn">×</button>
+
+      <div class="search-orbit">
+        <div class="orbit-ring"></div>
+        <div class="orbit-ring second"></div>
+        <div class="search-avatar">👤</div>
+      </div>
+
+      <h2 id="matchTitle">جاري البحث عن خصم...</h2>
+      <p id="matchText">نبحث عن لاعب مناسب لك.</p>
+
+      <div class="search-status">
+        <span class="pulse"></span>
+        <span id="searchStatusText">البحث...</span>
+      </div>
+
+      <button class="secondary-btn full" id="cancelSearchBtn">إلغاء البحث</button>
+    </div>
+  </div>
+
+  <div class="modal" id="codeModal">
+    <div class="modal-box">
+      <button class="close-btn" id="closeCodeModal">×</button>
+      <div class="modal-icon">🔐</div>
+      <h2>دخول إلى غرفة</h2>
+      <p>اكتب كود الغرفة الذي أرسله لك صاحبك.</p>
+
+      <label for="roomCode">كود الغرفة</label>
+      <input id="roomCode" class="code-input" maxlength="6" placeholder="AHLI82" />
+
+      <button class="primary-btn full" id="joinRoomConfirm">دخول</button>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <div class="modal" id="lobbyModal">
+    <div class="modal-box lobby-box">
+      <button class="close-btn" id="leaveLobbyBtn">×</button>
+
+      <div class="lobby-heading">
+        <div>
+          <span class="lobby-kicker">LOBBY</span>
+          <h2>غرفة المباراة</h2>
+        </div>
+        <div class="room-code-card">
+          <span>كود الغرفة</span>
+          <strong id="lobbyRoomCode">------</strong>
+        </div>
+      </div>
+
+      <div class="lobby-meta">
+        <span id="lobbyMode">وضع اللعب</span>
+        <span id="lobbyStatus">بانتظار اللاعبين</span>
+      </div>
+
+      <div id="lobbyPlayers" class="lobby-players"></div>
+
+      <button class="primary-btn full" id="readyBtn">أنا جاهز</button>
+      <button class="secondary-btn full lobby-start-btn" id="startGameBtn" hidden>بدء اللعبة</button>
+    </div>
+  </div>
+
+
+  <div class="game-overlay" id="gameOverlay">
+    <div class="game-shell">
+      <div class="game-topbar">
+        <div class="game-brand">
+          <div class="brand-mark small">A</div>
+          <div>
+            <strong>Ahli Challenge</strong>
+            <small id="gameRoomCode">------</small>
+          </div>
+        </div>
+
+        <div class="round-center">
+          <span id="roundLabel">الجولة 1 / 10</span>
+          <div class="timer-bar">
+            <div id="timerProgress" class="timer-progress"></div>
+          </div>
+        </div>
+
+        <div class="game-score-card">
+          <span>نقاطك</span>
+          <strong id="myScore">0</strong>
+        </div>
+      </div>
+
+      <div class="game-content">
+        <aside class="players-panel">
+          <div class="panel-title">اللاعبون</div>
+          <div id="gamePlayersList" class="game-players-list"></div>
+        </aside>
+
+        <main class="question-stage">
+          <div class="question-meta">
+            <span id="questionCategory">تاريخ الأهلي</span>
+            <div class="countdown-circle" id="countdownCircle">15</div>
+          </div>
+
+          <div class="question-card-live">
+            <div id="questionMedia" class="question-media text-media">
+              <span>👑</span>
+            </div>
+
+            <h2 id="liveQuestionText">السؤال سيظهر هنا</h2>
+
+            <div id="liveAnswers" class="live-answers"></div>
+
+            <div id="answerFeedback" class="answer-feedback"></div>
+          </div>
+        </main>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal" id="resultsModal">
+    <div class="modal-box results-box">
+      <div class="result-trophy">🏆</div>
+      <h2 id="resultsTitle">انتهت المباراة!</h2>
+      <p id="resultsSubtitle">هذه هي النتيجة النهائية.</p>
+
+      <div id="resultsList" class="results-list"></div>
+
+      <button class="primary-btn full" id="backHomeBtn">العودة للرئيسية</button>
+    </div>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

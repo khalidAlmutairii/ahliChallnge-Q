@@ -1,0 +1,17002 @@
+export const QUESTION_BANK = [
+  {
+    "id": "q1",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "في أي عام تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "1937",
+      "1957",
+      "1947",
+      "1927"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "found_year_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q2",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في أي عام تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "1927",
+      "1947",
+      "1937",
+      "1957"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "found_year_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q3",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في أي عام تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "1957",
+      "1937",
+      "1927",
+      "1947"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "found_year_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q4",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في أي عام تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "1947",
+      "1927",
+      "1957",
+      "1937"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "found_year_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q5",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "في أي عام هجري تأسس النادي الأهلي بحسب موقعه الرسمي؟",
+    "options": [
+      "1365هـ",
+      "1355هـ",
+      "1345هـ",
+      "1375هـ"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "found_hijri_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q6",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في أي عام هجري تأسس النادي الأهلي بحسب موقعه الرسمي؟",
+    "options": [
+      "1365هـ",
+      "1355هـ",
+      "1375هـ",
+      "1345هـ"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "found_hijri_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q7",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في أي عام هجري تأسس النادي الأهلي بحسب موقعه الرسمي؟",
+    "options": [
+      "1355هـ",
+      "1345هـ",
+      "1365هـ",
+      "1375هـ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "found_hijri_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q8",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في أي عام هجري تأسس النادي الأهلي بحسب موقعه الرسمي؟",
+    "options": [
+      "1365هـ",
+      "1375هـ",
+      "1345هـ",
+      "1355هـ"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "found_hijri_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q9",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "في أي مدينة تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "الدمام",
+      "مكة",
+      "الرياض",
+      "جدة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "found_city_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q10",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في أي مدينة تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "جدة",
+      "الدمام",
+      "مكة",
+      "الرياض"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "found_city_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q11",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في أي مدينة تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "مكة",
+      "الرياض",
+      "جدة",
+      "الدمام"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "found_city_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q12",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في أي مدينة تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "مكة",
+      "الدمام",
+      "جدة",
+      "الرياض"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "found_city_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q13",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "أين يقع مقر النادي الأهلي بحسب تاريخه الرسمي؟",
+    "options": [
+      "الطائف",
+      "الخبر",
+      "المدينة المنورة",
+      "جدة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "hq_city_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q14",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، أين يقع مقر النادي الأهلي بحسب تاريخه الرسمي؟",
+    "options": [
+      "الخبر",
+      "جدة",
+      "الطائف",
+      "المدينة المنورة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "hq_city_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q15",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: أين يقع مقر النادي الأهلي بحسب تاريخه الرسمي؟",
+    "options": [
+      "جدة",
+      "الطائف",
+      "المدينة المنورة",
+      "الخبر"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "hq_city_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q16",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: أين يقع مقر النادي الأهلي بحسب تاريخه الرسمي؟",
+    "options": [
+      "الطائف",
+      "الخبر",
+      "المدينة المنورة",
+      "جدة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "hq_city_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q17",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "على أي شارع يقع مقر الأهلي المذكور في موقع النادي؟",
+    "options": [
+      "شارع الأمير محمد بن عبدالعزيز (التحلية)",
+      "طريق الملك فهد",
+      "شارع فلسطين",
+      "طريق الأمير سلطان"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "hq_street_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q18",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، على أي شارع يقع مقر الأهلي المذكور في موقع النادي؟",
+    "options": [
+      "شارع الأمير محمد بن عبدالعزيز (التحلية)",
+      "شارع فلسطين",
+      "طريق الأمير سلطان",
+      "طريق الملك فهد"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "hq_street_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q19",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: على أي شارع يقع مقر الأهلي المذكور في موقع النادي؟",
+    "options": [
+      "طريق الأمير سلطان",
+      "شارع الأمير محمد بن عبدالعزيز (التحلية)",
+      "شارع فلسطين",
+      "طريق الملك فهد"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "hq_street_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q20",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: على أي شارع يقع مقر الأهلي المذكور في موقع النادي؟",
+    "options": [
+      "طريق الملك فهد",
+      "شارع الأمير محمد بن عبدالعزيز (التحلية)",
+      "شارع فلسطين",
+      "طريق الأمير سلطان"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "hq_street_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q21",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "بين طلاب أي مدرسة بدأت فكرة تأسيس الأهلي؟",
+    "options": [
+      "مدرسة العزيزية",
+      "مدرسة الثغر",
+      "مدرسة الفيصلية",
+      "مدرسة الفلاح"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "school_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q22",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، بين طلاب أي مدرسة بدأت فكرة تأسيس الأهلي؟",
+    "options": [
+      "مدرسة الفلاح",
+      "مدرسة الفيصلية",
+      "مدرسة العزيزية",
+      "مدرسة الثغر"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "school_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q23",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: بين طلاب أي مدرسة بدأت فكرة تأسيس الأهلي؟",
+    "options": [
+      "مدرسة الفيصلية",
+      "مدرسة الفلاح",
+      "مدرسة العزيزية",
+      "مدرسة الثغر"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "school_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q24",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: بين طلاب أي مدرسة بدأت فكرة تأسيس الأهلي؟",
+    "options": [
+      "مدرسة الفيصلية",
+      "مدرسة العزيزية",
+      "مدرسة الثغر",
+      "مدرسة الفلاح"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "school_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q25",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "ما اللونان الشهيران لفريق كرة القدم في الأهلي بحسب الموقع الرسمي؟",
+    "options": [
+      "الأزرق والأبيض",
+      "الأبيض والأخضر",
+      "الأحمر والأسود",
+      "الأصفر والأزرق"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "colors_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q26",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما اللونان الشهيران لفريق كرة القدم في الأهلي بحسب الموقع الرسمي؟",
+    "options": [
+      "الأبيض والأخضر",
+      "الأزرق والأبيض",
+      "الأحمر والأسود",
+      "الأصفر والأزرق"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "colors_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q27",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما اللونان الشهيران لفريق كرة القدم في الأهلي بحسب الموقع الرسمي؟",
+    "options": [
+      "الأزرق والأبيض",
+      "الأبيض والأخضر",
+      "الأصفر والأزرق",
+      "الأحمر والأسود"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "colors_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q28",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما اللونان الشهيران لفريق كرة القدم في الأهلي بحسب الموقع الرسمي؟",
+    "options": [
+      "الأحمر والأسود",
+      "الأصفر والأزرق",
+      "الأزرق والأبيض",
+      "الأبيض والأخضر"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "colors_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q29",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "من أطلق على الأهلي لقب «سفير الوطن» بحسب موقع النادي؟",
+    "options": [
+      "الملك سلمان بن عبدالعزيز",
+      "الأمير سلطان بن فهد",
+      "الملك عبدالله بن عبدالعزيز",
+      "الملك فهد بن عبدالعزيز"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "ambassador_by_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q30",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من أطلق على الأهلي لقب «سفير الوطن» بحسب موقع النادي؟",
+    "options": [
+      "الأمير سلطان بن فهد",
+      "الملك سلمان بن عبدالعزيز",
+      "الملك عبدالله بن عبدالعزيز",
+      "الملك فهد بن عبدالعزيز"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "ambassador_by_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q31",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من أطلق على الأهلي لقب «سفير الوطن» بحسب موقع النادي؟",
+    "options": [
+      "الملك فهد بن عبدالعزيز",
+      "الأمير سلطان بن فهد",
+      "الملك سلمان بن عبدالعزيز",
+      "الملك عبدالله بن عبدالعزيز"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "ambassador_by_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q32",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من أطلق على الأهلي لقب «سفير الوطن» بحسب موقع النادي؟",
+    "options": [
+      "الملك عبدالله بن عبدالعزيز",
+      "الأمير سلطان بن فهد",
+      "الملك فهد بن عبدالعزيز",
+      "الملك سلمان بن عبدالعزيز"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "ambassador_by_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q33",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "في أي تاريخ ميلادي مُنح الأهلي لقب «سفير الوطن»؟",
+    "options": [
+      "10 يوليو 2009",
+      "3 أغسطس 2009",
+      "3 يوليو 2008",
+      "3 يوليو 2009"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "ambassador_date_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q34",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في أي تاريخ ميلادي مُنح الأهلي لقب «سفير الوطن»؟",
+    "options": [
+      "3 يوليو 2009",
+      "3 أغسطس 2009",
+      "3 يوليو 2008",
+      "10 يوليو 2009"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "ambassador_date_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q35",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في أي تاريخ ميلادي مُنح الأهلي لقب «سفير الوطن»؟",
+    "options": [
+      "3 يوليو 2008",
+      "10 يوليو 2009",
+      "3 أغسطس 2009",
+      "3 يوليو 2009"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "ambassador_date_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q36",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في أي تاريخ ميلادي مُنح الأهلي لقب «سفير الوطن»؟",
+    "options": [
+      "10 يوليو 2009",
+      "3 يوليو 2009",
+      "3 يوليو 2008",
+      "3 أغسطس 2009"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "ambassador_date_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q37",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "ما الدرع الذي تُوّج به الأهلي عند تكريمه بلقب سفير الوطن؟",
+    "options": [
+      "درع التفوق الرياضي",
+      "درع كأس الملك",
+      "درع الدوري",
+      "درع الاتحاد الآسيوي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "excellence_shield_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q38",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما الدرع الذي تُوّج به الأهلي عند تكريمه بلقب سفير الوطن؟",
+    "options": [
+      "درع الدوري",
+      "درع كأس الملك",
+      "درع التفوق الرياضي",
+      "درع الاتحاد الآسيوي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "excellence_shield_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q39",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما الدرع الذي تُوّج به الأهلي عند تكريمه بلقب سفير الوطن؟",
+    "options": [
+      "درع التفوق الرياضي",
+      "درع الاتحاد الآسيوي",
+      "درع كأس الملك",
+      "درع الدوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "excellence_shield_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q40",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما الدرع الذي تُوّج به الأهلي عند تكريمه بلقب سفير الوطن؟",
+    "options": [
+      "درع التفوق الرياضي",
+      "درع كأس الملك",
+      "درع الاتحاد الآسيوي",
+      "درع الدوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "excellence_shield_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q41",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "كم بطولة خارجية ذكر موقع الأهلي أنه حققها في عام التكريم نفسه؟",
+    "options": [
+      "4 بطولات",
+      "5 بطولات",
+      "3 بطولات",
+      "بطولتين"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "four_external_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q42",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم بطولة خارجية ذكر موقع الأهلي أنه حققها في عام التكريم نفسه؟",
+    "options": [
+      "4 بطولات",
+      "5 بطولات",
+      "3 بطولات",
+      "بطولتين"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "four_external_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q43",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم بطولة خارجية ذكر موقع الأهلي أنه حققها في عام التكريم نفسه؟",
+    "options": [
+      "4 بطولات",
+      "3 بطولات",
+      "بطولتين",
+      "5 بطولات"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "four_external_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q44",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم بطولة خارجية ذكر موقع الأهلي أنه حققها في عام التكريم نفسه؟",
+    "options": [
+      "3 بطولات",
+      "4 بطولات",
+      "بطولتين",
+      "5 بطولات"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "four_external_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q45",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "أي فريق أهلاوي حقق بطولة آسيا في عام الإنجازات المذكور بالموقع؟",
+    "options": [
+      "فريق كرة الطائرة الأول",
+      "فريق كرة القدم الأول",
+      "فريق كرة اليد الأول",
+      "فريق كرة السلة الأول"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "handball_asia_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q46",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، أي فريق أهلاوي حقق بطولة آسيا في عام الإنجازات المذكور بالموقع؟",
+    "options": [
+      "فريق كرة الطائرة الأول",
+      "فريق كرة السلة الأول",
+      "فريق كرة اليد الأول",
+      "فريق كرة القدم الأول"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "handball_asia_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q47",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: أي فريق أهلاوي حقق بطولة آسيا في عام الإنجازات المذكور بالموقع؟",
+    "options": [
+      "فريق كرة اليد الأول",
+      "فريق كرة القدم الأول",
+      "فريق كرة السلة الأول",
+      "فريق كرة الطائرة الأول"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "handball_asia_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q48",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: أي فريق أهلاوي حقق بطولة آسيا في عام الإنجازات المذكور بالموقع؟",
+    "options": [
+      "فريق كرة القدم الأول",
+      "فريق كرة اليد الأول",
+      "فريق كرة السلة الأول",
+      "فريق كرة الطائرة الأول"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "handball_asia_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q49",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "أي فريقين من الأهلي حققا بطولتي الخليج لكرة القدم والطائرة في العام المذكور؟",
+    "options": [
+      "كرة الطائرة وكرة السلة",
+      "كرة اليد وكرة السلة",
+      "فريق كرة القدم الأول وفريق كرة الطائرة الأول",
+      "كرة القدم وكرة اليد"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "gulf_football_volley_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q50",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، أي فريقين من الأهلي حققا بطولتي الخليج لكرة القدم والطائرة في العام المذكور؟",
+    "options": [
+      "كرة الطائرة وكرة السلة",
+      "فريق كرة القدم الأول وفريق كرة الطائرة الأول",
+      "كرة القدم وكرة اليد",
+      "كرة اليد وكرة السلة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "gulf_football_volley_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q51",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: أي فريقين من الأهلي حققا بطولتي الخليج لكرة القدم والطائرة في العام المذكور؟",
+    "options": [
+      "فريق كرة القدم الأول وفريق كرة الطائرة الأول",
+      "كرة اليد وكرة السلة",
+      "كرة الطائرة وكرة السلة",
+      "كرة القدم وكرة اليد"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "gulf_football_volley_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q52",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: أي فريقين من الأهلي حققا بطولتي الخليج لكرة القدم والطائرة في العام المذكور؟",
+    "options": [
+      "كرة القدم وكرة اليد",
+      "كرة الطائرة وكرة السلة",
+      "كرة اليد وكرة السلة",
+      "فريق كرة القدم الأول وفريق كرة الطائرة الأول"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "gulf_football_volley_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q53",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "في أي عام جمع الأهلي بين الدوري وكأس الملك وكأس السوبر السعودي؟",
+    "options": [
+      "2016",
+      "2012",
+      "2018",
+      "2014"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "triple_2016_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q54",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في أي عام جمع الأهلي بين الدوري وكأس الملك وكأس السوبر السعودي؟",
+    "options": [
+      "2014",
+      "2018",
+      "2012",
+      "2016"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "triple_2016_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q55",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في أي عام جمع الأهلي بين الدوري وكأس الملك وكأس السوبر السعودي؟",
+    "options": [
+      "2012",
+      "2014",
+      "2016",
+      "2018"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "triple_2016_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q56",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في أي عام جمع الأهلي بين الدوري وكأس الملك وكأس السوبر السعودي؟",
+    "options": [
+      "2018",
+      "2014",
+      "2012",
+      "2016"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "triple_2016_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q57",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "ما النادي الذي يذكر موقع الأهلي أنه أول من جمع الدوري وكأس الملك وكأس السوبر في عام واحد؟",
+    "options": [
+      "النصر",
+      "الاتحاد",
+      "الأهلي السعودي",
+      "الهلال"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "first_triple_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q58",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما النادي الذي يذكر موقع الأهلي أنه أول من جمع الدوري وكأس الملك وكأس السوبر في عام واحد؟",
+    "options": [
+      "النصر",
+      "الهلال",
+      "الأهلي السعودي",
+      "الاتحاد"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "first_triple_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q59",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما النادي الذي يذكر موقع الأهلي أنه أول من جمع الدوري وكأس الملك وكأس السوبر في عام واحد؟",
+    "options": [
+      "الاتحاد",
+      "الأهلي السعودي",
+      "الهلال",
+      "النصر"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "first_triple_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q60",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما النادي الذي يذكر موقع الأهلي أنه أول من جمع الدوري وكأس الملك وكأس السوبر في عام واحد؟",
+    "options": [
+      "الاتحاد",
+      "الهلال",
+      "الأهلي السعودي",
+      "النصر"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "first_triple_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q61",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "بحسب موقع الأهلي، ما البطولة التي كان الأهلي أول بطل رسمي لها؟",
+    "options": [
+      "كأس السوبر السعودي",
+      "كأس ولي العهد",
+      "دوري أبطال آسيا",
+      "كأس الاتحاد الآسيوي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "first_crown_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q62",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، بحسب موقع الأهلي، ما البطولة التي كان الأهلي أول بطل رسمي لها؟",
+    "options": [
+      "دوري أبطال آسيا",
+      "كأس الاتحاد الآسيوي",
+      "كأس السوبر السعودي",
+      "كأس ولي العهد"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "first_crown_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q63",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: بحسب موقع الأهلي، ما البطولة التي كان الأهلي أول بطل رسمي لها؟",
+    "options": [
+      "كأس السوبر السعودي",
+      "كأس ولي العهد",
+      "دوري أبطال آسيا",
+      "كأس الاتحاد الآسيوي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "first_crown_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q64",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: بحسب موقع الأهلي، ما البطولة التي كان الأهلي أول بطل رسمي لها؟",
+    "options": [
+      "دوري أبطال آسيا",
+      "كأس الاتحاد الآسيوي",
+      "كأس ولي العهد",
+      "كأس السوبر السعودي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "first_crown_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q65",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "بحسب موقع الأهلي، ما الثنائية التي كان أول من حققها؟",
+    "options": [
+      "الدوري ودوري أبطال آسيا",
+      "الدوري وكأس ولي العهد",
+      "كأس الملك وكأس السوبر",
+      "الدوري السعودي وكأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "first_double_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q66",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، بحسب موقع الأهلي، ما الثنائية التي كان أول من حققها؟",
+    "options": [
+      "الدوري وكأس ولي العهد",
+      "كأس الملك وكأس السوبر",
+      "الدوري ودوري أبطال آسيا",
+      "الدوري السعودي وكأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "first_double_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q67",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: بحسب موقع الأهلي، ما الثنائية التي كان أول من حققها؟",
+    "options": [
+      "الدوري ودوري أبطال آسيا",
+      "كأس الملك وكأس السوبر",
+      "الدوري وكأس ولي العهد",
+      "الدوري السعودي وكأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "first_double_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q68",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: بحسب موقع الأهلي، ما الثنائية التي كان أول من حققها؟",
+    "options": [
+      "الدوري ودوري أبطال آسيا",
+      "كأس الملك وكأس السوبر",
+      "الدوري السعودي وكأس الملك",
+      "الدوري وكأس ولي العهد"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "first_double_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q69",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "كم عدد الرياضات المختلفة التي يذكر الأهلي أنه يضمها حالياً تقريباً؟",
+    "options": [
+      "أقل من 5 رياضات",
+      "15 رياضة فقط",
+      "أكثر من 20 رياضة",
+      "10 رياضات فقط"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "sports_count_v1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q70",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم عدد الرياضات المختلفة التي يذكر الأهلي أنه يضمها حالياً تقريباً؟",
+    "options": [
+      "أقل من 5 رياضات",
+      "10 رياضات فقط",
+      "أكثر من 20 رياضة",
+      "15 رياضة فقط"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "sports_count_v2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q71",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم عدد الرياضات المختلفة التي يذكر الأهلي أنه يضمها حالياً تقريباً؟",
+    "options": [
+      "15 رياضة فقط",
+      "10 رياضات فقط",
+      "أكثر من 20 رياضة",
+      "أقل من 5 رياضات"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "sports_count_v3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q72",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم عدد الرياضات المختلفة التي يذكر الأهلي أنه يضمها حالياً تقريباً؟",
+    "options": [
+      "أكثر من 20 رياضة",
+      "15 رياضة فقط",
+      "أقل من 5 رياضات",
+      "10 رياضات فقط"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "sports_count_v4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q73",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي من الأسماء التالية ورد ضمن مؤسسي النادي الأهلي في الموقع الرسمي؟",
+    "options": [
+      "عمر السومة",
+      "حسن شمس",
+      "رياض محرز",
+      "إدوارد ميندي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "founder_1_a",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q74",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: حسن شمس؟",
+    "options": [
+      "حسن شمس",
+      "عبدالجليل بترجي",
+      "حسن بترجي",
+      "إبراهيم نشار"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "founder_1_b",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q75",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: عبدالرؤوف بترجي؟",
+    "options": [
+      "علي صابر",
+      "عبدالرؤوف بترجي",
+      "حسن بترجي",
+      "عمر شمس"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "founder_2_b",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q76",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: عبدالجليل بترجي؟",
+    "options": [
+      "عبدالرؤوف بترجي",
+      "عبدالجليل بترجي",
+      "علي صابر",
+      "محمد الصائغ"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "founder_3_b",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q77",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: حسن بترجي؟",
+    "options": [
+      "إبراهيم نشار",
+      "محمد الصائغ",
+      "حسين صابر",
+      "حسن بترجي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "founder_4_b",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q78",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: عمر شمس؟",
+    "options": [
+      "عمر شمس",
+      "محمد تونسي",
+      "عبدالجليل بترجي",
+      "حسن بترجي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "founder_5_b",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q79",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: محمد الصائغ؟",
+    "options": [
+      "محمد تونسي",
+      "عمر شمس",
+      "محمد الصائغ",
+      "حسين صابر"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "founder_6_b",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q80",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: عمر باقيس؟",
+    "options": [
+      "محمد تونسي",
+      "محمد الصائغ",
+      "عمر باقيس",
+      "إبراهيم زهران"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "founder_7_b",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q81",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: إبراهيم نشار؟",
+    "options": [
+      "عمر باقيس",
+      "حسين صابر",
+      "إبراهيم نشار",
+      "محمد الصائغ"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "founder_8_b",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q82",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: إبراهيم بكر؟",
+    "options": [
+      "إبراهيم نشار",
+      "إبراهيم زهران",
+      "عمر باقيس",
+      "إبراهيم بكر"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "founder_9_b",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q83",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: إبراهيم زهران؟",
+    "options": [
+      "حسن بترجي",
+      "إبراهيم زهران",
+      "حسن شمس",
+      "إبراهيم بكر"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "founder_10_b",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q84",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: محمد تونسي؟",
+    "options": [
+      "محمد تونسي",
+      "محمد الصائغ",
+      "علي صابر",
+      "إبراهيم نشار"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "founder_11_b",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q85",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: علي صابر؟",
+    "options": [
+      "عمر باقيس",
+      "محمد تونسي",
+      "علي صابر",
+      "عمر شمس"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "founder_12_b",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q86",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: حسين صابر؟",
+    "options": [
+      "محمد تونسي",
+      "حسين صابر",
+      "عمر شمس",
+      "عبدالجليل بترجي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "founder_13_b",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q87",
+    "category": "البطولات",
+    "type": "text",
+    "question": "كم بطولة رسمية اعتمدها الأهلي للفريق الأول لكرة القدم في بيان 31 أغسطس 2025؟",
+    "options": [
+      "59 بطولة",
+      "43 بطولة",
+      "53 بطولة",
+      "49 بطولة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "titles_total_v1",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q88",
+    "category": "البطولات",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم بطولة رسمية اعتمدها الأهلي للفريق الأول لكرة القدم في بيان 31 أغسطس 2025؟",
+    "options": [
+      "59 بطولة",
+      "49 بطولة",
+      "43 بطولة",
+      "53 بطولة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "titles_total_v2",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q89",
+    "category": "البطولات",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم بطولة رسمية اعتمدها الأهلي للفريق الأول لكرة القدم في بيان 31 أغسطس 2025؟",
+    "options": [
+      "43 بطولة",
+      "49 بطولة",
+      "59 بطولة",
+      "53 بطولة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "titles_total_v3",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q90",
+    "category": "البطولات",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم بطولة رسمية اعتمدها الأهلي للفريق الأول لكرة القدم في بيان 31 أغسطس 2025؟",
+    "options": [
+      "59 بطولة",
+      "49 بطولة",
+      "43 بطولة",
+      "53 بطولة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "titles_total_v4",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q91",
+    "category": "البطولات",
+    "type": "text",
+    "question": "كم بطولة دوري تدخل ضمن الرقم الرسمي المعتمد للأهلي في بيان 2025؟",
+    "options": [
+      "6 بطولات دوري",
+      "9 بطولات دوري",
+      "3 بطولات دوري",
+      "12 بطولة دوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "league_total_v1",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q92",
+    "category": "البطولات",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم بطولة دوري تدخل ضمن الرقم الرسمي المعتمد للأهلي في بيان 2025؟",
+    "options": [
+      "3 بطولات دوري",
+      "9 بطولات دوري",
+      "12 بطولة دوري",
+      "6 بطولات دوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "league_total_v2",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q93",
+    "category": "البطولات",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم بطولة دوري تدخل ضمن الرقم الرسمي المعتمد للأهلي في بيان 2025؟",
+    "options": [
+      "6 بطولات دوري",
+      "3 بطولات دوري",
+      "9 بطولات دوري",
+      "12 بطولة دوري"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "league_total_v3",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q94",
+    "category": "البطولات",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم بطولة دوري تدخل ضمن الرقم الرسمي المعتمد للأهلي في بيان 2025؟",
+    "options": [
+      "3 بطولات دوري",
+      "12 بطولة دوري",
+      "9 بطولات دوري",
+      "6 بطولات دوري"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "league_total_v4",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q95",
+    "category": "البطولات",
+    "type": "text",
+    "question": "في أي تاريخ أعلن الأهلي اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "31 أغسطس 2024",
+      "1 سبتمبر 2025",
+      "31 أغسطس 2025",
+      "31 يوليو 2025"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "titles_date_v1",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q96",
+    "category": "البطولات",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في أي تاريخ أعلن الأهلي اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "31 أغسطس 2024",
+      "31 يوليو 2025",
+      "31 أغسطس 2025",
+      "1 سبتمبر 2025"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "titles_date_v2",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q97",
+    "category": "البطولات",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في أي تاريخ أعلن الأهلي اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "31 أغسطس 2025",
+      "31 يوليو 2025",
+      "31 أغسطس 2024",
+      "1 سبتمبر 2025"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "titles_date_v3",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q98",
+    "category": "البطولات",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في أي تاريخ أعلن الأهلي اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "1 سبتمبر 2025",
+      "31 يوليو 2025",
+      "31 أغسطس 2024",
+      "31 أغسطس 2025"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "titles_date_v4",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q99",
+    "category": "البطولات",
+    "type": "text",
+    "question": "على قرار أي جهة استند الأهلي في اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "الاتحاد الآسيوي فقط",
+      "لجنة توثيق تاريخ كرة القدم السعودية",
+      "رابطة الدوري الإنجليزي",
+      "فيفا فقط"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "titles_committee_v1",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q100",
+    "category": "البطولات",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، على قرار أي جهة استند الأهلي في اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "الاتحاد الآسيوي فقط",
+      "فيفا فقط",
+      "لجنة توثيق تاريخ كرة القدم السعودية",
+      "رابطة الدوري الإنجليزي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "titles_committee_v2",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q101",
+    "category": "البطولات",
+    "type": "text",
+    "question": "في تاريخ الأهلي: على قرار أي جهة استند الأهلي في اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "فيفا فقط",
+      "رابطة الدوري الإنجليزي",
+      "الاتحاد الآسيوي فقط",
+      "لجنة توثيق تاريخ كرة القدم السعودية"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "titles_committee_v3",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q102",
+    "category": "البطولات",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: على قرار أي جهة استند الأهلي في اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "فيفا فقط",
+      "رابطة الدوري الإنجليزي",
+      "الاتحاد الآسيوي فقط",
+      "لجنة توثيق تاريخ كرة القدم السعودية"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "titles_committee_v4",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q103",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "ما اللقب الذي يذكر برنامج عضوية الأهلي أن المشجعين يسمون النادي به؟",
+    "options": [
+      "الزعيم",
+      "الملكي",
+      "العالمي",
+      "فارس الدهناء"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "nickname_malaki_v1",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q104",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما اللقب الذي يذكر برنامج عضوية الأهلي أن المشجعين يسمون النادي به؟",
+    "options": [
+      "الملكي",
+      "العالمي",
+      "فارس الدهناء",
+      "الزعيم"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "nickname_malaki_v2",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q105",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما اللقب الذي يذكر برنامج عضوية الأهلي أن المشجعين يسمون النادي به؟",
+    "options": [
+      "العالمي",
+      "فارس الدهناء",
+      "الزعيم",
+      "الملكي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "nickname_malaki_v3",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q106",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما اللقب الذي يذكر برنامج عضوية الأهلي أن المشجعين يسمون النادي به؟",
+    "options": [
+      "العالمي",
+      "الملكي",
+      "فارس الدهناء",
+      "الزعيم"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "nickname_malaki_v4",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q107",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "ما اللقب الذي أطلقه الأمير سلطان بن فهد على الأهلي بحسب بوابة العضوية؟",
+    "options": [
+      "الراقي",
+      "العميد",
+      "الليث",
+      "سكري القصيم"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "nickname_raqi_v1",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q108",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما اللقب الذي أطلقه الأمير سلطان بن فهد على الأهلي بحسب بوابة العضوية؟",
+    "options": [
+      "الراقي",
+      "سكري القصيم",
+      "الليث",
+      "العميد"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "nickname_raqi_v2",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q109",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما اللقب الذي أطلقه الأمير سلطان بن فهد على الأهلي بحسب بوابة العضوية؟",
+    "options": [
+      "الراقي",
+      "العميد",
+      "سكري القصيم",
+      "الليث"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "nickname_raqi_v3",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q110",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما اللقب الذي أطلقه الأمير سلطان بن فهد على الأهلي بحسب بوابة العضوية؟",
+    "options": [
+      "الليث",
+      "الراقي",
+      "العميد",
+      "سكري القصيم"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "nickname_raqi_v4",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q111",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "أي لقب آخر يذكره موقع عضوية الأهلي للنادي؟",
+    "options": [
+      "نادي القرن",
+      "قلعة الكؤوس",
+      "قلعة الذهب",
+      "فارس نجد"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "nickname_castle_v1",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q112",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، أي لقب آخر يذكره موقع عضوية الأهلي للنادي؟",
+    "options": [
+      "نادي القرن",
+      "فارس نجد",
+      "قلعة الذهب",
+      "قلعة الكؤوس"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "nickname_castle_v2",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q113",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: أي لقب آخر يذكره موقع عضوية الأهلي للنادي؟",
+    "options": [
+      "نادي القرن",
+      "فارس نجد",
+      "قلعة الكؤوس",
+      "قلعة الذهب"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "nickname_castle_v3",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q114",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: أي لقب آخر يذكره موقع عضوية الأهلي للنادي؟",
+    "options": [
+      "قلعة الكؤوس",
+      "قلعة الذهب",
+      "فارس نجد",
+      "نادي القرن"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "nickname_castle_v4",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q115",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "بأي اسم يُعرف الأهلي في البطولات العربية للتفريق بينه وبين أندية الأهلي الأخرى؟",
+    "options": [
+      "أهلي مكة",
+      "أهلي الحجاز",
+      "أهلي جدة",
+      "أهلي الرياض"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "arab_name_v1",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q116",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، بأي اسم يُعرف الأهلي في البطولات العربية للتفريق بينه وبين أندية الأهلي الأخرى؟",
+    "options": [
+      "أهلي مكة",
+      "أهلي الرياض",
+      "أهلي الحجاز",
+      "أهلي جدة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "arab_name_v2",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q117",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: بأي اسم يُعرف الأهلي في البطولات العربية للتفريق بينه وبين أندية الأهلي الأخرى؟",
+    "options": [
+      "أهلي مكة",
+      "أهلي الرياض",
+      "أهلي جدة",
+      "أهلي الحجاز"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "arab_name_v3",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q118",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: بأي اسم يُعرف الأهلي في البطولات العربية للتفريق بينه وبين أندية الأهلي الأخرى؟",
+    "options": [
+      "أهلي مكة",
+      "أهلي الحجاز",
+      "أهلي جدة",
+      "أهلي الرياض"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "arab_name_v4",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q119",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "ما المدينة المسجلة للنادي الأهلي في دليل أندية الاتحاد السعودي لموسم 2026-27؟",
+    "options": [
+      "الرياض",
+      "الدمام",
+      "جدة",
+      "بريدة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "saff_city_v1",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q120",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما المدينة المسجلة للنادي الأهلي في دليل أندية الاتحاد السعودي لموسم 2026-27؟",
+    "options": [
+      "الرياض",
+      "الدمام",
+      "جدة",
+      "بريدة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "saff_city_v2",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q121",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما المدينة المسجلة للنادي الأهلي في دليل أندية الاتحاد السعودي لموسم 2026-27؟",
+    "options": [
+      "بريدة",
+      "جدة",
+      "الرياض",
+      "الدمام"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "saff_city_v3",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q122",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما المدينة المسجلة للنادي الأهلي في دليل أندية الاتحاد السعودي لموسم 2026-27؟",
+    "options": [
+      "الرياض",
+      "الدمام",
+      "جدة",
+      "بريدة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "saff_city_v4",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q123",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "ما سنة تأسيس الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "1956",
+      "1945",
+      "1937",
+      "1927"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "saff_year_v1",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q124",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما سنة تأسيس الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "1945",
+      "1927",
+      "1937",
+      "1956"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "saff_year_v2",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q125",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما سنة تأسيس الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "1937",
+      "1956",
+      "1945",
+      "1927"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "saff_year_v3",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q126",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما سنة تأسيس الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "1945",
+      "1927",
+      "1956",
+      "1937"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "saff_year_v4",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q127",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "أي مكتب تابع له الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "عسير",
+      "جدة",
+      "القصيم",
+      "المنطقة الشرقية"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "saff_office_v1",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q128",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، أي مكتب تابع له الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "جدة",
+      "المنطقة الشرقية",
+      "القصيم",
+      "عسير"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "saff_office_v2",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q129",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: أي مكتب تابع له الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "المنطقة الشرقية",
+      "عسير",
+      "جدة",
+      "القصيم"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "saff_office_v3",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q130",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: أي مكتب تابع له الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "عسير",
+      "القصيم",
+      "المنطقة الشرقية",
+      "جدة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "saff_office_v4",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q131",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "كم نادياً يظهر في أندية الدرجة الممتازة لموسم 2026-27 في صفحة الاتحاد السعودي؟",
+    "options": [
+      "18 نادياً",
+      "20 نادياً",
+      "16 نادياً",
+      "22 نادياً"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "saff_18_v1",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q132",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم نادياً يظهر في أندية الدرجة الممتازة لموسم 2026-27 في صفحة الاتحاد السعودي؟",
+    "options": [
+      "22 نادياً",
+      "20 نادياً",
+      "16 نادياً",
+      "18 نادياً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "saff_18_v2",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q133",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم نادياً يظهر في أندية الدرجة الممتازة لموسم 2026-27 في صفحة الاتحاد السعودي؟",
+    "options": [
+      "16 نادياً",
+      "20 نادياً",
+      "22 نادياً",
+      "18 نادياً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "saff_18_v3",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q134",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم نادياً يظهر في أندية الدرجة الممتازة لموسم 2026-27 في صفحة الاتحاد السعودي؟",
+    "options": [
+      "16 نادياً",
+      "18 نادياً",
+      "22 نادياً",
+      "20 نادياً"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "saff_18_v4",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q135",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ما سعة ملعب مدينة الملك عبدالله الرياضية المذكورة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "61,184 متفرجاً",
+      "70,000 متفرج",
+      "58,000 متفرج",
+      "62,241 متفرجاً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "stadium_capacity_2017_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q136",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما سعة ملعب مدينة الملك عبدالله الرياضية المذكورة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "62,241 متفرجاً",
+      "61,184 متفرجاً",
+      "58,000 متفرج",
+      "70,000 متفرج"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "stadium_capacity_2017_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q137",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما سعة ملعب مدينة الملك عبدالله الرياضية المذكورة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "62,241 متفرجاً",
+      "58,000 متفرج",
+      "70,000 متفرج",
+      "61,184 متفرجاً"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "stadium_capacity_2017_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q138",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما سعة ملعب مدينة الملك عبدالله الرياضية المذكورة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "61,184 متفرجاً",
+      "70,000 متفرج",
+      "62,241 متفرجاً",
+      "58,000 متفرج"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "stadium_capacity_2017_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q139",
+    "category": "الدوري",
+    "type": "text",
+    "question": "بحسب دليل AFC 2017، متى كان آخر لقب دوري للأهلي قبل تتويج 2016؟",
+    "options": [
+      "2005",
+      "1990",
+      "1978",
+      "1984"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "last_before_2016_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q140",
+    "category": "الدوري",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، بحسب دليل AFC 2017، متى كان آخر لقب دوري للأهلي قبل تتويج 2016؟",
+    "options": [
+      "2005",
+      "1984",
+      "1978",
+      "1990"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "last_before_2016_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q141",
+    "category": "الدوري",
+    "type": "text",
+    "question": "في تاريخ الأهلي: بحسب دليل AFC 2017، متى كان آخر لقب دوري للأهلي قبل تتويج 2016؟",
+    "options": [
+      "1978",
+      "2005",
+      "1990",
+      "1984"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "last_before_2016_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q142",
+    "category": "الدوري",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: بحسب دليل AFC 2017، متى كان آخر لقب دوري للأهلي قبل تتويج 2016؟",
+    "options": [
+      "1978",
+      "1990",
+      "2005",
+      "1984"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "last_before_2016_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q143",
+    "category": "الدوري",
+    "type": "text",
+    "question": "بكم نقطة تفوق الأهلي على وصيفه الهلال في دوري 2015-16 بحسب دليل AFC؟",
+    "options": [
+      "6 نقاط",
+      "10 نقاط",
+      "8 نقاط",
+      "4 نقاط"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "lead_8_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q144",
+    "category": "الدوري",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، بكم نقطة تفوق الأهلي على وصيفه الهلال في دوري 2015-16 بحسب دليل AFC؟",
+    "options": [
+      "6 نقاط",
+      "4 نقاط",
+      "10 نقاط",
+      "8 نقاط"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "lead_8_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q145",
+    "category": "الدوري",
+    "type": "text",
+    "question": "في تاريخ الأهلي: بكم نقطة تفوق الأهلي على وصيفه الهلال في دوري 2015-16 بحسب دليل AFC؟",
+    "options": [
+      "6 نقاط",
+      "4 نقاط",
+      "10 نقاط",
+      "8 نقاط"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "lead_8_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q146",
+    "category": "الدوري",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: بكم نقطة تفوق الأهلي على وصيفه الهلال في دوري 2015-16 بحسب دليل AFC؟",
+    "options": [
+      "8 نقاط",
+      "10 نقاط",
+      "6 نقاط",
+      "4 نقاط"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "lead_8_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q147",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "ما نتيجة نهائي كأس الملك 2016 المذكورة في دليل AFC؟",
+    "options": [
+      "1-0 للأهلي على الهلال",
+      "3-1 للأهلي على الاتحاد",
+      "2-0 للأهلي على الشباب",
+      "2-1 للأهلي على النصر"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "kingcup_2016_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q148",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما نتيجة نهائي كأس الملك 2016 المذكورة في دليل AFC؟",
+    "options": [
+      "1-0 للأهلي على الهلال",
+      "2-1 للأهلي على النصر",
+      "2-0 للأهلي على الشباب",
+      "3-1 للأهلي على الاتحاد"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "kingcup_2016_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q149",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما نتيجة نهائي كأس الملك 2016 المذكورة في دليل AFC؟",
+    "options": [
+      "3-1 للأهلي على الاتحاد",
+      "1-0 للأهلي على الهلال",
+      "2-0 للأهلي على الشباب",
+      "2-1 للأهلي على النصر"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "kingcup_2016_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q150",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما نتيجة نهائي كأس الملك 2016 المذكورة في دليل AFC؟",
+    "options": [
+      "2-0 للأهلي على الشباب",
+      "2-1 للأهلي على النصر",
+      "3-1 للأهلي على الاتحاد",
+      "1-0 للأهلي على الهلال"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "kingcup_2016_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q151",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "في أي مركز أنهى الأهلي مجموعته في دوري أبطال آسيا 2016؟",
+    "options": [
+      "الثاني",
+      "الرابع",
+      "الأول",
+      "الثالث"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "acl2016_third_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q152",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في أي مركز أنهى الأهلي مجموعته في دوري أبطال آسيا 2016؟",
+    "options": [
+      "الرابع",
+      "الأول",
+      "الثاني",
+      "الثالث"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "acl2016_third_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q153",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في أي مركز أنهى الأهلي مجموعته في دوري أبطال آسيا 2016؟",
+    "options": [
+      "الثالث",
+      "الأول",
+      "الرابع",
+      "الثاني"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "acl2016_third_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q154",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في أي مركز أنهى الأهلي مجموعته في دوري أبطال آسيا 2016؟",
+    "options": [
+      "الأول",
+      "الرابع",
+      "الثاني",
+      "الثالث"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "acl2016_third_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q155",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "أي فريقين أنهيا مجموعة آسيا 2016 أمام الأهلي بحسب دليل AFC؟",
+    "options": [
+      "بيروزي وباختاكور",
+      "السد والريان",
+      "العين والجيش",
+      "الهلال والنصر"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "acl2016_ahead_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q156",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، أي فريقين أنهيا مجموعة آسيا 2016 أمام الأهلي بحسب دليل AFC؟",
+    "options": [
+      "العين والجيش",
+      "الهلال والنصر",
+      "بيروزي وباختاكور",
+      "السد والريان"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "acl2016_ahead_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q157",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "في تاريخ الأهلي: أي فريقين أنهيا مجموعة آسيا 2016 أمام الأهلي بحسب دليل AFC؟",
+    "options": [
+      "بيروزي وباختاكور",
+      "العين والجيش",
+      "السد والريان",
+      "الهلال والنصر"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "acl2016_ahead_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q158",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: أي فريقين أنهيا مجموعة آسيا 2016 أمام الأهلي بحسب دليل AFC؟",
+    "options": [
+      "العين والجيش",
+      "السد والريان",
+      "بيروزي وباختاكور",
+      "الهلال والنصر"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "acl2016_ahead_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q159",
+    "category": "بطولات الدوري",
+    "type": "text",
+    "question": "أي عام من التالي ورد ضمن ألقاب الدوري الثلاثة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "1988",
+      "1995",
+      "1978",
+      "2008"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "league_year_1978_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q160",
+    "category": "بطولات الدوري",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، أي عام من التالي ورد ضمن ألقاب الدوري الثلاثة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "2008",
+      "1988",
+      "1978",
+      "1995"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "league_year_1978_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q161",
+    "category": "بطولات الدوري",
+    "type": "text",
+    "question": "في تاريخ الأهلي: أي عام من التالي ورد ضمن ألقاب الدوري الثلاثة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "1995",
+      "1978",
+      "2008",
+      "1988"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "league_year_1978_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q162",
+    "category": "بطولات الدوري",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: أي عام من التالي ورد ضمن ألقاب الدوري الثلاثة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "1988",
+      "1995",
+      "1978",
+      "2008"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "league_year_1978_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q163",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "أي سنة من التالية وردت ضمن سنوات تتويج الأهلي بكأس الملك في دليل AFC 2017؟",
+    "options": [
+      "1962",
+      "2009",
+      "1968",
+      "1964"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "king_year_1962_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q164",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، أي سنة من التالية وردت ضمن سنوات تتويج الأهلي بكأس الملك في دليل AFC 2017؟",
+    "options": [
+      "1968",
+      "2009",
+      "1964",
+      "1962"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "king_year_1962_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q165",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "في تاريخ الأهلي: أي سنة من التالية وردت ضمن سنوات تتويج الأهلي بكأس الملك في دليل AFC 2017؟",
+    "options": [
+      "2009",
+      "1962",
+      "1964",
+      "1968"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "king_year_1962_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q166",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: أي سنة من التالية وردت ضمن سنوات تتويج الأهلي بكأس الملك في دليل AFC 2017؟",
+    "options": [
+      "1962",
+      "1964",
+      "1968",
+      "2009"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "king_year_1962_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q167",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "ما ترتيب الأهلي في الدوري عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في الدوري",
+      "الخامس في الدوري",
+      "وصيف الدوري",
+      "بطل الدوري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_league_2016_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q168",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما ترتيب الأهلي في الدوري عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "الخامس في الدوري",
+      "بطل الدوري",
+      "وصيف الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_league_2016_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q169",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما ترتيب الأهلي في الدوري عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل الدوري",
+      "الثالث في الدوري",
+      "الخامس في الدوري",
+      "وصيف الدوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_league_2016_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q170",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما ترتيب الأهلي في الدوري عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "الخامس في الدوري",
+      "بطل الدوري",
+      "وصيف الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_league_2016_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q171",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "ما نتيجة الأهلي في كأس الملك عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل كأس الملك",
+      "وصيف كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_cup_2016_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q172",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما نتيجة الأهلي في كأس الملك عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "وصيف كأس الملك",
+      "الثالث في كأس الملك"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_cup_2016_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q173",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما نتيجة الأهلي في كأس الملك عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16 في كأس الملك",
+      "بطل كأس الملك",
+      "وصيف كأس الملك",
+      "الثالث في كأس الملك"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_cup_2016_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q174",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما نتيجة الأهلي في كأس الملك عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك",
+      "بطل كأس الملك",
+      "وصيف كأس الملك"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "dom_cup_2016_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q175",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "ما ترتيب الأهلي في الدوري عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "الخامس في الدوري",
+      "بطل الدوري",
+      "الثالث في الدوري",
+      "وصيف الدوري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_league_2015_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q176",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما ترتيب الأهلي في الدوري عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "الخامس في الدوري",
+      "الثالث في الدوري",
+      "بطل الدوري",
+      "وصيف الدوري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_league_2015_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q177",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما ترتيب الأهلي في الدوري عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "الخامس في الدوري",
+      "وصيف الدوري",
+      "بطل الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_league_2015_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q178",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما ترتيب الأهلي في الدوري عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في الدوري",
+      "الخامس في الدوري",
+      "وصيف الدوري",
+      "بطل الدوري"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "dom_league_2015_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q179",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "ما نتيجة الأهلي في كأس الملك عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16 في كأس الملك",
+      "وصيف كأس الملك",
+      "الثالث في كأس الملك",
+      "بطل كأس الملك"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_cup_2015_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q180",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما نتيجة الأهلي في كأس الملك عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك",
+      "وصيف كأس الملك",
+      "بطل كأس الملك"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_cup_2015_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q181",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما نتيجة الأهلي في كأس الملك عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك",
+      "بطل كأس الملك"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_cup_2015_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q182",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما نتيجة الأهلي في كأس الملك عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل كأس الملك",
+      "الثالث في كأس الملك",
+      "وصيف كأس الملك",
+      "دور الـ16 في كأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_cup_2015_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q183",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "ما ترتيب الأهلي في الدوري عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل الدوري",
+      "الخامس في الدوري",
+      "وصيف الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_league_2014_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q184",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما ترتيب الأهلي في الدوري عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل الدوري",
+      "وصيف الدوري",
+      "الخامس في الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_league_2014_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q185",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما ترتيب الأهلي في الدوري عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في الدوري",
+      "بطل الدوري",
+      "وصيف الدوري",
+      "الخامس في الدوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_league_2014_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q186",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما ترتيب الأهلي في الدوري عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف الدوري",
+      "الخامس في الدوري",
+      "بطل الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_league_2014_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q187",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "ما نتيجة الأهلي في كأس الملك عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16 في كأس الملك",
+      "بطل كأس الملك",
+      "الثالث في كأس الملك",
+      "وصيف كأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_cup_2014_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q188",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما نتيجة الأهلي في كأس الملك عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "بطل كأس الملك",
+      "وصيف كأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_cup_2014_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q189",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما نتيجة الأهلي في كأس الملك عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك",
+      "بطل كأس الملك",
+      "وصيف كأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_cup_2014_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q190",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما نتيجة الأهلي في كأس الملك عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك",
+      "بطل كأس الملك",
+      "وصيف كأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_cup_2014_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q191",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "ما ترتيب الأهلي في الدوري عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل الدوري",
+      "الخامس في الدوري",
+      "الثالث في الدوري",
+      "وصيف الدوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_league_2013_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q192",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما ترتيب الأهلي في الدوري عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في الدوري",
+      "بطل الدوري",
+      "الخامس في الدوري",
+      "وصيف الدوري"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "dom_league_2013_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q193",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما ترتيب الأهلي في الدوري عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "الخامس في الدوري",
+      "بطل الدوري",
+      "وصيف الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_league_2013_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q194",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما ترتيب الأهلي في الدوري عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "الخامس في الدوري",
+      "بطل الدوري",
+      "وصيف الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_league_2013_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q195",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "ما نتيجة الأهلي في كأس الملك عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل كأس الملك",
+      "الثالث في كأس الملك",
+      "وصيف كأس الملك",
+      "دور الـ16 في كأس الملك"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_cup_2013_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q196",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما نتيجة الأهلي في كأس الملك عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16 في كأس الملك",
+      "وصيف كأس الملك",
+      "بطل كأس الملك",
+      "الثالث في كأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_cup_2013_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q197",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما نتيجة الأهلي في كأس الملك عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل كأس الملك",
+      "وصيف كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_cup_2013_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q198",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما نتيجة الأهلي في كأس الملك عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف كأس الملك",
+      "بطل كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_cup_2013_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q199",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "ما ترتيب الأهلي في الدوري عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في الدوري",
+      "وصيف الدوري",
+      "الخامس في الدوري",
+      "بطل الدوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_league_2012_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q200",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما ترتيب الأهلي في الدوري عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل الدوري",
+      "الخامس في الدوري",
+      "وصيف الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "dom_league_2012_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q201",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما ترتيب الأهلي في الدوري عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل الدوري",
+      "وصيف الدوري",
+      "الثالث في الدوري",
+      "الخامس في الدوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_league_2012_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q202",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما ترتيب الأهلي في الدوري عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل الدوري",
+      "وصيف الدوري",
+      "الثالث في الدوري",
+      "الخامس في الدوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_league_2012_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q203",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "ما نتيجة الأهلي في كأس الملك عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16 في كأس الملك",
+      "بطل كأس الملك",
+      "الثالث في كأس الملك",
+      "وصيف كأس الملك"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_cup_2012_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q204",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما نتيجة الأهلي في كأس الملك عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "وصيف كأس الملك",
+      "بطل كأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_cup_2012_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q205",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما نتيجة الأهلي في كأس الملك عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف كأس الملك",
+      "الثالث في كأس الملك",
+      "بطل كأس الملك",
+      "دور الـ16 في كأس الملك"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "dom_cup_2012_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q206",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما نتيجة الأهلي في كأس الملك عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك",
+      "بطل كأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_cup_2012_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q207",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "دور المجموعات",
+      "دور الـ16",
+      "ربع النهائي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2012_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q208",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور المجموعات",
+      "دور الـ16",
+      "ربع النهائي",
+      "الوصيف"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2012_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q209",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "دور الـ16",
+      "دور المجموعات",
+      "ربع النهائي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2012_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q210",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16",
+      "الوصيف",
+      "دور المجموعات",
+      "ربع النهائي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2012_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q211",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "ربع النهائي",
+      "نصف النهائي",
+      "الوصيف"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2013_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q212",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "البطل",
+      "نصف النهائي",
+      "ربع النهائي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2013_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q213",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "ربع النهائي",
+      "نصف النهائي",
+      "الوصيف",
+      "البطل"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2013_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q214",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "ربع النهائي",
+      "نصف النهائي",
+      "البطل"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2013_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q215",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2005 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "الوصيف",
+      "ربع النهائي",
+      "نصف النهائي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2005_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q216",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2005 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "ربع النهائي",
+      "نصف النهائي",
+      "البطل"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2005_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q217",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2005 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "نصف النهائي",
+      "ربع النهائي",
+      "البطل"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2005_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q218",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2005 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "نصف النهائي",
+      "البطل",
+      "ربع النهائي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2005_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q219",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16",
+      "نصف النهائي",
+      "البطل",
+      "الوصيف"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2015_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q220",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "البطل",
+      "الوصيف",
+      "دور الـ16"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2015_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q221",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "دور الـ16",
+      "الوصيف",
+      "البطل"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2015_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q222",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "البطل",
+      "نصف النهائي",
+      "دور الـ16"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2015_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q223",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "نصف النهائي",
+      "دور المجموعات",
+      "الوصيف"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2016_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q224",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "الوصيف",
+      "دور المجموعات",
+      "نصف النهائي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2016_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q225",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "دور المجموعات",
+      "الوصيف",
+      "البطل"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2016_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q226",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "الوصيف",
+      "نصف النهائي",
+      "دور المجموعات"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2016_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q227",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2010 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "دور المجموعات",
+      "الوصيف",
+      "نصف النهائي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2010_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q228",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2010 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "نصف النهائي",
+      "دور المجموعات",
+      "البطل"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2010_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q229",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2010 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "دور المجموعات",
+      "البطل",
+      "نصف النهائي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2010_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q230",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2010 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "نصف النهائي",
+      "البطل",
+      "دور المجموعات"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2010_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q231",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2008 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور المجموعات",
+      "البطل",
+      "الوصيف",
+      "نصف النهائي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2008_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q232",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2008 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "دور المجموعات",
+      "الوصيف",
+      "البطل"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2008_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q233",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2008 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "الوصيف",
+      "دور المجموعات",
+      "نصف النهائي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2008_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q234",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2008 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "نصف النهائي",
+      "البطل",
+      "دور المجموعات"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2008_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q235",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2003 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "الوصيف",
+      "البطل",
+      "الدور التأهيلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2003_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q236",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2003 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "الوصيف",
+      "نصف النهائي",
+      "الدور التأهيلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2003_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q237",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2003 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "نصف النهائي",
+      "الدور التأهيلي",
+      "الوصيف"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2003_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q238",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2003 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "الوصيف",
+      "الدور التأهيلي",
+      "البطل"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2003_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q239",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "إلى أي مرحلة وصل الأهلي في بطولة الأندية الآسيوية 1986 بحسب دليل AFC 2017؟",
+    "options": [
+      "ربع النهائي",
+      "دور الـ16",
+      "الوصيف",
+      "دور المجموعات"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_بطولة الأندية الآسيوية 1986_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q240",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في بطولة الأندية الآسيوية 1986 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "دور الـ16",
+      "دور المجموعات",
+      "ربع النهائي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_بطولة الأندية الآسيوية 1986_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q241",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في بطولة الأندية الآسيوية 1986 بحسب دليل AFC 2017؟",
+    "options": [
+      "ربع النهائي",
+      "دور المجموعات",
+      "دور الـ16",
+      "الوصيف"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_بطولة الأندية الآسيوية 1986_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q242",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في بطولة الأندية الآسيوية 1986 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16",
+      "ربع النهائي",
+      "الوصيف",
+      "دور المجموعات"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_بطولة الأندية الآسيوية 1986_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q243",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "إلى أي مرحلة وصل الأهلي في كأس الكؤوس الآسيوية 2000 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "البطل",
+      "الوصيف",
+      "ربع النهائي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_كأس الكؤوس الآسيوية 2000_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q244",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في كأس الكؤوس الآسيوية 2000 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "ربع النهائي",
+      "نصف النهائي",
+      "الوصيف"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_كأس الكؤوس الآسيوية 2000_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q245",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في كأس الكؤوس الآسيوية 2000 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "الوصيف",
+      "ربع النهائي",
+      "نصف النهائي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_كأس الكؤوس الآسيوية 2000_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q246",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في كأس الكؤوس الآسيوية 2000 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "ربع النهائي",
+      "البطل",
+      "الوصيف"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_كأس الكؤوس الآسيوية 2000_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q247",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 21 فبراير 2017؟",
+    "options": [
+      "بونيودكور",
+      "الجزيرة",
+      "العين",
+      "الاتحاد"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_1_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q248",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام بونيودكور في دور المجموعات بتاريخ 21 فبراير 2017؟",
+    "options": [
+      "2-0",
+      "2-1",
+      "1-0",
+      "0-2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_1_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q249",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام بونيودكور في 21 فبراير 2017؟",
+    "options": [
+      "فاز الأهلي",
+      "أُلغيت المباراة",
+      "خسر الأهلي",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "m2017_1_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q250",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع بونيودكور بتاريخ 21 فبراير 2017 وفق سجل AFC؟",
+    "options": [
+      "لم تُلعب",
+      "خارج أرض الأهلي",
+      "على أرض الأهلي",
+      "على أرض محايدة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_1_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q251",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 28 فبراير 2017؟",
+    "options": [
+      "الاستقلال",
+      "ذوب آهن",
+      "الجزيرة",
+      "الاتحاد"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2017_2_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q252",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام ذوب آهن في دور المجموعات بتاريخ 28 فبراير 2017؟",
+    "options": [
+      "1-1",
+      "1-2",
+      "2-2",
+      "2-1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_2_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q253",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام ذوب آهن في 28 فبراير 2017؟",
+    "options": [
+      "خسر الأهلي",
+      "تعادل الأهلي",
+      "أُلغيت المباراة",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2017_2_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q254",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع ذوب آهن بتاريخ 28 فبراير 2017 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "لم تُلعب",
+      "على أرض الأهلي",
+      "على أرض محايدة"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_2_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q255",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 13 مارس 2017؟",
+    "options": [
+      "بونيودكور",
+      "شباب الأهلي",
+      "العين",
+      "تراكتور"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_3_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q256",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام العين في دور المجموعات بتاريخ 13 مارس 2017؟",
+    "options": [
+      "1-2",
+      "3-0",
+      "2-3",
+      "2-2"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_3_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q257",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام العين في 13 مارس 2017؟",
+    "options": [
+      "أُلغيت المباراة",
+      "خسر الأهلي",
+      "تعادل الأهلي",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2017_3_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q258",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع العين بتاريخ 13 مارس 2017 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "على أرض الأهلي",
+      "على أرض محايدة",
+      "لم تُلعب"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2017_3_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q259",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 11 أبريل 2017؟",
+    "options": [
+      "الهلال",
+      "العين",
+      "السد",
+      "باختاكور"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2017_4_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q260",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام العين في دور المجموعات بتاريخ 11 أبريل 2017؟",
+    "options": [
+      "1-2",
+      "3-0",
+      "2-3",
+      "2-2"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_4_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q261",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام العين في 11 أبريل 2017؟",
+    "options": [
+      "أُلغيت المباراة",
+      "فاز الأهلي",
+      "تعادل الأهلي",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2017_4_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q262",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع العين بتاريخ 11 أبريل 2017 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "على أرض الأهلي",
+      "لم تُلعب",
+      "على أرض محايدة"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_4_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q263",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 24 أبريل 2017؟",
+    "options": [
+      "بيروزي",
+      "بونيودكور",
+      "النصر",
+      "ذوب آهن"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2017_5_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q264",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام بونيودكور في دور المجموعات بتاريخ 24 أبريل 2017؟",
+    "options": [
+      "2-0",
+      "0-3",
+      "0-2",
+      "0-0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_5_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q265",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام بونيودكور في 24 أبريل 2017؟",
+    "options": [
+      "خسر الأهلي",
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "m2017_5_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q266",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع بونيودكور بتاريخ 24 أبريل 2017 وفق سجل AFC؟",
+    "options": [
+      "على أرض الأهلي",
+      "على أرض محايدة",
+      "خارج أرض الأهلي",
+      "لم تُلعب"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_5_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q267",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 8 مايو 2017؟",
+    "options": [
+      "الشرطة",
+      "النصر",
+      "الهلال",
+      "ذوب آهن"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_6_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q268",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام ذوب آهن في دور المجموعات بتاريخ 8 مايو 2017؟",
+    "options": [
+      "2-1",
+      "0-2",
+      "1-0",
+      "2-0"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_6_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q269",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام ذوب آهن في 8 مايو 2017؟",
+    "options": [
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "فاز الأهلي",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2017_6_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q270",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع ذوب آهن بتاريخ 8 مايو 2017 وفق سجل AFC؟",
+    "options": [
+      "لم تُلعب",
+      "خارج أرض الأهلي",
+      "على أرض محايدة",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_6_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q271",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور الـ16 - الذهاب يوم 22 مايو 2017؟",
+    "options": [
+      "الأهلي الإماراتي",
+      "تراكتور",
+      "النصر",
+      "الهلال"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_7_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q272",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الأهلي الإماراتي في دور الـ16 - الذهاب بتاريخ 22 مايو 2017؟",
+    "options": [
+      "0-1",
+      "1-1",
+      "4-0",
+      "1-2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2017_7_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q273",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الأهلي الإماراتي في 22 مايو 2017؟",
+    "options": [
+      "تعادل الأهلي",
+      "خسر الأهلي",
+      "فاز الأهلي",
+      "أُلغيت المباراة"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "m2017_7_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q274",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الأهلي الإماراتي بتاريخ 22 مايو 2017 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "لم تُلعب",
+      "على أرض الأهلي",
+      "على أرض محايدة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_7_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q275",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور الـ16 - الإياب يوم 29 مايو 2017؟",
+    "options": [
+      "الاستقلال",
+      "بيروزي",
+      "الأهلي الإماراتي",
+      "العين"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_8_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q276",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الأهلي الإماراتي في دور الـ16 - الإياب بتاريخ 29 مايو 2017؟",
+    "options": [
+      "1-3",
+      "3-2",
+      "2-1",
+      "3-1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_8_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q277",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الأهلي الإماراتي في 29 مايو 2017؟",
+    "options": [
+      "خسر الأهلي",
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2017_8_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q278",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الأهلي الإماراتي بتاريخ 29 مايو 2017 وفق سجل AFC؟",
+    "options": [
+      "على أرض الأهلي",
+      "على أرض محايدة",
+      "لم تُلعب",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_8_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q279",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "من كان خصم الأهلي في ربع النهائي - الذهاب يوم 22 أغسطس 2017؟",
+    "options": [
+      "الشرطة",
+      "بيروزي",
+      "السد",
+      "باختاكور"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2017_9_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q280",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام بيروزي في ربع النهائي - الذهاب بتاريخ 22 أغسطس 2017؟",
+    "options": [
+      "2-3",
+      "1-2",
+      "2-2",
+      "خيار 1"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_9_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q281",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام بيروزي في 22 أغسطس 2017؟",
+    "options": [
+      "فاز الأهلي",
+      "تعادل الأهلي",
+      "خسر الأهلي",
+      "أُلغيت المباراة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2017_9_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q282",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع بيروزي بتاريخ 22 أغسطس 2017 وفق سجل AFC؟",
+    "options": [
+      "لم تُلعب",
+      "خارج أرض الأهلي",
+      "على أرض الأهلي",
+      "على أرض محايدة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2017_9_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q283",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "من كان خصم الأهلي في ربع النهائي - الإياب يوم 12 سبتمبر 2017؟",
+    "options": [
+      "بونيودكور",
+      "الاستقلال",
+      "بيروزي",
+      "شباب الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_10_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q284",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام بيروزي في ربع النهائي - الإياب بتاريخ 12 سبتمبر 2017؟",
+    "options": [
+      "0-3",
+      "3-1",
+      "1-3",
+      "1-4"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_10_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q285",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام بيروزي في 12 سبتمبر 2017؟",
+    "options": [
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "خسر الأهلي",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2017_10_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q286",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع بيروزي بتاريخ 12 سبتمبر 2017 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "خارج أرض الأهلي",
+      "لم تُلعب",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_10_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q287",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 12 فبراير 2018؟",
+    "options": [
+      "تراكتور",
+      "باختاكور",
+      "شباب الأهلي",
+      "السد"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2018_1_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q288",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام تراكتور في دور المجموعات بتاريخ 12 فبراير 2018؟",
+    "options": [
+      "1-0",
+      "0-1",
+      "1-1",
+      "0-0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2018_1_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q289",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام تراكتور في 12 فبراير 2018؟",
+    "options": [
+      "تعادل الأهلي",
+      "فاز الأهلي",
+      "أُلغيت المباراة",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2018_1_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q290",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع تراكتور بتاريخ 12 فبراير 2018 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "لم تُلعب",
+      "خارج أرض الأهلي",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_1_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q291",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 19 فبراير 2018؟",
+    "options": [
+      "الجزيرة",
+      "شباب الأهلي",
+      "بيروزي",
+      "الاستقلال"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2018_2_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q292",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الجزيرة في دور المجموعات بتاريخ 19 فبراير 2018؟",
+    "options": [
+      "1-2",
+      "1-1",
+      "2-2",
+      "2-1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_2_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q293",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الجزيرة في 19 فبراير 2018؟",
+    "options": [
+      "فاز الأهلي",
+      "تعادل الأهلي",
+      "أُلغيت المباراة",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "m2018_2_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q294",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الجزيرة بتاريخ 19 فبراير 2018 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "لم تُلعب",
+      "على أرض الأهلي",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_2_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q295",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 5 مارس 2018؟",
+    "options": [
+      "العين",
+      "الشرطة",
+      "الاستقلال",
+      "الغرافة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_3_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q296",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الغرافة في دور المجموعات بتاريخ 5 مارس 2018؟",
+    "options": [
+      "1-4",
+      "0-1",
+      "1-2",
+      "1-1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_3_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q297",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الغرافة في 5 مارس 2018؟",
+    "options": [
+      "أُلغيت المباراة",
+      "فاز الأهلي",
+      "خسر الأهلي",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2018_3_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q298",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الغرافة بتاريخ 5 مارس 2018 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "على أرض الأهلي",
+      "لم تُلعب",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_3_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q299",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 13 مارس 2018؟",
+    "options": [
+      "الاستقلال",
+      "تراكتور",
+      "الغرافة",
+      "الجزيرة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_4_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q300",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الغرافة في دور المجموعات بتاريخ 13 مارس 2018؟",
+    "options": [
+      "1-0",
+      "0-1",
+      "1-2",
+      "1-1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_4_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q301",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الغرافة في 13 مارس 2018؟",
+    "options": [
+      "فاز الأهلي",
+      "تعادل الأهلي",
+      "خسر الأهلي",
+      "أُلغيت المباراة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2018_4_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q302",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الغرافة بتاريخ 13 مارس 2018 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "خارج أرض الأهلي",
+      "على أرض الأهلي",
+      "لم تُلعب"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_4_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q303",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 3 أبريل 2018؟",
+    "options": [
+      "ذوب آهن",
+      "تراكتور",
+      "شباب الأهلي",
+      "السد"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2018_5_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q304",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام تراكتور في دور المجموعات بتاريخ 3 أبريل 2018؟",
+    "options": [
+      "1-0",
+      "2-0",
+      "0-2",
+      "2-1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2018_5_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q305",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام تراكتور في 3 أبريل 2018؟",
+    "options": [
+      "أُلغيت المباراة",
+      "فاز الأهلي",
+      "خسر الأهلي",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2018_5_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q306",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع تراكتور بتاريخ 3 أبريل 2018 وفق سجل AFC؟",
+    "options": [
+      "على أرض الأهلي",
+      "على أرض محايدة",
+      "لم تُلعب",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2018_5_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q307",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 17 أبريل 2018؟",
+    "options": [
+      "الجزيرة",
+      "الاستقلال",
+      "السد",
+      "ذوب آهن"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2018_6_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q308",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الجزيرة في دور المجموعات بتاريخ 17 أبريل 2018؟",
+    "options": [
+      "1-2",
+      "2-2",
+      "2-1",
+      "1-1"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_6_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q309",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الجزيرة في 17 أبريل 2018؟",
+    "options": [
+      "خسر الأهلي",
+      "فاز الأهلي",
+      "أُلغيت المباراة",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2018_6_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q310",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الجزيرة بتاريخ 17 أبريل 2018 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "على أرض محايدة",
+      "لم تُلعب",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2018_6_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q311",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور الـ16 - الذهاب يوم 7 مايو 2018؟",
+    "options": [
+      "تراكتور",
+      "ذوب آهن",
+      "بونيودكور",
+      "السد"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_7_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q312",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام السد في دور الـ16 - الذهاب بتاريخ 7 مايو 2018؟",
+    "options": [
+      "1-2",
+      "2-1",
+      "0-2",
+      "1-3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2018_7_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q313",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام السد في 7 مايو 2018؟",
+    "options": [
+      "أُلغيت المباراة",
+      "خسر الأهلي",
+      "فاز الأهلي",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2018_7_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q314",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع السد بتاريخ 7 مايو 2018 وفق سجل AFC؟",
+    "options": [
+      "لم تُلعب",
+      "على أرض محايدة",
+      "على أرض الأهلي",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_7_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q315",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور الـ16 - الإياب يوم 14 مايو 2018؟",
+    "options": [
+      "الاستقلال",
+      "الهلال",
+      "النصر",
+      "السد"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_8_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q316",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام السد في دور الـ16 - الإياب بتاريخ 14 مايو 2018؟",
+    "options": [
+      "2-3",
+      "1-2",
+      "3-3",
+      "2-2"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_8_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q317",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام السد في 14 مايو 2018؟",
+    "options": [
+      "فاز الأهلي",
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2018_8_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q318",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع السد بتاريخ 14 مايو 2018 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "على أرض الأهلي",
+      "خارج أرض الأهلي",
+      "لم تُلعب"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2018_8_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q319",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "من كان خصم الأهلي في الدور التأهيلي يوم 28 يناير 2020؟",
+    "options": [
+      "الهلال",
+      "شباب الأهلي",
+      "استقلال دوشنبه",
+      "العين"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_1_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q320",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام استقلال دوشنبه في الدور التأهيلي بتاريخ 28 يناير 2020؟",
+    "options": [
+      "1-1",
+      "0-1",
+      "1-0",
+      "0-0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_1_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q321",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام استقلال دوشنبه في 28 يناير 2020؟",
+    "options": [
+      "فاز الأهلي",
+      "خسر الأهلي",
+      "أُلغيت المباراة",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "m2020_1_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q322",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع استقلال دوشنبه بتاريخ 28 يناير 2020 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "على أرض الأهلي",
+      "لم تُلعب",
+      "على أرض محايدة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2020_1_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q323",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 10 فبراير 2020؟",
+    "options": [
+      "الوحدة الإماراتي",
+      "تراكتور",
+      "الهلال",
+      "الاتحاد"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2020_2_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q324",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الوحدة الإماراتي في دور المجموعات بتاريخ 10 فبراير 2020؟",
+    "options": [
+      "0-1",
+      "0-4",
+      "1-1",
+      "1-2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_2_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q325",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الوحدة الإماراتي في 10 فبراير 2020؟",
+    "options": [
+      "خسر الأهلي",
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2020_2_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q326",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الوحدة الإماراتي بتاريخ 10 فبراير 2020 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "لم تُلعب",
+      "على أرض الأهلي",
+      "على أرض محايدة"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2020_2_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q327",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 17 فبراير 2020؟",
+    "options": [
+      "ذوب آهن",
+      "الغرافة",
+      "الاستقلال الإيراني",
+      "الشرطة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_3_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q328",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الاستقلال الإيراني في دور المجموعات بتاريخ 17 فبراير 2020؟",
+    "options": [
+      "1-1",
+      "2-1",
+      "1-2",
+      "2-2"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2020_3_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q329",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الاستقلال الإيراني في 17 فبراير 2020؟",
+    "options": [
+      "تعادل الأهلي",
+      "خسر الأهلي",
+      "أُلغيت المباراة",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2020_3_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q330",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الاستقلال الإيراني بتاريخ 17 فبراير 2020 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "لم تُلعب",
+      "على أرض الأهلي",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_3_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q331",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 14 سبتمبر 2020؟",
+    "options": [
+      "النصر",
+      "ذوب آهن",
+      "تراكتور",
+      "الشرطة العراقي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2020_4_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q332",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الشرطة العراقي في دور المجموعات بتاريخ 14 سبتمبر 2020؟",
+    "options": [
+      "1-1",
+      "1-0",
+      "0-1",
+      "0-0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2020_4_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q333",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الشرطة العراقي في 14 سبتمبر 2020؟",
+    "options": [
+      "تعادل الأهلي",
+      "فاز الأهلي",
+      "أُلغيت المباراة",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2020_4_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q334",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الشرطة العراقي بتاريخ 14 سبتمبر 2020 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "لم تُلعب",
+      "خارج أرض الأهلي",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2020_4_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q335",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 17 سبتمبر 2020؟",
+    "options": [
+      "الشرطة العراقي",
+      "الجزيرة",
+      "ذوب آهن",
+      "بونيودكور"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2020_5_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q336",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الشرطة العراقي في دور المجموعات بتاريخ 17 سبتمبر 2020؟",
+    "options": [
+      "0-2",
+      "1-3",
+      "1-2",
+      "2-1"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_5_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q337",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الشرطة العراقي في 17 سبتمبر 2020؟",
+    "options": [
+      "خسر الأهلي",
+      "تعادل الأهلي",
+      "فاز الأهلي",
+      "أُلغيت المباراة"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "m2020_5_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q338",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الشرطة العراقي بتاريخ 17 سبتمبر 2020 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "على أرض الأهلي",
+      "خارج أرض الأهلي",
+      "لم تُلعب"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_5_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q339",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور المجموعات يوم 23 سبتمبر 2020؟",
+    "options": [
+      "الغرافة",
+      "السد",
+      "الاستقلال الإيراني",
+      "بيروزي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_6_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q340",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الاستقلال الإيراني في دور المجموعات بتاريخ 23 سبتمبر 2020؟",
+    "options": [
+      "0-0",
+      "0-3",
+      "0-4",
+      "3-0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2020_6_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q341",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الاستقلال الإيراني في 23 سبتمبر 2020؟",
+    "options": [
+      "تعادل الأهلي",
+      "خسر الأهلي",
+      "أُلغيت المباراة",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2020_6_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q342",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الاستقلال الإيراني بتاريخ 23 سبتمبر 2020 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "على أرض الأهلي",
+      "لم تُلعب",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2020_6_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q343",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور الـ16 يوم 26 سبتمبر 2020؟",
+    "options": [
+      "شباب الأهلي",
+      "تراكتور",
+      "باختاكور",
+      "بيروزي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2020_7_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q344",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام شباب الأهلي في دور الـ16 بتاريخ 26 سبتمبر 2020؟",
+    "options": [
+      "1-1",
+      "3-3",
+      "0-1",
+      "1-2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2020_7_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q345",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام شباب الأهلي في 26 سبتمبر 2020؟",
+    "options": [
+      "خسر الأهلي",
+      "فاز الأهلي",
+      "تعادل الأهلي",
+      "أُلغيت المباراة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2020_7_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q346",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع شباب الأهلي بتاريخ 26 سبتمبر 2020 وفق سجل AFC؟",
+    "options": [
+      "لم تُلعب",
+      "على أرض محايدة",
+      "على أرض الأهلي",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_7_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q347",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "من كان خصم الأهلي في ربع النهائي يوم 30 سبتمبر 2020؟",
+    "options": [
+      "بيروزي",
+      "النصر",
+      "باختاكور",
+      "الجزيرة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2020_8_opp",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q348",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام النصر في ربع النهائي بتاريخ 30 سبتمبر 2020؟",
+    "options": [
+      "2-0",
+      "4-4",
+      "0-2",
+      "0-3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_8_score",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q349",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام النصر في 30 سبتمبر 2020؟",
+    "options": [
+      "أُلغيت المباراة",
+      "خسر الأهلي",
+      "فاز الأهلي",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2020_8_result",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q350",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع النصر بتاريخ 30 سبتمبر 2020 وفق سجل AFC؟",
+    "options": [
+      "لم تُلعب",
+      "على أرض الأهلي",
+      "خارج أرض الأهلي",
+      "على أرض محايدة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_8_home",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q351",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "من كان خصم الأهلي في دور الـ16 يوم 22 مايو 2012؟",
+    "options": [
+      "الجزيرة الإماراتي",
+      "تراكتور",
+      "الغرافة",
+      "الهلال"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2012_1_opp",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q352",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الجزيرة الإماراتي في دور الـ16 بتاريخ 22 مايو 2012؟",
+    "options": [
+      "2-1",
+      "3-4",
+      "3-3",
+      "2-3"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2012_1_score",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q353",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الجزيرة الإماراتي في 22 مايو 2012؟",
+    "options": [
+      "خسر الأهلي",
+      "تعادل الأهلي",
+      "فاز الأهلي",
+      "أُلغيت المباراة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2012_1_result",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q354",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الجزيرة الإماراتي بتاريخ 22 مايو 2012 وفق سجل AFC؟",
+    "options": [
+      "لم تُلعب",
+      "على أرض محايدة",
+      "على أرض الأهلي",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2012_1_home",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q355",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "من كان خصم الأهلي في ربع النهائي - الذهاب يوم 19 سبتمبر 2012؟",
+    "options": [
+      "الغرافة",
+      "الاستقلال",
+      "سباهان",
+      "الاتحاد"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2012_2_opp",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q356",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام سباهان في ربع النهائي - الذهاب بتاريخ 19 سبتمبر 2012؟",
+    "options": [
+      "0-1",
+      "1-0",
+      "0-0",
+      "3-0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2012_2_score",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q357",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام سباهان في 19 سبتمبر 2012؟",
+    "options": [
+      "فاز الأهلي",
+      "أُلغيت المباراة",
+      "خسر الأهلي",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2012_2_result",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q358",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع سباهان بتاريخ 19 سبتمبر 2012 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "على أرض الأهلي",
+      "لم تُلعب",
+      "على أرض محايدة"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2012_2_home",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q359",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "من كان خصم الأهلي في ربع النهائي - الإياب يوم 2 أكتوبر 2012؟",
+    "options": [
+      "سباهان",
+      "بيروزي",
+      "ذوب آهن",
+      "الهلال"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2012_3_opp",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q360",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام سباهان في ربع النهائي - الإياب بتاريخ 2 أكتوبر 2012؟",
+    "options": [
+      "4-1",
+      "4-2",
+      "1-4",
+      "3-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2012_3_score",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q361",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام سباهان في 2 أكتوبر 2012؟",
+    "options": [
+      "خسر الأهلي",
+      "أُلغيت المباراة",
+      "فاز الأهلي",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2012_3_result",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q362",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع سباهان بتاريخ 2 أكتوبر 2012 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "لم تُلعب",
+      "على أرض الأهلي",
+      "على أرض محايدة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2012_3_home",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q363",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "من كان خصم الأهلي في نصف النهائي - الذهاب يوم 24 أكتوبر 2012؟",
+    "options": [
+      "بيروزي",
+      "الغرافة",
+      "الاستقلال",
+      "الاتحاد"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2012_4_opp",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q364",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الاتحاد في نصف النهائي - الذهاب بتاريخ 24 أكتوبر 2012؟",
+    "options": [
+      "3-2",
+      "1-0",
+      "0-1",
+      "0-2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2012_4_score",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q365",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الاتحاد في 24 أكتوبر 2012؟",
+    "options": [
+      "تعادل الأهلي",
+      "خسر الأهلي",
+      "أُلغيت المباراة",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2012_4_result",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q366",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الاتحاد بتاريخ 24 أكتوبر 2012 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "على أرض الأهلي",
+      "على أرض محايدة",
+      "لم تُلعب"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2012_4_home",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q367",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "من كان خصم الأهلي في نصف النهائي - الإياب يوم 31 أكتوبر 2012؟",
+    "options": [
+      "النصر",
+      "ذوب آهن",
+      "بونيودكور",
+      "الاتحاد"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2012_5_opp",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q368",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام الاتحاد في نصف النهائي - الإياب بتاريخ 31 أكتوبر 2012؟",
+    "options": [
+      "2-0",
+      "2-1",
+      "1-0",
+      "0-2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2012_5_score",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q369",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الاتحاد في 31 أكتوبر 2012؟",
+    "options": [
+      "تعادل الأهلي",
+      "فاز الأهلي",
+      "خسر الأهلي",
+      "أُلغيت المباراة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2012_5_result",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q370",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع الاتحاد بتاريخ 31 أكتوبر 2012 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "خارج أرض الأهلي",
+      "على أرض الأهلي",
+      "لم تُلعب"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2012_5_home",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q371",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "من كان خصم الأهلي في النهائي يوم 10 نوفمبر 2012؟",
+    "options": [
+      "الاتحاد",
+      "شباب الأهلي",
+      "أولسان هيونداي",
+      "النصر"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2012_6_opp",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q372",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ما نتيجة الأهلي أمام أولسان هيونداي في النهائي بتاريخ 10 نوفمبر 2012؟",
+    "options": [
+      "0-3",
+      "3-0",
+      "1-2",
+      "0-4"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2012_6_score",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q373",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام أولسان هيونداي في 10 نوفمبر 2012؟",
+    "options": [
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "خسر الأهلي",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2012_6_result",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q374",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "أين لُعبت مواجهة الأهلي مع أولسان هيونداي بتاريخ 10 نوفمبر 2012 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "خارج أرض الأهلي",
+      "على أرض الأهلي",
+      "لم تُلعب"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2012_6_home",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q375",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "كيف تأهل الأهلي من دور الـ16 أمام الجزيرة بعد التعادل 3-3؟",
+    "options": [
+      "تأهل بقاعدة الهدف خارج الأرض",
+      "فاز 4-2 بركلات الترجيح",
+      "فاز بهدف ذهبي",
+      "فاز 3-2 بعد الوقت الإضافي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "pen_jazira_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q376",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كيف تأهل الأهلي من دور الـ16 أمام الجزيرة بعد التعادل 3-3؟",
+    "options": [
+      "فاز 4-2 بركلات الترجيح",
+      "فاز بهدف ذهبي",
+      "فاز 3-2 بعد الوقت الإضافي",
+      "تأهل بقاعدة الهدف خارج الأرض"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "pen_jazira_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q377",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كيف تأهل الأهلي من دور الـ16 أمام الجزيرة بعد التعادل 3-3؟",
+    "options": [
+      "فاز بهدف ذهبي",
+      "فاز 3-2 بعد الوقت الإضافي",
+      "فاز 4-2 بركلات الترجيح",
+      "تأهل بقاعدة الهدف خارج الأرض"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "pen_jazira_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q378",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كيف تأهل الأهلي من دور الـ16 أمام الجزيرة بعد التعادل 3-3؟",
+    "options": [
+      "فاز بهدف ذهبي",
+      "تأهل بقاعدة الهدف خارج الأرض",
+      "فاز 4-2 بركلات الترجيح",
+      "فاز 3-2 بعد الوقت الإضافي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "pen_jazira_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q379",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ما مجموع مباراتي الأهلي وسباهان في ربع نهائي آسيا 2012؟",
+    "options": [
+      "4-2 للأهلي",
+      "2-1 للأهلي",
+      "4-1 للأهلي",
+      "3-1 للأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "agg_sepahan_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q380",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما مجموع مباراتي الأهلي وسباهان في ربع نهائي آسيا 2012؟",
+    "options": [
+      "4-2 للأهلي",
+      "3-1 للأهلي",
+      "4-1 للأهلي",
+      "2-1 للأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "agg_sepahan_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q381",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما مجموع مباراتي الأهلي وسباهان في ربع نهائي آسيا 2012؟",
+    "options": [
+      "4-1 للأهلي",
+      "2-1 للأهلي",
+      "3-1 للأهلي",
+      "4-2 للأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "agg_sepahan_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q382",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما مجموع مباراتي الأهلي وسباهان في ربع نهائي آسيا 2012؟",
+    "options": [
+      "4-1 للأهلي",
+      "4-2 للأهلي",
+      "2-1 للأهلي",
+      "3-1 للأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "agg_sepahan_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q383",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "ما مجموع مباراتي الأهلي والاتحاد في نصف نهائي آسيا 2012؟",
+    "options": [
+      "2-0 للأهلي",
+      "3-1 للأهلي",
+      "2-1 للأهلي",
+      "1-1"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "agg_ittihad_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q384",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما مجموع مباراتي الأهلي والاتحاد في نصف نهائي آسيا 2012؟",
+    "options": [
+      "3-1 للأهلي",
+      "1-1",
+      "2-0 للأهلي",
+      "2-1 للأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "agg_ittihad_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q385",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما مجموع مباراتي الأهلي والاتحاد في نصف نهائي آسيا 2012؟",
+    "options": [
+      "2-1 للأهلي",
+      "3-1 للأهلي",
+      "1-1",
+      "2-0 للأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "agg_ittihad_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q386",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما مجموع مباراتي الأهلي والاتحاد في نصف نهائي آسيا 2012؟",
+    "options": [
+      "1-1",
+      "2-1 للأهلي",
+      "3-1 للأهلي",
+      "2-0 للأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "agg_ittihad_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q387",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "في أي ملعب أُقيم نهائي آسيا 2012 بين الأهلي وأولسان؟",
+    "options": [
+      "ملعب هزاع بن زايد",
+      "استاد سيؤول",
+      "ملعب أولسان مونسو",
+      "مدينة الملك عبدالله الرياضية"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "ulsan_stadium_v1",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q388",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في أي ملعب أُقيم نهائي آسيا 2012 بين الأهلي وأولسان؟",
+    "options": [
+      "مدينة الملك عبدالله الرياضية",
+      "ملعب أولسان مونسو",
+      "استاد سيؤول",
+      "ملعب هزاع بن زايد"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "ulsan_stadium_v2",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q389",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في أي ملعب أُقيم نهائي آسيا 2012 بين الأهلي وأولسان؟",
+    "options": [
+      "ملعب هزاع بن زايد",
+      "ملعب أولسان مونسو",
+      "مدينة الملك عبدالله الرياضية",
+      "استاد سيؤول"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "ulsan_stadium_v3",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q390",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في أي ملعب أُقيم نهائي آسيا 2012 بين الأهلي وأولسان؟",
+    "options": [
+      "مدينة الملك عبدالله الرياضية",
+      "ملعب هزاع بن زايد",
+      "ملعب أولسان مونسو",
+      "استاد سيؤول"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "ulsan_stadium_v4",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q391",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "كم هدفاً سجل عمر السومة في الدوري بقميص الأهلي بحسب رابطة الدوري السعودي؟",
+    "options": [
+      "154 هدفاً",
+      "124 هدفاً",
+      "134 هدفاً",
+      "144 هدفاً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "somah_goals_v1",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q392",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم هدفاً سجل عمر السومة في الدوري بقميص الأهلي بحسب رابطة الدوري السعودي؟",
+    "options": [
+      "134 هدفاً",
+      "124 هدفاً",
+      "144 هدفاً",
+      "154 هدفاً"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_goals_v2",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q393",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم هدفاً سجل عمر السومة في الدوري بقميص الأهلي بحسب رابطة الدوري السعودي؟",
+    "options": [
+      "144 هدفاً",
+      "124 هدفاً",
+      "134 هدفاً",
+      "154 هدفاً"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "somah_goals_v3",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q394",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم هدفاً سجل عمر السومة في الدوري بقميص الأهلي بحسب رابطة الدوري السعودي؟",
+    "options": [
+      "154 هدفاً",
+      "134 هدفاً",
+      "144 هدفاً",
+      "124 هدفاً"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_goals_v4",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q395",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في كم مباراة دوري سجل عمر السومة 144 هدفاً مع الأهلي؟",
+    "options": [
+      "200 مباراة",
+      "180 مباراة",
+      "170 مباراة",
+      "160 مباراة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "somah_apps_v1",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q396",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في كم مباراة دوري سجل عمر السومة 144 هدفاً مع الأهلي؟",
+    "options": [
+      "200 مباراة",
+      "160 مباراة",
+      "170 مباراة",
+      "180 مباراة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "somah_apps_v2",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q397",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في كم مباراة دوري سجل عمر السومة 144 هدفاً مع الأهلي؟",
+    "options": [
+      "170 مباراة",
+      "200 مباراة",
+      "160 مباراة",
+      "180 مباراة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "somah_apps_v3",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q398",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في كم مباراة دوري سجل عمر السومة 144 هدفاً مع الأهلي؟",
+    "options": [
+      "180 مباراة",
+      "160 مباراة",
+      "170 مباراة",
+      "200 مباراة"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "somah_apps_v4",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q399",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "كم موسماً قضى عمر السومة مع الأهلي وفق رابطة الدوري؟",
+    "options": [
+      "7 مواسم",
+      "6 مواسم",
+      "8 مواسم",
+      "9 مواسم"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_seasons_v1",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q400",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم موسماً قضى عمر السومة مع الأهلي وفق رابطة الدوري؟",
+    "options": [
+      "7 مواسم",
+      "9 مواسم",
+      "8 مواسم",
+      "6 مواسم"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_seasons_v2",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q401",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم موسماً قضى عمر السومة مع الأهلي وفق رابطة الدوري؟",
+    "options": [
+      "6 مواسم",
+      "9 مواسم",
+      "8 مواسم",
+      "7 مواسم"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_seasons_v3",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q402",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم موسماً قضى عمر السومة مع الأهلي وفق رابطة الدوري؟",
+    "options": [
+      "8 مواسم",
+      "6 مواسم",
+      "9 مواسم",
+      "7 مواسم"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "somah_seasons_v4",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q403",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بين أي عامين امتدت فترة عمر السومة مع الأهلي بحسب SPL؟",
+    "options": [
+      "2015 إلى 2023",
+      "2012 إلى 2020",
+      "2013 إلى 2021",
+      "2014 إلى 2022"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "somah_years_v1",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q404",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، بين أي عامين امتدت فترة عمر السومة مع الأهلي بحسب SPL؟",
+    "options": [
+      "2013 إلى 2021",
+      "2015 إلى 2023",
+      "2012 إلى 2020",
+      "2014 إلى 2022"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "somah_years_v2",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q405",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: بين أي عامين امتدت فترة عمر السومة مع الأهلي بحسب SPL؟",
+    "options": [
+      "2013 إلى 2021",
+      "2012 إلى 2020",
+      "2014 إلى 2022",
+      "2015 إلى 2023"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_years_v3",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q406",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: بين أي عامين امتدت فترة عمر السومة مع الأهلي بحسب SPL؟",
+    "options": [
+      "2012 إلى 2020",
+      "2014 إلى 2022",
+      "2015 إلى 2023",
+      "2013 إلى 2021"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "somah_years_v4",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q407",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "كم مرة متتالية فاز عمر السومة بالحذاء الذهبي للدوري مع الأهلي؟",
+    "options": [
+      "4 مرات",
+      "5 مرات",
+      "3 مرات",
+      "مرتين"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_golden_v1",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q408",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم مرة متتالية فاز عمر السومة بالحذاء الذهبي للدوري مع الأهلي؟",
+    "options": [
+      "4 مرات",
+      "مرتين",
+      "3 مرات",
+      "5 مرات"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_golden_v2",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q409",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم مرة متتالية فاز عمر السومة بالحذاء الذهبي للدوري مع الأهلي؟",
+    "options": [
+      "مرتين",
+      "4 مرات",
+      "3 مرات",
+      "5 مرات"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_golden_v3",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q410",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم مرة متتالية فاز عمر السومة بالحذاء الذهبي للدوري مع الأهلي؟",
+    "options": [
+      "5 مرات",
+      "3 مرات",
+      "مرتين",
+      "4 مرات"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "somah_golden_v4",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q411",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "ما المواسم التي فاز فيها السومة بالحذاء الذهبي ثلاث مرات متتالية؟",
+    "options": [
+      "2015-16 إلى 2017-18",
+      "2014-15 إلى 2016-17",
+      "2013-14 إلى 2015-16",
+      "2016-17 إلى 2018-19"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "somah_golden_span_v1",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q412",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما المواسم التي فاز فيها السومة بالحذاء الذهبي ثلاث مرات متتالية؟",
+    "options": [
+      "2016-17 إلى 2018-19",
+      "2013-14 إلى 2015-16",
+      "2015-16 إلى 2017-18",
+      "2014-15 إلى 2016-17"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "somah_golden_span_v2",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q413",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما المواسم التي فاز فيها السومة بالحذاء الذهبي ثلاث مرات متتالية؟",
+    "options": [
+      "2014-15 إلى 2016-17",
+      "2013-14 إلى 2015-16",
+      "2016-17 إلى 2018-19",
+      "2015-16 إلى 2017-18"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "somah_golden_span_v3",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q414",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما المواسم التي فاز فيها السومة بالحذاء الذهبي ثلاث مرات متتالية؟",
+    "options": [
+      "2015-16 إلى 2017-18",
+      "2013-14 إلى 2015-16",
+      "2014-15 إلى 2016-17",
+      "2016-17 إلى 2018-19"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_golden_span_v4",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q415",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "ما الإنجاز الجماعي الذي ساهم السومة في قيادته للأهلي موسم 2015-16؟",
+    "options": [
+      "الفوز بكأس الخليج فقط",
+      "الفوز بالدوري",
+      "الفوز بدوري أبطال آسيا",
+      "الفوز بكأس العالم للأندية"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "somah_league_v1",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q416",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما الإنجاز الجماعي الذي ساهم السومة في قيادته للأهلي موسم 2015-16؟",
+    "options": [
+      "الفوز بدوري أبطال آسيا",
+      "الفوز بكأس الخليج فقط",
+      "الفوز بالدوري",
+      "الفوز بكأس العالم للأندية"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_league_v2",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q417",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما الإنجاز الجماعي الذي ساهم السومة في قيادته للأهلي موسم 2015-16؟",
+    "options": [
+      "الفوز بكأس العالم للأندية",
+      "الفوز بكأس الخليج فقط",
+      "الفوز بالدوري",
+      "الفوز بدوري أبطال آسيا"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_league_v3",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q418",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما الإنجاز الجماعي الذي ساهم السومة في قيادته للأهلي موسم 2015-16؟",
+    "options": [
+      "الفوز بكأس العالم للأندية",
+      "الفوز بكأس الخليج فقط",
+      "الفوز بدوري أبطال آسيا",
+      "الفوز بالدوري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "somah_league_v4",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q419",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "كم عاماً كان الأهلي قد انتظر لقب الدوري قبل تتويج 2015-16 وفق SPL؟",
+    "options": [
+      "32 عاماً",
+      "22 عاماً",
+      "27 عاماً",
+      "37 عاماً"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "somah_32_v1",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q420",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم عاماً كان الأهلي قد انتظر لقب الدوري قبل تتويج 2015-16 وفق SPL؟",
+    "options": [
+      "37 عاماً",
+      "32 عاماً",
+      "22 عاماً",
+      "27 عاماً"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "somah_32_v2",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q421",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم عاماً كان الأهلي قد انتظر لقب الدوري قبل تتويج 2015-16 وفق SPL؟",
+    "options": [
+      "27 عاماً",
+      "22 عاماً",
+      "37 عاماً",
+      "32 عاماً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "somah_32_v3",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q422",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم عاماً كان الأهلي قد انتظر لقب الدوري قبل تتويج 2015-16 وفق SPL؟",
+    "options": [
+      "37 عاماً",
+      "32 عاماً",
+      "22 عاماً",
+      "27 عاماً"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "somah_32_v4",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q423",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "ما مكانة عمر السومة في قائمة هدافي الدوري التاريخيين وقت تقرير SPL في يناير 2025؟",
+    "options": [
+      "ثالث الهدافين",
+      "خامس الهدافين",
+      "الهداف التاريخي للدوري",
+      "ثاني الهدافين"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_alltime_v1",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q424",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما مكانة عمر السومة في قائمة هدافي الدوري التاريخيين وقت تقرير SPL في يناير 2025؟",
+    "options": [
+      "ثاني الهدافين",
+      "خامس الهدافين",
+      "الهداف التاريخي للدوري",
+      "ثالث الهدافين"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_alltime_v2",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q425",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما مكانة عمر السومة في قائمة هدافي الدوري التاريخيين وقت تقرير SPL في يناير 2025؟",
+    "options": [
+      "ثالث الهدافين",
+      "ثاني الهدافين",
+      "خامس الهدافين",
+      "الهداف التاريخي للدوري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "somah_alltime_v3",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q426",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما مكانة عمر السومة في قائمة هدافي الدوري التاريخيين وقت تقرير SPL في يناير 2025؟",
+    "options": [
+      "ثالث الهدافين",
+      "ثاني الهدافين",
+      "الهداف التاريخي للدوري",
+      "خامس الهدافين"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "somah_alltime_v4",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q427",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "كم كان رصيد عبدالرزاق حمدالله المذكور خلف السومة في تقرير SPL يناير 2025؟",
+    "options": [
+      "129 هدفاً",
+      "134 هدفاً",
+      "144 هدفاً",
+      "124 هدفاً"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "hamdallah_134_v1",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q428",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم كان رصيد عبدالرزاق حمدالله المذكور خلف السومة في تقرير SPL يناير 2025؟",
+    "options": [
+      "129 هدفاً",
+      "124 هدفاً",
+      "144 هدفاً",
+      "134 هدفاً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "hamdallah_134_v2",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q429",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم كان رصيد عبدالرزاق حمدالله المذكور خلف السومة في تقرير SPL يناير 2025؟",
+    "options": [
+      "129 هدفاً",
+      "124 هدفاً",
+      "134 هدفاً",
+      "144 هدفاً"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "hamdallah_134_v3",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q430",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم كان رصيد عبدالرزاق حمدالله المذكور خلف السومة في تقرير SPL يناير 2025؟",
+    "options": [
+      "144 هدفاً",
+      "129 هدفاً",
+      "124 هدفاً",
+      "134 هدفاً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "hamdallah_134_v4",
+    "sourceName": "Saudi Pro League — RSL legend Al Somah joins Al Orobah",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-legend-al-somah-joins-al-orobah"
+  },
+  {
+    "id": "q431",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "كم كان عمر فراس البريكان عند تقرير المواهب الصاعدة لموسم 2023-24؟",
+    "options": [
+      "23 عاماً",
+      "25 عاماً",
+      "24 عاماً",
+      "22 عاماً"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "firas_age_v1",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q432",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم كان عمر فراس البريكان عند تقرير المواهب الصاعدة لموسم 2023-24؟",
+    "options": [
+      "25 عاماً",
+      "24 عاماً",
+      "22 عاماً",
+      "23 عاماً"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "firas_age_v2",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q433",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم كان عمر فراس البريكان عند تقرير المواهب الصاعدة لموسم 2023-24؟",
+    "options": [
+      "24 عاماً",
+      "23 عاماً",
+      "22 عاماً",
+      "25 عاماً"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "firas_age_v3",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q434",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم كان عمر فراس البريكان عند تقرير المواهب الصاعدة لموسم 2023-24؟",
+    "options": [
+      "25 عاماً",
+      "23 عاماً",
+      "22 عاماً",
+      "24 عاماً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "firas_age_v4",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q435",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "كم هدفاً سجل فراس البريكان مع الفتح في الموسم السابق المذكور بالتقرير؟",
+    "options": [
+      "19 هدفاً",
+      "15 هدفاً",
+      "13 هدفاً",
+      "17 هدفاً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "firas_17_v1",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q436",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم هدفاً سجل فراس البريكان مع الفتح في الموسم السابق المذكور بالتقرير؟",
+    "options": [
+      "17 هدفاً",
+      "15 هدفاً",
+      "13 هدفاً",
+      "19 هدفاً"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "firas_17_v2",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q437",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم هدفاً سجل فراس البريكان مع الفتح في الموسم السابق المذكور بالتقرير؟",
+    "options": [
+      "19 هدفاً",
+      "17 هدفاً",
+      "13 هدفاً",
+      "15 هدفاً"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "firas_17_v3",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q438",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم هدفاً سجل فراس البريكان مع الفتح في الموسم السابق المذكور بالتقرير؟",
+    "options": [
+      "13 هدفاً",
+      "19 هدفاً",
+      "15 هدفاً",
+      "17 هدفاً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "firas_17_v4",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q439",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "كم هدفاً سجل البريكان في أول خمس مباريات قبل انتقاله للأهلي في 2023-24؟",
+    "options": [
+      "3 أهداف",
+      "4 أهداف",
+      "5 أهداف",
+      "هدفين"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "firas_4of5_v1",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q440",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم هدفاً سجل البريكان في أول خمس مباريات قبل انتقاله للأهلي في 2023-24؟",
+    "options": [
+      "5 أهداف",
+      "هدفين",
+      "4 أهداف",
+      "3 أهداف"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "firas_4of5_v2",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q441",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم هدفاً سجل البريكان في أول خمس مباريات قبل انتقاله للأهلي في 2023-24؟",
+    "options": [
+      "3 أهداف",
+      "5 أهداف",
+      "هدفين",
+      "4 أهداف"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "firas_4of5_v3",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q442",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم هدفاً سجل البريكان في أول خمس مباريات قبل انتقاله للأهلي في 2023-24؟",
+    "options": [
+      "هدفين",
+      "4 أهداف",
+      "5 أهداف",
+      "3 أهداف"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "firas_4of5_v4",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q443",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "كم هدفاً أضاف فراس البريكان مع الأهلي بعد انتقاله في موسم 2023-24؟",
+    "options": [
+      "11 هدفاً",
+      "15 هدفاً",
+      "10 أهداف",
+      "13 هدفاً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "firas_13_v1",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q444",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم هدفاً أضاف فراس البريكان مع الأهلي بعد انتقاله في موسم 2023-24؟",
+    "options": [
+      "15 هدفاً",
+      "11 هدفاً",
+      "10 أهداف",
+      "13 هدفاً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "firas_13_v2",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q445",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم هدفاً أضاف فراس البريكان مع الأهلي بعد انتقاله في موسم 2023-24؟",
+    "options": [
+      "15 هدفاً",
+      "11 هدفاً",
+      "13 هدفاً",
+      "10 أهداف"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "firas_13_v3",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q446",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم هدفاً أضاف فراس البريكان مع الأهلي بعد انتقاله في موسم 2023-24؟",
+    "options": [
+      "13 هدفاً",
+      "15 هدفاً",
+      "11 هدفاً",
+      "10 أهداف"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "firas_13_v4",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q447",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "كم مساهمة تهديفية بلغ رصيد فراس البريكان في 2023-24 بحسب SPL؟",
+    "options": [
+      "25 مساهمة",
+      "22 مساهمة",
+      "28 مساهمة",
+      "20 مساهمة"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "firas_25_v1",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q448",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم مساهمة تهديفية بلغ رصيد فراس البريكان في 2023-24 بحسب SPL؟",
+    "options": [
+      "28 مساهمة",
+      "25 مساهمة",
+      "22 مساهمة",
+      "20 مساهمة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "firas_25_v2",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q449",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم مساهمة تهديفية بلغ رصيد فراس البريكان في 2023-24 بحسب SPL؟",
+    "options": [
+      "22 مساهمة",
+      "28 مساهمة",
+      "25 مساهمة",
+      "20 مساهمة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "firas_25_v3",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q450",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم مساهمة تهديفية بلغ رصيد فراس البريكان في 2023-24 بحسب SPL؟",
+    "options": [
+      "20 مساهمة",
+      "25 مساهمة",
+      "28 مساهمة",
+      "22 مساهمة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "firas_25_v4",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q451",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "للموسم رقم كم على التوالي كان البريكان أفضل هداف سعودي في الدوري وفق تقرير SPL؟",
+    "options": [
+      "الثالث",
+      "الثاني",
+      "الأول",
+      "الرابع"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "firas_third_v1",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q452",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، للموسم رقم كم على التوالي كان البريكان أفضل هداف سعودي في الدوري وفق تقرير SPL؟",
+    "options": [
+      "الأول",
+      "الثاني",
+      "الرابع",
+      "الثالث"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "firas_third_v2",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q453",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: للموسم رقم كم على التوالي كان البريكان أفضل هداف سعودي في الدوري وفق تقرير SPL؟",
+    "options": [
+      "الأول",
+      "الرابع",
+      "الثاني",
+      "الثالث"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "firas_third_v3",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q454",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: للموسم رقم كم على التوالي كان البريكان أفضل هداف سعودي في الدوري وفق تقرير SPL؟",
+    "options": [
+      "الرابع",
+      "الثالث",
+      "الثاني",
+      "الأول"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "firas_third_v4",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q455",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "ما الاحتفال الذي ذكر تقرير SPL أن فراس البريكان معروف به؟",
+    "options": [
+      "احتفال العزف على الجيتار",
+      "احتفال القناع",
+      "احتفال القلب",
+      "احتفال السهم"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "firas_guitar_v1",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q456",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما الاحتفال الذي ذكر تقرير SPL أن فراس البريكان معروف به؟",
+    "options": [
+      "احتفال القناع",
+      "احتفال القلب",
+      "احتفال السهم",
+      "احتفال العزف على الجيتار"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "firas_guitar_v2",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q457",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما الاحتفال الذي ذكر تقرير SPL أن فراس البريكان معروف به؟",
+    "options": [
+      "احتفال السهم",
+      "احتفال العزف على الجيتار",
+      "احتفال القناع",
+      "احتفال القلب"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "firas_guitar_v3",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q458",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما الاحتفال الذي ذكر تقرير SPL أن فراس البريكان معروف به؟",
+    "options": [
+      "احتفال القناع",
+      "احتفال القلب",
+      "احتفال السهم",
+      "احتفال العزف على الجيتار"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "firas_guitar_v4",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q459",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "كم مباراة لعب ريان حامد مع الأهلي في موسم 2023-24 وفق تقرير SPL؟",
+    "options": [
+      "8 مباريات",
+      "10 مباريات",
+      "14 مباراة",
+      "12 مباراة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "rayan_games_v1",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q460",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم مباراة لعب ريان حامد مع الأهلي في موسم 2023-24 وفق تقرير SPL؟",
+    "options": [
+      "14 مباراة",
+      "10 مباريات",
+      "12 مباراة",
+      "8 مباريات"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "rayan_games_v2",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q461",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم مباراة لعب ريان حامد مع الأهلي في موسم 2023-24 وفق تقرير SPL؟",
+    "options": [
+      "12 مباراة",
+      "8 مباريات",
+      "10 مباريات",
+      "14 مباراة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "rayan_games_v3",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q462",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم مباراة لعب ريان حامد مع الأهلي في موسم 2023-24 وفق تقرير SPL؟",
+    "options": [
+      "14 مباراة",
+      "12 مباراة",
+      "10 مباريات",
+      "8 مباريات"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "rayan_games_v4",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q463",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "كم مباراة بدأها ريان حامد أساسياً من أصل 10 في 2023-24؟",
+    "options": [
+      "5 مباريات",
+      "7 مباريات",
+      "8 مباريات",
+      "6 مباريات"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "rayan_starts_v1",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q464",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم مباراة بدأها ريان حامد أساسياً من أصل 10 في 2023-24؟",
+    "options": [
+      "8 مباريات",
+      "7 مباريات",
+      "5 مباريات",
+      "6 مباريات"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "rayan_starts_v2",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q465",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم مباراة بدأها ريان حامد أساسياً من أصل 10 في 2023-24؟",
+    "options": [
+      "8 مباريات",
+      "6 مباريات",
+      "5 مباريات",
+      "7 مباريات"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "rayan_starts_v3",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q466",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم مباراة بدأها ريان حامد أساسياً من أصل 10 في 2023-24؟",
+    "options": [
+      "7 مباريات",
+      "8 مباريات",
+      "6 مباريات",
+      "5 مباريات"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "rayan_starts_v4",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q467",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "كم من مباريات ريان حامد العشر انتهت بشباك نظيفة للأهلي؟",
+    "options": [
+      "7 مباريات",
+      "5 مباريات",
+      "9 مباريات",
+      "4 مباريات"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "rayan_clean_v1",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q468",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم من مباريات ريان حامد العشر انتهت بشباك نظيفة للأهلي؟",
+    "options": [
+      "5 مباريات",
+      "7 مباريات",
+      "9 مباريات",
+      "4 مباريات"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "rayan_clean_v2",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q469",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم من مباريات ريان حامد العشر انتهت بشباك نظيفة للأهلي؟",
+    "options": [
+      "7 مباريات",
+      "5 مباريات",
+      "4 مباريات",
+      "9 مباريات"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "rayan_clean_v3",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q470",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم من مباريات ريان حامد العشر انتهت بشباك نظيفة للأهلي؟",
+    "options": [
+      "7 مباريات",
+      "4 مباريات",
+      "9 مباريات",
+      "5 مباريات"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "rayan_clean_v4",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q471",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "ما المركزان اللذان لعب بهما ريان حامد وفق تقرير SPL؟",
+    "options": [
+      "ظهير أيمن وقلب دفاع",
+      "محور وصانع ألعاب",
+      "حارس وظهير أيسر",
+      "مهاجم وجناح"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "rayan_positions_v1",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q472",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما المركزان اللذان لعب بهما ريان حامد وفق تقرير SPL؟",
+    "options": [
+      "حارس وظهير أيسر",
+      "ظهير أيمن وقلب دفاع",
+      "مهاجم وجناح",
+      "محور وصانع ألعاب"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "rayan_positions_v2",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q473",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما المركزان اللذان لعب بهما ريان حامد وفق تقرير SPL؟",
+    "options": [
+      "مهاجم وجناح",
+      "ظهير أيمن وقلب دفاع",
+      "حارس وظهير أيسر",
+      "محور وصانع ألعاب"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "rayan_positions_v3",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q474",
+    "category": "نجوم الأهلي",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما المركزان اللذان لعب بهما ريان حامد وفق تقرير SPL؟",
+    "options": [
+      "مهاجم وجناح",
+      "محور وصانع ألعاب",
+      "ظهير أيمن وقلب دفاع",
+      "حارس وظهير أيسر"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "rayan_positions_v4",
+    "sourceName": "Saudi Pro League — RSL Young Guns 2023-24",
+    "sourceUrl": "https://www.spl.com.sa/en/news/rsl-young-guns-emerging-talents-shine-through-2023-24-season"
+  },
+  {
+    "id": "q475",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "من واجه الأهلي في نهائي دوري أبطال آسيا للنخبة 2025؟",
+    "options": [
+      "السد",
+      "كاواساكي فرونتال",
+      "بوريرام يونايتد",
+      "الهلال"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final25_opp_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q476",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من واجه الأهلي في نهائي دوري أبطال آسيا للنخبة 2025؟",
+    "options": [
+      "السد",
+      "بوريرام يونايتد",
+      "الهلال",
+      "كاواساكي فرونتال"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final25_opp_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q477",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من واجه الأهلي في نهائي دوري أبطال آسيا للنخبة 2025؟",
+    "options": [
+      "الهلال",
+      "بوريرام يونايتد",
+      "كاواساكي فرونتال",
+      "السد"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final25_opp_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q478",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من واجه الأهلي في نهائي دوري أبطال آسيا للنخبة 2025؟",
+    "options": [
+      "الهلال",
+      "السد",
+      "كاواساكي فرونتال",
+      "بوريرام يونايتد"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final25_opp_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q479",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "ما نتيجة نهائي دوري أبطال آسيا للنخبة 2025؟",
+    "options": [
+      "1-0 للأهلي",
+      "2-1 للأهلي",
+      "3-0 للأهلي",
+      "2-0 للأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final25_score_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q480",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما نتيجة نهائي دوري أبطال آسيا للنخبة 2025؟",
+    "options": [
+      "2-0 للأهلي",
+      "3-0 للأهلي",
+      "1-0 للأهلي",
+      "2-1 للأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final25_score_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q481",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما نتيجة نهائي دوري أبطال آسيا للنخبة 2025؟",
+    "options": [
+      "2-1 للأهلي",
+      "2-0 للأهلي",
+      "1-0 للأهلي",
+      "3-0 للأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final25_score_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q482",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما نتيجة نهائي دوري أبطال آسيا للنخبة 2025؟",
+    "options": [
+      "1-0 للأهلي",
+      "3-0 للأهلي",
+      "2-0 للأهلي",
+      "2-1 للأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final25_score_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q483",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "من سجل الهدف الأول للأهلي في نهائي آسيا 2025؟",
+    "options": [
+      "فرانك كيسي",
+      "غالينو",
+      "رياض محرز",
+      "روبرتو فيرمينو"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final25_galeno_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q484",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من سجل الهدف الأول للأهلي في نهائي آسيا 2025؟",
+    "options": [
+      "فرانك كيسي",
+      "غالينو",
+      "رياض محرز",
+      "روبرتو فيرمينو"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final25_galeno_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q485",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من سجل الهدف الأول للأهلي في نهائي آسيا 2025؟",
+    "options": [
+      "غالينو",
+      "رياض محرز",
+      "فرانك كيسي",
+      "روبرتو فيرمينو"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final25_galeno_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q486",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من سجل الهدف الأول للأهلي في نهائي آسيا 2025؟",
+    "options": [
+      "غالينو",
+      "رياض محرز",
+      "روبرتو فيرمينو",
+      "فرانك كيسي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final25_galeno_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q487",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "من سجل الهدف الثاني للأهلي في نهائي آسيا 2025؟",
+    "options": [
+      "فيرمينو",
+      "فرانك كيسي",
+      "إيفان توني",
+      "غالينو"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final25_kessie_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q488",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من سجل الهدف الثاني للأهلي في نهائي آسيا 2025؟",
+    "options": [
+      "إيفان توني",
+      "فرانك كيسي",
+      "غالينو",
+      "فيرمينو"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final25_kessie_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q489",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من سجل الهدف الثاني للأهلي في نهائي آسيا 2025؟",
+    "options": [
+      "غالينو",
+      "فرانك كيسي",
+      "فيرمينو",
+      "إيفان توني"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final25_kessie_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q490",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من سجل الهدف الثاني للأهلي في نهائي آسيا 2025؟",
+    "options": [
+      "فرانك كيسي",
+      "إيفان توني",
+      "فيرمينو",
+      "غالينو"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final25_kessie_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q491",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في أي ملعب أُقيم نهائي آسيا للنخبة 2025؟",
+    "options": [
+      "ملعب الأمير عبدالله الفيصل",
+      "ملعب الملك فهد",
+      "الأول بارك",
+      "مدينة الملك عبدالله الرياضية"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final25_stadium_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q492",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في أي ملعب أُقيم نهائي آسيا للنخبة 2025؟",
+    "options": [
+      "مدينة الملك عبدالله الرياضية",
+      "ملعب الملك فهد",
+      "الأول بارك",
+      "ملعب الأمير عبدالله الفيصل"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final25_stadium_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q493",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في أي ملعب أُقيم نهائي آسيا للنخبة 2025؟",
+    "options": [
+      "مدينة الملك عبدالله الرياضية",
+      "الأول بارك",
+      "ملعب الأمير عبدالله الفيصل",
+      "ملعب الملك فهد"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final25_stadium_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q494",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في أي ملعب أُقيم نهائي آسيا للنخبة 2025؟",
+    "options": [
+      "مدينة الملك عبدالله الرياضية",
+      "ملعب الملك فهد",
+      "الأول بارك",
+      "ملعب الأمير عبدالله الفيصل"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final25_stadium_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q495",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "كم كان الحضور في نهائي آسيا 2025 بحسب AFC؟",
+    "options": [
+      "أكثر من 90 ألف",
+      "أقل من 30 ألف",
+      "أكثر من 58 ألف متفرج",
+      "نحو 40 ألف"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final25_att_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q496",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم كان الحضور في نهائي آسيا 2025 بحسب AFC؟",
+    "options": [
+      "أكثر من 90 ألف",
+      "أكثر من 58 ألف متفرج",
+      "أقل من 30 ألف",
+      "نحو 40 ألف"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final25_att_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q497",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم كان الحضور في نهائي آسيا 2025 بحسب AFC؟",
+    "options": [
+      "أكثر من 90 ألف",
+      "أقل من 30 ألف",
+      "نحو 40 ألف",
+      "أكثر من 58 ألف متفرج"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final25_att_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q498",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم كان الحضور في نهائي آسيا 2025 بحسب AFC؟",
+    "options": [
+      "أقل من 30 ألف",
+      "أكثر من 90 ألف",
+      "نحو 40 ألف",
+      "أكثر من 58 ألف متفرج"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final25_att_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q499",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "كم فوزاً حقق الأهلي في مشواره نحو لقب آسيا 2024-25؟",
+    "options": [
+      "11 فوزاً",
+      "12 فوزاً",
+      "13 فوزاً",
+      "10 انتصارات"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final25_wins_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q500",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم فوزاً حقق الأهلي في مشواره نحو لقب آسيا 2024-25؟",
+    "options": [
+      "11 فوزاً",
+      "12 فوزاً",
+      "10 انتصارات",
+      "13 فوزاً"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final25_wins_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q501",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم فوزاً حقق الأهلي في مشواره نحو لقب آسيا 2024-25؟",
+    "options": [
+      "13 فوزاً",
+      "10 انتصارات",
+      "12 فوزاً",
+      "11 فوزاً"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final25_wins_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q502",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم فوزاً حقق الأهلي في مشواره نحو لقب آسيا 2024-25؟",
+    "options": [
+      "13 فوزاً",
+      "10 انتصارات",
+      "11 فوزاً",
+      "12 فوزاً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final25_wins_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q503",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "كم تعادلاً حقق الأهلي في مشواره نحو لقب آسيا 2024-25؟",
+    "options": [
+      "دون تعادلات",
+      "تعادلان",
+      "3 تعادلات",
+      "تعادل واحد"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final25_draw_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q504",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم تعادلاً حقق الأهلي في مشواره نحو لقب آسيا 2024-25؟",
+    "options": [
+      "3 تعادلات",
+      "تعادل واحد",
+      "تعادلان",
+      "دون تعادلات"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final25_draw_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q505",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم تعادلاً حقق الأهلي في مشواره نحو لقب آسيا 2024-25؟",
+    "options": [
+      "3 تعادلات",
+      "دون تعادلات",
+      "تعادلان",
+      "تعادل واحد"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final25_draw_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q506",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم تعادلاً حقق الأهلي في مشواره نحو لقب آسيا 2024-25؟",
+    "options": [
+      "تعادلان",
+      "3 تعادلات",
+      "تعادل واحد",
+      "دون تعادلات"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final25_draw_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q507",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "كم خسارة تعرض لها الأهلي في حملة آسيا 2024-25 بحسب سجل 12 فوزاً وتعادل واحد؟",
+    "options": [
+      "3 خسائر",
+      "خسارة واحدة",
+      "خسارتان",
+      "دون خسارة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final25_lossless_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q508",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم خسارة تعرض لها الأهلي في حملة آسيا 2024-25 بحسب سجل 12 فوزاً وتعادل واحد؟",
+    "options": [
+      "دون خسارة",
+      "3 خسائر",
+      "خسارتان",
+      "خسارة واحدة"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final25_lossless_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q509",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم خسارة تعرض لها الأهلي في حملة آسيا 2024-25 بحسب سجل 12 فوزاً وتعادل واحد؟",
+    "options": [
+      "3 خسائر",
+      "خسارة واحدة",
+      "خسارتان",
+      "دون خسارة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final25_lossless_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q510",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم خسارة تعرض لها الأهلي في حملة آسيا 2024-25 بحسب سجل 12 فوزاً وتعادل واحد؟",
+    "options": [
+      "دون خسارة",
+      "خسارتان",
+      "خسارة واحدة",
+      "3 خسائر"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final25_lossless_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q511",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "ماذا مثّل لقب 2025 قارياً للأهلي؟",
+    "options": [
+      "ثالث لقب آسيوي",
+      "ثاني لقب آسيوي",
+      "أول لقب آسيوي",
+      "خامس لقب آسيوي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "first_asian_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q512",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ماذا مثّل لقب 2025 قارياً للأهلي؟",
+    "options": [
+      "ثاني لقب آسيوي",
+      "خامس لقب آسيوي",
+      "أول لقب آسيوي",
+      "ثالث لقب آسيوي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "first_asian_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q513",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ماذا مثّل لقب 2025 قارياً للأهلي؟",
+    "options": [
+      "أول لقب آسيوي",
+      "ثالث لقب آسيوي",
+      "خامس لقب آسيوي",
+      "ثاني لقب آسيوي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "first_asian_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q514",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ماذا مثّل لقب 2025 قارياً للأهلي؟",
+    "options": [
+      "أول لقب آسيوي",
+      "ثاني لقب آسيوي",
+      "خامس لقب آسيوي",
+      "ثالث لقب آسيوي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "first_asian_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q515",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "كم مرة كان الأهلي قد حل وصيفاً قارياً قبل لقب 2025 بحسب AFC؟",
+    "options": [
+      "مرة واحدة",
+      "مرتين",
+      "3 مرات",
+      "4 مرات"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "runners_before_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q516",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم مرة كان الأهلي قد حل وصيفاً قارياً قبل لقب 2025 بحسب AFC؟",
+    "options": [
+      "مرتين",
+      "مرة واحدة",
+      "4 مرات",
+      "3 مرات"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "runners_before_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q517",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم مرة كان الأهلي قد حل وصيفاً قارياً قبل لقب 2025 بحسب AFC؟",
+    "options": [
+      "مرة واحدة",
+      "مرتين",
+      "4 مرات",
+      "3 مرات"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "runners_before_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q518",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم مرة كان الأهلي قد حل وصيفاً قارياً قبل لقب 2025 بحسب AFC؟",
+    "options": [
+      "مرة واحدة",
+      "3 مرات",
+      "4 مرات",
+      "مرتين"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "runners_before_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q519",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "من اختير أفضل لاعب في دوري أبطال آسيا للنخبة 2024-25؟",
+    "options": [
+      "فرانك كيسي",
+      "روبرتو فيرمينو",
+      "إدوارد ميندي",
+      "رياض محرز"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "mvp25_v1",
+    "sourceName": "AFC — Al Ahli’s Roberto Firmino named MVP",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli%E2%80%99s-roberto-firmino-named-mvp-1"
+  },
+  {
+    "id": "q520",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من اختير أفضل لاعب في دوري أبطال آسيا للنخبة 2024-25؟",
+    "options": [
+      "روبرتو فيرمينو",
+      "فرانك كيسي",
+      "إدوارد ميندي",
+      "رياض محرز"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "mvp25_v2",
+    "sourceName": "AFC — Al Ahli’s Roberto Firmino named MVP",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli%E2%80%99s-roberto-firmino-named-mvp-1"
+  },
+  {
+    "id": "q521",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من اختير أفضل لاعب في دوري أبطال آسيا للنخبة 2024-25؟",
+    "options": [
+      "فرانك كيسي",
+      "إدوارد ميندي",
+      "روبرتو فيرمينو",
+      "رياض محرز"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "mvp25_v3",
+    "sourceName": "AFC — Al Ahli’s Roberto Firmino named MVP",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli%E2%80%99s-roberto-firmino-named-mvp-1"
+  },
+  {
+    "id": "q522",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من اختير أفضل لاعب في دوري أبطال آسيا للنخبة 2024-25؟",
+    "options": [
+      "فرانك كيسي",
+      "إدوارد ميندي",
+      "رياض محرز",
+      "روبرتو فيرمينو"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "mvp25_v4",
+    "sourceName": "AFC — Al Ahli’s Roberto Firmino named MVP",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli%E2%80%99s-roberto-firmino-named-mvp-1"
+  },
+  {
+    "id": "q523",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "كم هدفاً صنع روبرتو فيرمينو في نهائي آسيا 2025؟",
+    "options": [
+      "هدفين",
+      "هدفاً واحداً",
+      "3 أهداف",
+      "لم يصنع أهدافاً"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "firmino_assists_v1",
+    "sourceName": "AFC — Al Ahli’s Roberto Firmino named MVP",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli%E2%80%99s-roberto-firmino-named-mvp-1"
+  },
+  {
+    "id": "q524",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم هدفاً صنع روبرتو فيرمينو في نهائي آسيا 2025؟",
+    "options": [
+      "هدفاً واحداً",
+      "هدفين",
+      "3 أهداف",
+      "لم يصنع أهدافاً"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "firmino_assists_v2",
+    "sourceName": "AFC — Al Ahli’s Roberto Firmino named MVP",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli%E2%80%99s-roberto-firmino-named-mvp-1"
+  },
+  {
+    "id": "q525",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم هدفاً صنع روبرتو فيرمينو في نهائي آسيا 2025؟",
+    "options": [
+      "هدفاً واحداً",
+      "3 أهداف",
+      "هدفين",
+      "لم يصنع أهدافاً"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "firmino_assists_v3",
+    "sourceName": "AFC — Al Ahli’s Roberto Firmino named MVP",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli%E2%80%99s-roberto-firmino-named-mvp-1"
+  },
+  {
+    "id": "q526",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم هدفاً صنع روبرتو فيرمينو في نهائي آسيا 2025؟",
+    "options": [
+      "هدفين",
+      "3 أهداف",
+      "هدفاً واحداً",
+      "لم يصنع أهدافاً"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "firmino_assists_v4",
+    "sourceName": "AFC — Al Ahli’s Roberto Firmino named MVP",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli%E2%80%99s-roberto-firmino-named-mvp-1"
+  },
+  {
+    "id": "q527",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "من فاز بجائزة أفضل حارس في دوري أبطال آسيا للنخبة 2024-25؟",
+    "options": [
+      "إدوارد ميندي",
+      "محمد العويس",
+      "ياسين بونو",
+      "أليسون"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "mendy_award_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q528",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من فاز بجائزة أفضل حارس في دوري أبطال آسيا للنخبة 2024-25؟",
+    "options": [
+      "ياسين بونو",
+      "محمد العويس",
+      "أليسون",
+      "إدوارد ميندي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "mendy_award_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q529",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من فاز بجائزة أفضل حارس في دوري أبطال آسيا للنخبة 2024-25؟",
+    "options": [
+      "أليسون",
+      "إدوارد ميندي",
+      "ياسين بونو",
+      "محمد العويس"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "mendy_award_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q530",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من فاز بجائزة أفضل حارس في دوري أبطال آسيا للنخبة 2024-25؟",
+    "options": [
+      "ياسين بونو",
+      "أليسون",
+      "إدوارد ميندي",
+      "محمد العويس"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "mendy_award_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q531",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "من كان هداف البطولة الآسيوية 2024-25 المذكور من AFC برصيد 10 أهداف؟",
+    "options": [
+      "روبرتو فيرمينو",
+      "رياض محرز",
+      "سالم الدوسري",
+      "إيفان توني"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "topscorer25_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q532",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من كان هداف البطولة الآسيوية 2024-25 المذكور من AFC برصيد 10 أهداف؟",
+    "options": [
+      "رياض محرز",
+      "سالم الدوسري",
+      "إيفان توني",
+      "روبرتو فيرمينو"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "topscorer25_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q533",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من كان هداف البطولة الآسيوية 2024-25 المذكور من AFC برصيد 10 أهداف؟",
+    "options": [
+      "رياض محرز",
+      "روبرتو فيرمينو",
+      "إيفان توني",
+      "سالم الدوسري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "topscorer25_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q534",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من كان هداف البطولة الآسيوية 2024-25 المذكور من AFC برصيد 10 أهداف؟",
+    "options": [
+      "رياض محرز",
+      "روبرتو فيرمينو",
+      "إيفان توني",
+      "سالم الدوسري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "topscorer25_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q535",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "كم هدفاً سجل سالم الدوسري في البطولة الآسيوية 2024-25 بحسب AFC؟",
+    "options": [
+      "8 أهداف",
+      "10 أهداف",
+      "12 هدفاً",
+      "9 أهداف"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "topscorer25_10_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q536",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم هدفاً سجل سالم الدوسري في البطولة الآسيوية 2024-25 بحسب AFC؟",
+    "options": [
+      "10 أهداف",
+      "9 أهداف",
+      "12 هدفاً",
+      "8 أهداف"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "topscorer25_10_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q537",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم هدفاً سجل سالم الدوسري في البطولة الآسيوية 2024-25 بحسب AFC؟",
+    "options": [
+      "9 أهداف",
+      "10 أهداف",
+      "8 أهداف",
+      "12 هدفاً"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "topscorer25_10_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q538",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم هدفاً سجل سالم الدوسري في البطولة الآسيوية 2024-25 بحسب AFC؟",
+    "options": [
+      "10 أهداف",
+      "12 هدفاً",
+      "8 أهداف",
+      "9 أهداف"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "topscorer25_10_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q539",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "ما نتيجة نصف النهائي بين الأهلي والهلال في آسيا 2025؟",
+    "options": [
+      "3-2 للأهلي",
+      "2-1 للأهلي",
+      "3-1 للأهلي",
+      "2-0 للأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "semi25_v1",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q540",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما نتيجة نصف النهائي بين الأهلي والهلال في آسيا 2025؟",
+    "options": [
+      "2-1 للأهلي",
+      "2-0 للأهلي",
+      "3-1 للأهلي",
+      "3-2 للأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "semi25_v2",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q541",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما نتيجة نصف النهائي بين الأهلي والهلال في آسيا 2025؟",
+    "options": [
+      "2-1 للأهلي",
+      "3-2 للأهلي",
+      "2-0 للأهلي",
+      "3-1 للأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "semi25_v3",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q542",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما نتيجة نصف النهائي بين الأهلي والهلال في آسيا 2025؟",
+    "options": [
+      "3-1 للأهلي",
+      "2-1 للأهلي",
+      "3-2 للأهلي",
+      "2-0 للأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "semi25_v4",
+    "sourceName": "AFC — Al Ahli Saudi FC end title wait in style",
+    "sourceUrl": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/al-ahli-saudi-fc-end-title-wait-in-style"
+  },
+  {
+    "id": "q543",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في أي تاريخ حُددت مباراة الأهلي في ربع النهائي ضمن جدول نهائيات جدة 2025؟",
+    "options": [
+      "26 أبريل 2025",
+      "30 أبريل 2025",
+      "25 أبريل 2025",
+      "27 أبريل 2025"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "sched25_1_date_v1",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q544",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في أي تاريخ حُددت مباراة الأهلي في ربع النهائي ضمن جدول نهائيات جدة 2025؟",
+    "options": [
+      "25 أبريل 2025",
+      "27 أبريل 2025",
+      "30 أبريل 2025",
+      "26 أبريل 2025"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_1_date_v2",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q545",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في أي تاريخ حُددت مباراة الأهلي في ربع النهائي ضمن جدول نهائيات جدة 2025؟",
+    "options": [
+      "30 أبريل 2025",
+      "27 أبريل 2025",
+      "26 أبريل 2025",
+      "25 أبريل 2025"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "sched25_1_date_v3",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q546",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في أي تاريخ حُددت مباراة الأهلي في ربع النهائي ضمن جدول نهائيات جدة 2025؟",
+    "options": [
+      "30 أبريل 2025",
+      "25 أبريل 2025",
+      "26 أبريل 2025",
+      "27 أبريل 2025"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "sched25_1_date_v4",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q547",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "ما توقيت مباراة الأهلي في ربع النهائي ضمن الجدول الرسمي لنهائيات جدة 2025؟",
+    "options": [
+      "19:30",
+      "22:30",
+      "17:30",
+      "18:00"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "sched25_1_time_v1",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q548",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما توقيت مباراة الأهلي في ربع النهائي ضمن الجدول الرسمي لنهائيات جدة 2025؟",
+    "options": [
+      "17:30",
+      "19:30",
+      "18:00",
+      "22:30"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "sched25_1_time_v2",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q549",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما توقيت مباراة الأهلي في ربع النهائي ضمن الجدول الرسمي لنهائيات جدة 2025؟",
+    "options": [
+      "19:30",
+      "22:30",
+      "18:00",
+      "17:30"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "sched25_1_time_v3",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q550",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما توقيت مباراة الأهلي في ربع النهائي ضمن الجدول الرسمي لنهائيات جدة 2025؟",
+    "options": [
+      "22:30",
+      "17:30",
+      "18:00",
+      "19:30"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_1_time_v4",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q551",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "ما الملعب المحدد لمباراة الأهلي في ربع النهائي ضمن نهائيات جدة 2025؟",
+    "options": [
+      "ملعب الأمير عبدالله الفيصل",
+      "استاد الملك فهد",
+      "الأول بارك",
+      "مدينة الملك عبدالله الرياضية"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_1_venue_v1",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q552",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما الملعب المحدد لمباراة الأهلي في ربع النهائي ضمن نهائيات جدة 2025؟",
+    "options": [
+      "ملعب الأمير عبدالله الفيصل",
+      "مدينة الملك عبدالله الرياضية",
+      "الأول بارك",
+      "استاد الملك فهد"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "sched25_1_venue_v2",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q553",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما الملعب المحدد لمباراة الأهلي في ربع النهائي ضمن نهائيات جدة 2025؟",
+    "options": [
+      "ملعب الأمير عبدالله الفيصل",
+      "الأول بارك",
+      "استاد الملك فهد",
+      "مدينة الملك عبدالله الرياضية"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_1_venue_v3",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q554",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما الملعب المحدد لمباراة الأهلي في ربع النهائي ضمن نهائيات جدة 2025؟",
+    "options": [
+      "استاد الملك فهد",
+      "ملعب الأمير عبدالله الفيصل",
+      "مدينة الملك عبدالله الرياضية",
+      "الأول بارك"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "sched25_1_venue_v4",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q555",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في أي تاريخ حُددت مباراة الأهلي في نصف النهائي ضمن جدول نهائيات جدة 2025؟",
+    "options": [
+      "30 أبريل 2025",
+      "27 أبريل 2025",
+      "25 أبريل 2025",
+      "29 أبريل 2025"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_2_date_v1",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q556",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في أي تاريخ حُددت مباراة الأهلي في نصف النهائي ضمن جدول نهائيات جدة 2025؟",
+    "options": [
+      "30 أبريل 2025",
+      "27 أبريل 2025",
+      "25 أبريل 2025",
+      "29 أبريل 2025"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_2_date_v2",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q557",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في أي تاريخ حُددت مباراة الأهلي في نصف النهائي ضمن جدول نهائيات جدة 2025؟",
+    "options": [
+      "27 أبريل 2025",
+      "29 أبريل 2025",
+      "25 أبريل 2025",
+      "30 أبريل 2025"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "sched25_2_date_v3",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q558",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في أي تاريخ حُددت مباراة الأهلي في نصف النهائي ضمن جدول نهائيات جدة 2025؟",
+    "options": [
+      "27 أبريل 2025",
+      "29 أبريل 2025",
+      "30 أبريل 2025",
+      "25 أبريل 2025"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "sched25_2_date_v4",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q559",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "ما توقيت مباراة الأهلي في نصف النهائي ضمن الجدول الرسمي لنهائيات جدة 2025؟",
+    "options": [
+      "18:00",
+      "22:30",
+      "19:30",
+      "17:30"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "sched25_2_time_v1",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q560",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما توقيت مباراة الأهلي في نصف النهائي ضمن الجدول الرسمي لنهائيات جدة 2025؟",
+    "options": [
+      "18:00",
+      "17:30",
+      "22:30",
+      "19:30"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_2_time_v2",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q561",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما توقيت مباراة الأهلي في نصف النهائي ضمن الجدول الرسمي لنهائيات جدة 2025؟",
+    "options": [
+      "19:30",
+      "17:30",
+      "18:00",
+      "22:30"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "sched25_2_time_v3",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q562",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما توقيت مباراة الأهلي في نصف النهائي ضمن الجدول الرسمي لنهائيات جدة 2025؟",
+    "options": [
+      "22:30",
+      "18:00",
+      "17:30",
+      "19:30"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_2_time_v4",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q563",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "ما الملعب المحدد لمباراة الأهلي في نصف النهائي ضمن نهائيات جدة 2025؟",
+    "options": [
+      "استاد الملك فهد",
+      "الأول بارك",
+      "مدينة الملك عبدالله الرياضية",
+      "ملعب الأمير عبدالله الفيصل"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "sched25_2_venue_v1",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q564",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما الملعب المحدد لمباراة الأهلي في نصف النهائي ضمن نهائيات جدة 2025؟",
+    "options": [
+      "استاد الملك فهد",
+      "ملعب الأمير عبدالله الفيصل",
+      "الأول بارك",
+      "مدينة الملك عبدالله الرياضية"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_2_venue_v2",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q565",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما الملعب المحدد لمباراة الأهلي في نصف النهائي ضمن نهائيات جدة 2025؟",
+    "options": [
+      "استاد الملك فهد",
+      "مدينة الملك عبدالله الرياضية",
+      "الأول بارك",
+      "ملعب الأمير عبدالله الفيصل"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "sched25_2_venue_v3",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q566",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما الملعب المحدد لمباراة الأهلي في نصف النهائي ضمن نهائيات جدة 2025؟",
+    "options": [
+      "استاد الملك فهد",
+      "مدينة الملك عبدالله الرياضية",
+      "ملعب الأمير عبدالله الفيصل",
+      "الأول بارك"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "sched25_2_venue_v4",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q567",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في أي تاريخ حُددت مباراة الأهلي في النهائي ضمن جدول نهائيات جدة 2025؟",
+    "options": [
+      "25 أبريل 2025",
+      "30 أبريل 2025",
+      "27 أبريل 2025",
+      "3 مايو 2025"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_3_date_v1",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q568",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في أي تاريخ حُددت مباراة الأهلي في النهائي ضمن جدول نهائيات جدة 2025؟",
+    "options": [
+      "25 أبريل 2025",
+      "3 مايو 2025",
+      "30 أبريل 2025",
+      "27 أبريل 2025"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "sched25_3_date_v2",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q569",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في أي تاريخ حُددت مباراة الأهلي في النهائي ضمن جدول نهائيات جدة 2025؟",
+    "options": [
+      "30 أبريل 2025",
+      "27 أبريل 2025",
+      "3 مايو 2025",
+      "25 أبريل 2025"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "sched25_3_date_v3",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q570",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في أي تاريخ حُددت مباراة الأهلي في النهائي ضمن جدول نهائيات جدة 2025؟",
+    "options": [
+      "30 أبريل 2025",
+      "27 أبريل 2025",
+      "25 أبريل 2025",
+      "3 مايو 2025"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_3_date_v4",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q571",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "ما توقيت مباراة الأهلي في النهائي ضمن الجدول الرسمي لنهائيات جدة 2025؟",
+    "options": [
+      "18:00",
+      "17:30",
+      "22:30",
+      "19:30"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_3_time_v1",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q572",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما توقيت مباراة الأهلي في النهائي ضمن الجدول الرسمي لنهائيات جدة 2025؟",
+    "options": [
+      "22:30",
+      "18:00",
+      "19:30",
+      "17:30"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "sched25_3_time_v2",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q573",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما توقيت مباراة الأهلي في النهائي ضمن الجدول الرسمي لنهائيات جدة 2025؟",
+    "options": [
+      "17:30",
+      "18:00",
+      "22:30",
+      "19:30"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_3_time_v3",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q574",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما توقيت مباراة الأهلي في النهائي ضمن الجدول الرسمي لنهائيات جدة 2025؟",
+    "options": [
+      "22:30",
+      "17:30",
+      "19:30",
+      "18:00"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "sched25_3_time_v4",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q575",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "ما الملعب المحدد لمباراة الأهلي في النهائي ضمن نهائيات جدة 2025؟",
+    "options": [
+      "مدينة الملك عبدالله الرياضية",
+      "الأول بارك",
+      "ملعب الأمير عبدالله الفيصل",
+      "استاد الملك فهد"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "sched25_3_venue_v1",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q576",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما الملعب المحدد لمباراة الأهلي في النهائي ضمن نهائيات جدة 2025؟",
+    "options": [
+      "مدينة الملك عبدالله الرياضية",
+      "ملعب الأمير عبدالله الفيصل",
+      "استاد الملك فهد",
+      "الأول بارك"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "sched25_3_venue_v2",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q577",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما الملعب المحدد لمباراة الأهلي في النهائي ضمن نهائيات جدة 2025؟",
+    "options": [
+      "ملعب الأمير عبدالله الفيصل",
+      "الأول بارك",
+      "استاد الملك فهد",
+      "مدينة الملك عبدالله الرياضية"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_3_venue_v3",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q578",
+    "category": "آسيا 2025",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما الملعب المحدد لمباراة الأهلي في النهائي ضمن نهائيات جدة 2025؟",
+    "options": [
+      "استاد الملك فهد",
+      "ملعب الأمير عبدالله الفيصل",
+      "الأول بارك",
+      "مدينة الملك عبدالله الرياضية"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "sched25_3_venue_v4",
+    "sourceName": "AFC Champions League Elite — Finals Jeddah 2025 Match Schedule",
+    "sourceUrl": "https://assets.the-afc.com/2024-25_ACL_Elite/Downloads/AFC-Champions-League-Elite%E2%84%A2-Finals-Jeddah-2025-Match-Schedule.pdf"
+  },
+  {
+    "id": "q579",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "من واجه الأهلي في نهائي آسيا للنخبة 2026 بحسب رابطة الدوري السعودي؟",
+    "options": [
+      "ماشيدا زيلفيا",
+      "كاواساكي فرونتال",
+      "فيسيل كوبي",
+      "جوهور دار التعظيم"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final26_opp_v1",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q580",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من واجه الأهلي في نهائي آسيا للنخبة 2026 بحسب رابطة الدوري السعودي؟",
+    "options": [
+      "ماشيدا زيلفيا",
+      "كاواساكي فرونتال",
+      "جوهور دار التعظيم",
+      "فيسيل كوبي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final26_opp_v2",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q581",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من واجه الأهلي في نهائي آسيا للنخبة 2026 بحسب رابطة الدوري السعودي؟",
+    "options": [
+      "فيسيل كوبي",
+      "كاواساكي فرونتال",
+      "ماشيدا زيلفيا",
+      "جوهور دار التعظيم"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final26_opp_v3",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q582",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من واجه الأهلي في نهائي آسيا للنخبة 2026 بحسب رابطة الدوري السعودي؟",
+    "options": [
+      "فيسيل كوبي",
+      "ماشيدا زيلفيا",
+      "كاواساكي فرونتال",
+      "جوهور دار التعظيم"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final26_opp_v4",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q583",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "ما نتيجة نهائي آسيا للنخبة 2026؟",
+    "options": [
+      "1-1",
+      "2-0 للأهلي",
+      "1-0 للأهلي",
+      "2-1 للأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final26_score_v1",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q584",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ما نتيجة نهائي آسيا للنخبة 2026؟",
+    "options": [
+      "1-1",
+      "2-1 للأهلي",
+      "1-0 للأهلي",
+      "2-0 للأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final26_score_v2",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q585",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ما نتيجة نهائي آسيا للنخبة 2026؟",
+    "options": [
+      "2-1 للأهلي",
+      "2-0 للأهلي",
+      "1-1",
+      "1-0 للأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final26_score_v3",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q586",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ما نتيجة نهائي آسيا للنخبة 2026؟",
+    "options": [
+      "1-0 للأهلي",
+      "1-1",
+      "2-1 للأهلي",
+      "2-0 للأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final26_score_v4",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q587",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "هل احتاج نهائي آسيا للنخبة 2026 إلى وقت إضافي؟",
+    "options": [
+      "أُلغي",
+      "نعم",
+      "لا",
+      "ذهب مباشرة لركلات الترجيح"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final26_et_v1",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q588",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، هل احتاج نهائي آسيا للنخبة 2026 إلى وقت إضافي؟",
+    "options": [
+      "لا",
+      "ذهب مباشرة لركلات الترجيح",
+      "نعم",
+      "أُلغي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final26_et_v2",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q589",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "في تاريخ الأهلي: هل احتاج نهائي آسيا للنخبة 2026 إلى وقت إضافي؟",
+    "options": [
+      "نعم",
+      "لا",
+      "أُلغي",
+      "ذهب مباشرة لركلات الترجيح"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final26_et_v3",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q590",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: هل احتاج نهائي آسيا للنخبة 2026 إلى وقت إضافي؟",
+    "options": [
+      "أُلغي",
+      "لا",
+      "نعم",
+      "ذهب مباشرة لركلات الترجيح"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final26_et_v4",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q591",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "من سجل هدف الأهلي في نهائي آسيا 2026؟",
+    "options": [
+      "فرانك كيسي",
+      "فراس البريكان",
+      "إيفان توني",
+      "غالينو"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final26_scorer_v1",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q592",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من سجل هدف الأهلي في نهائي آسيا 2026؟",
+    "options": [
+      "فراس البريكان",
+      "غالينو",
+      "إيفان توني",
+      "فرانك كيسي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final26_scorer_v2",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q593",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من سجل هدف الأهلي في نهائي آسيا 2026؟",
+    "options": [
+      "فرانك كيسي",
+      "إيفان توني",
+      "غالينو",
+      "فراس البريكان"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final26_scorer_v3",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q594",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من سجل هدف الأهلي في نهائي آسيا 2026؟",
+    "options": [
+      "فراس البريكان",
+      "غالينو",
+      "إيفان توني",
+      "فرانك كيسي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final26_scorer_v4",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q595",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "في أي دقيقة سجل فراس البريكان هدف نهائي آسيا 2026؟",
+    "options": [
+      "الدقيقة 82",
+      "الدقيقة 96",
+      "الدقيقة 68",
+      "الدقيقة 118"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final26_minute_v1",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q596",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، في أي دقيقة سجل فراس البريكان هدف نهائي آسيا 2026؟",
+    "options": [
+      "الدقيقة 82",
+      "الدقيقة 118",
+      "الدقيقة 68",
+      "الدقيقة 96"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final26_minute_v2",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q597",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "في تاريخ الأهلي: في أي دقيقة سجل فراس البريكان هدف نهائي آسيا 2026؟",
+    "options": [
+      "الدقيقة 118",
+      "الدقيقة 68",
+      "الدقيقة 82",
+      "الدقيقة 96"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final26_minute_v3",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q598",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: في أي دقيقة سجل فراس البريكان هدف نهائي آسيا 2026؟",
+    "options": [
+      "الدقيقة 82",
+      "الدقيقة 118",
+      "الدقيقة 96",
+      "الدقيقة 68"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final26_minute_v4",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q599",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "من هيأ الكرة لفراس البريكان قبل هدف النهائي 2026 بحسب SPL؟",
+    "options": [
+      "فرانك كيسي",
+      "إيفان توني",
+      "غالينو",
+      "رياض محرز"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final26_cushion_v1",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q600",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من هيأ الكرة لفراس البريكان قبل هدف النهائي 2026 بحسب SPL؟",
+    "options": [
+      "فرانك كيسي",
+      "رياض محرز",
+      "إيفان توني",
+      "غالينو"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final26_cushion_v2",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q601",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من هيأ الكرة لفراس البريكان قبل هدف النهائي 2026 بحسب SPL؟",
+    "options": [
+      "فرانك كيسي",
+      "رياض محرز",
+      "غالينو",
+      "إيفان توني"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final26_cushion_v3",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q602",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من هيأ الكرة لفراس البريكان قبل هدف النهائي 2026 بحسب SPL؟",
+    "options": [
+      "إيفان توني",
+      "رياض محرز",
+      "غالينو",
+      "فرانك كيسي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final26_cushion_v4",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q603",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "من أرسل العرضية التي بدأت منها لعبة هدف الأهلي في نهائي 2026؟",
+    "options": [
+      "رياض محرز",
+      "فراس البريكان",
+      "غالينو",
+      "إدوارد ميندي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final26_cross_v1",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q604",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من أرسل العرضية التي بدأت منها لعبة هدف الأهلي في نهائي 2026؟",
+    "options": [
+      "فراس البريكان",
+      "إدوارد ميندي",
+      "غالينو",
+      "رياض محرز"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final26_cross_v2",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q605",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من أرسل العرضية التي بدأت منها لعبة هدف الأهلي في نهائي 2026؟",
+    "options": [
+      "غالينو",
+      "إدوارد ميندي",
+      "رياض محرز",
+      "فراس البريكان"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final26_cross_v3",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q606",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من أرسل العرضية التي بدأت منها لعبة هدف الأهلي في نهائي 2026؟",
+    "options": [
+      "رياض محرز",
+      "إدوارد ميندي",
+      "فراس البريكان",
+      "غالينو"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final26_cross_v4",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q607",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "أي لاعب من الأهلي طُرد في نهائي آسيا 2026؟",
+    "options": [
+      "فرانك كيسي",
+      "زكريا هوساوي",
+      "إدوارد ميندي",
+      "رياض محرز"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final26_red_v1",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q608",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، أي لاعب من الأهلي طُرد في نهائي آسيا 2026؟",
+    "options": [
+      "رياض محرز",
+      "زكريا هوساوي",
+      "فرانك كيسي",
+      "إدوارد ميندي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final26_red_v2",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q609",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "في تاريخ الأهلي: أي لاعب من الأهلي طُرد في نهائي آسيا 2026؟",
+    "options": [
+      "إدوارد ميندي",
+      "رياض محرز",
+      "زكريا هوساوي",
+      "فرانك كيسي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final26_red_v3",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q610",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: أي لاعب من الأهلي طُرد في نهائي آسيا 2026؟",
+    "options": [
+      "رياض محرز",
+      "إدوارد ميندي",
+      "فرانك كيسي",
+      "زكريا هوساوي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final26_red_v4",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q611",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "ماذا حقق الأهلي في 2026 مقارنة بلقب آسيا 2025؟",
+    "options": [
+      "حافظ على اللقب",
+      "لم يشارك",
+      "حل وصيفاً",
+      "خرج من المجموعات"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final26_back2back_v1",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q612",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، ماذا حقق الأهلي في 2026 مقارنة بلقب آسيا 2025؟",
+    "options": [
+      "خرج من المجموعات",
+      "حافظ على اللقب",
+      "لم يشارك",
+      "حل وصيفاً"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final26_back2back_v2",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q613",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "في تاريخ الأهلي: ماذا حقق الأهلي في 2026 مقارنة بلقب آسيا 2025؟",
+    "options": [
+      "لم يشارك",
+      "حافظ على اللقب",
+      "حل وصيفاً",
+      "خرج من المجموعات"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final26_back2back_v3",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q614",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: ماذا حقق الأهلي في 2026 مقارنة بلقب آسيا 2025؟",
+    "options": [
+      "لم يشارك",
+      "حل وصيفاً",
+      "خرج من المجموعات",
+      "حافظ على اللقب"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final26_back2back_v4",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q615",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "أي نادٍ كان آخر من احتفظ باللقب الآسيوي قبل الأهلي بحسب SPL؟",
+    "options": [
+      "السد",
+      "الاتحاد",
+      "الهلال",
+      "النصر"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final26_last_repeat_v1",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q616",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، أي نادٍ كان آخر من احتفظ باللقب الآسيوي قبل الأهلي بحسب SPL؟",
+    "options": [
+      "السد",
+      "النصر",
+      "الهلال",
+      "الاتحاد"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final26_last_repeat_v2",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q617",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "في تاريخ الأهلي: أي نادٍ كان آخر من احتفظ باللقب الآسيوي قبل الأهلي بحسب SPL؟",
+    "options": [
+      "الاتحاد",
+      "الهلال",
+      "النصر",
+      "السد"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "final26_last_repeat_v3",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q618",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: أي نادٍ كان آخر من احتفظ باللقب الآسيوي قبل الأهلي بحسب SPL؟",
+    "options": [
+      "الهلال",
+      "السد",
+      "الاتحاد",
+      "النصر"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final26_last_repeat_v4",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q619",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "من كان مدرب الأهلي عند الاحتفاظ بلقب آسيا 2026؟",
+    "options": [
+      "كريستيان غروس",
+      "ماتياس يايسله",
+      "سيرجي ريبروف",
+      "بيب غوارديولا"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final26_coach_v1",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q620",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من كان مدرب الأهلي عند الاحتفاظ بلقب آسيا 2026؟",
+    "options": [
+      "بيب غوارديولا",
+      "كريستيان غروس",
+      "ماتياس يايسله",
+      "سيرجي ريبروف"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "final26_coach_v2",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q621",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من كان مدرب الأهلي عند الاحتفاظ بلقب آسيا 2026؟",
+    "options": [
+      "بيب غوارديولا",
+      "كريستيان غروس",
+      "سيرجي ريبروف",
+      "ماتياس يايسله"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "final26_coach_v3",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q622",
+    "category": "آسيا 2026",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من كان مدرب الأهلي عند الاحتفاظ بلقب آسيا 2026؟",
+    "options": [
+      "كريستيان غروس",
+      "ماتياس يايسله",
+      "بيب غوارديولا",
+      "سيرجي ريبروف"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "final26_coach_v4",
+    "sourceName": "Saudi Pro League — Al Ahli are Asian champions again",
+    "sourceUrl": "https://www.spl.com.sa/en/news/this-is-special-historic-al-ahli-are-asian-champions-again"
+  },
+  {
+    "id": "q623",
+    "category": "أرقام الدوري",
+    "type": "text",
+    "question": "من كان الهداف التاريخي للدوري برصيد 144 هدفاً في تقرير أرقام موسم 2023-24؟",
+    "options": [
+      "عبدالرزاق حمدالله",
+      "عمر السومة",
+      "محمد السهلاوي",
+      "ناصر الشمراني"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "record_somah_v1",
+    "sourceName": "Saudi Pro League — 2023-24 in record-breaking numbers",
+    "sourceUrl": "https://www.spl.com.sa/en/news/2023-24-roshn-saudi-league-in-record-breaking-numbers"
+  },
+  {
+    "id": "q624",
+    "category": "أرقام الدوري",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من كان الهداف التاريخي للدوري برصيد 144 هدفاً في تقرير أرقام موسم 2023-24؟",
+    "options": [
+      "عبدالرزاق حمدالله",
+      "محمد السهلاوي",
+      "عمر السومة",
+      "ناصر الشمراني"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "record_somah_v2",
+    "sourceName": "Saudi Pro League — 2023-24 in record-breaking numbers",
+    "sourceUrl": "https://www.spl.com.sa/en/news/2023-24-roshn-saudi-league-in-record-breaking-numbers"
+  },
+  {
+    "id": "q625",
+    "category": "أرقام الدوري",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من كان الهداف التاريخي للدوري برصيد 144 هدفاً في تقرير أرقام موسم 2023-24؟",
+    "options": [
+      "محمد السهلاوي",
+      "عمر السومة",
+      "عبدالرزاق حمدالله",
+      "ناصر الشمراني"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "record_somah_v3",
+    "sourceName": "Saudi Pro League — 2023-24 in record-breaking numbers",
+    "sourceUrl": "https://www.spl.com.sa/en/news/2023-24-roshn-saudi-league-in-record-breaking-numbers"
+  },
+  {
+    "id": "q626",
+    "category": "أرقام الدوري",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من كان الهداف التاريخي للدوري برصيد 144 هدفاً في تقرير أرقام موسم 2023-24؟",
+    "options": [
+      "محمد السهلاوي",
+      "عبدالرزاق حمدالله",
+      "عمر السومة",
+      "ناصر الشمراني"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "record_somah_v4",
+    "sourceName": "Saudi Pro League — 2023-24 in record-breaking numbers",
+    "sourceUrl": "https://www.spl.com.sa/en/news/2023-24-roshn-saudi-league-in-record-breaking-numbers"
+  },
+  {
+    "id": "q627",
+    "category": "أرقام الدوري",
+    "type": "text",
+    "question": "كم مساهمة تهديفية تاريخية ذُكرت لعمر السومة في تقرير 2023-24؟",
+    "options": [
+      "157 مساهمة",
+      "150 مساهمة",
+      "174 مساهمة",
+      "164 مساهمة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "somah_contrib164_v1",
+    "sourceName": "Saudi Pro League — 2023-24 in record-breaking numbers",
+    "sourceUrl": "https://www.spl.com.sa/en/news/2023-24-roshn-saudi-league-in-record-breaking-numbers"
+  },
+  {
+    "id": "q628",
+    "category": "أرقام الدوري",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، كم مساهمة تهديفية تاريخية ذُكرت لعمر السومة في تقرير 2023-24؟",
+    "options": [
+      "150 مساهمة",
+      "164 مساهمة",
+      "174 مساهمة",
+      "157 مساهمة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "somah_contrib164_v2",
+    "sourceName": "Saudi Pro League — 2023-24 in record-breaking numbers",
+    "sourceUrl": "https://www.spl.com.sa/en/news/2023-24-roshn-saudi-league-in-record-breaking-numbers"
+  },
+  {
+    "id": "q629",
+    "category": "أرقام الدوري",
+    "type": "text",
+    "question": "في تاريخ الأهلي: كم مساهمة تهديفية تاريخية ذُكرت لعمر السومة في تقرير 2023-24؟",
+    "options": [
+      "174 مساهمة",
+      "150 مساهمة",
+      "157 مساهمة",
+      "164 مساهمة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "somah_contrib164_v3",
+    "sourceName": "Saudi Pro League — 2023-24 in record-breaking numbers",
+    "sourceUrl": "https://www.spl.com.sa/en/news/2023-24-roshn-saudi-league-in-record-breaking-numbers"
+  },
+  {
+    "id": "q630",
+    "category": "أرقام الدوري",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: كم مساهمة تهديفية تاريخية ذُكرت لعمر السومة في تقرير 2023-24؟",
+    "options": [
+      "150 مساهمة",
+      "157 مساهمة",
+      "174 مساهمة",
+      "164 مساهمة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "somah_contrib164_v4",
+    "sourceName": "Saudi Pro League — 2023-24 in record-breaking numbers",
+    "sourceUrl": "https://www.spl.com.sa/en/news/2023-24-roshn-saudi-league-in-record-breaking-numbers"
+  },
+  {
+    "id": "q631",
+    "category": "أرقام الدوري",
+    "type": "text",
+    "question": "من كان صاحب 129 هدفاً وثاني أعلى هداف تاريخي وقت نهاية موسم 2023-24؟",
+    "options": [
+      "عبدالرزاق حمدالله",
+      "بافيتيمبي غوميز",
+      "عمر السومة",
+      "ناصر الشمراني"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "hamdallah129_v1",
+    "sourceName": "Saudi Pro League — 2023-24 in record-breaking numbers",
+    "sourceUrl": "https://www.spl.com.sa/en/news/2023-24-roshn-saudi-league-in-record-breaking-numbers"
+  },
+  {
+    "id": "q632",
+    "category": "أرقام الدوري",
+    "type": "text",
+    "question": "بحسب المصدر الرسمي، من كان صاحب 129 هدفاً وثاني أعلى هداف تاريخي وقت نهاية موسم 2023-24؟",
+    "options": [
+      "ناصر الشمراني",
+      "عمر السومة",
+      "عبدالرزاق حمدالله",
+      "بافيتيمبي غوميز"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "hamdallah129_v2",
+    "sourceName": "Saudi Pro League — 2023-24 in record-breaking numbers",
+    "sourceUrl": "https://www.spl.com.sa/en/news/2023-24-roshn-saudi-league-in-record-breaking-numbers"
+  },
+  {
+    "id": "q633",
+    "category": "أرقام الدوري",
+    "type": "text",
+    "question": "في تاريخ الأهلي: من كان صاحب 129 هدفاً وثاني أعلى هداف تاريخي وقت نهاية موسم 2023-24؟",
+    "options": [
+      "ناصر الشمراني",
+      "بافيتيمبي غوميز",
+      "عبدالرزاق حمدالله",
+      "عمر السومة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "hamdallah129_v3",
+    "sourceName": "Saudi Pro League — 2023-24 in record-breaking numbers",
+    "sourceUrl": "https://www.spl.com.sa/en/news/2023-24-roshn-saudi-league-in-record-breaking-numbers"
+  },
+  {
+    "id": "q634",
+    "category": "أرقام الدوري",
+    "type": "text",
+    "question": "اختبر معلوماتك عن الأهلي: من كان صاحب 129 هدفاً وثاني أعلى هداف تاريخي وقت نهاية موسم 2023-24؟",
+    "options": [
+      "بافيتيمبي غوميز",
+      "ناصر الشمراني",
+      "عبدالرزاق حمدالله",
+      "عمر السومة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "hamdallah129_v4",
+    "sourceName": "Saudi Pro League — 2023-24 in record-breaking numbers",
+    "sourceUrl": "https://www.spl.com.sa/en/news/2023-24-roshn-saudi-league-in-record-breaking-numbers"
+  },
+  {
+    "id": "q635",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: في أي عام تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "1927",
+      "1957",
+      "1947",
+      "1937"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "found_year_v1_p1",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q636",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، في أي عام تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "1957",
+      "1947",
+      "1937",
+      "1927"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "found_year_v2_p2",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q637",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: في أي عام تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "1957",
+      "1927",
+      "1947",
+      "1937"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "found_year_v3_p3",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q638",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: في أي عام تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "1957",
+      "1947",
+      "1937",
+      "1927"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "found_year_v4_p4",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q639",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: في أي عام هجري تأسس النادي الأهلي بحسب موقعه الرسمي؟",
+    "options": [
+      "1355هـ",
+      "1365هـ",
+      "1375هـ",
+      "1345هـ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "found_hijri_v1_p5",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q640",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، في أي عام هجري تأسس النادي الأهلي بحسب موقعه الرسمي؟",
+    "options": [
+      "1375هـ",
+      "1345هـ",
+      "1365هـ",
+      "1355هـ"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "found_hijri_v2_p6",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q641",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: في أي عام هجري تأسس النادي الأهلي بحسب موقعه الرسمي؟",
+    "options": [
+      "1355هـ",
+      "1345هـ",
+      "1365هـ",
+      "1375هـ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "found_hijri_v3_p7",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q642",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: في أي عام هجري تأسس النادي الأهلي بحسب موقعه الرسمي؟",
+    "options": [
+      "1375هـ",
+      "1365هـ",
+      "1355هـ",
+      "1345هـ"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "found_hijri_v4_p8",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q643",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: في أي مدينة تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "مكة",
+      "الرياض",
+      "الدمام",
+      "جدة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "found_city_v1_p9",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q644",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، في أي مدينة تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "مكة",
+      "الرياض",
+      "جدة",
+      "الدمام"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "found_city_v2_p10",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q645",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: في أي مدينة تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "مكة",
+      "الرياض",
+      "الدمام",
+      "جدة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "found_city_v3_p11",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q646",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: في أي مدينة تأسس النادي الأهلي السعودي؟",
+    "options": [
+      "الرياض",
+      "جدة",
+      "الدمام",
+      "مكة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "found_city_v4_p12",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q647",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: أين يقع مقر النادي الأهلي بحسب تاريخه الرسمي؟",
+    "options": [
+      "الخبر",
+      "الطائف",
+      "المدينة المنورة",
+      "جدة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "hq_city_v1_p13",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q648",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، أين يقع مقر النادي الأهلي بحسب تاريخه الرسمي؟",
+    "options": [
+      "الطائف",
+      "جدة",
+      "الخبر",
+      "المدينة المنورة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "hq_city_v2_p14",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q649",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: أين يقع مقر النادي الأهلي بحسب تاريخه الرسمي؟",
+    "options": [
+      "الخبر",
+      "جدة",
+      "المدينة المنورة",
+      "الطائف"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "hq_city_v3_p15",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q650",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: أين يقع مقر النادي الأهلي بحسب تاريخه الرسمي؟",
+    "options": [
+      "الطائف",
+      "جدة",
+      "الخبر",
+      "المدينة المنورة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "hq_city_v4_p16",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q651",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: على أي شارع يقع مقر الأهلي المذكور في موقع النادي؟",
+    "options": [
+      "شارع فلسطين",
+      "طريق الأمير سلطان",
+      "شارع الأمير محمد بن عبدالعزيز (التحلية)",
+      "طريق الملك فهد"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "hq_street_v1_p17",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q652",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، على أي شارع يقع مقر الأهلي المذكور في موقع النادي؟",
+    "options": [
+      "شارع الأمير محمد بن عبدالعزيز (التحلية)",
+      "طريق الأمير سلطان",
+      "شارع فلسطين",
+      "طريق الملك فهد"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "hq_street_v2_p18",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q653",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: على أي شارع يقع مقر الأهلي المذكور في موقع النادي؟",
+    "options": [
+      "شارع الأمير محمد بن عبدالعزيز (التحلية)",
+      "طريق الأمير سلطان",
+      "طريق الملك فهد",
+      "شارع فلسطين"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "hq_street_v3_p19",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q654",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: على أي شارع يقع مقر الأهلي المذكور في موقع النادي؟",
+    "options": [
+      "طريق الأمير سلطان",
+      "طريق الملك فهد",
+      "شارع فلسطين",
+      "شارع الأمير محمد بن عبدالعزيز (التحلية)"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "hq_street_v4_p20",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q655",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: بين طلاب أي مدرسة بدأت فكرة تأسيس الأهلي؟",
+    "options": [
+      "مدرسة الفلاح",
+      "مدرسة الثغر",
+      "مدرسة الفيصلية",
+      "مدرسة العزيزية"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "school_v1_p21",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q656",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، بين طلاب أي مدرسة بدأت فكرة تأسيس الأهلي؟",
+    "options": [
+      "مدرسة الفيصلية",
+      "مدرسة العزيزية",
+      "مدرسة الثغر",
+      "مدرسة الفلاح"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "school_v2_p22",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q657",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: بين طلاب أي مدرسة بدأت فكرة تأسيس الأهلي؟",
+    "options": [
+      "مدرسة العزيزية",
+      "مدرسة الفلاح",
+      "مدرسة الثغر",
+      "مدرسة الفيصلية"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "school_v3_p23",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q658",
+    "category": "تاريخ النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: بين طلاب أي مدرسة بدأت فكرة تأسيس الأهلي؟",
+    "options": [
+      "مدرسة الثغر",
+      "مدرسة العزيزية",
+      "مدرسة الفلاح",
+      "مدرسة الفيصلية"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "school_v4_p24",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q659",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: ما اللونان الشهيران لفريق كرة القدم في الأهلي بحسب الموقع الرسمي؟",
+    "options": [
+      "الأحمر والأسود",
+      "الأصفر والأزرق",
+      "الأبيض والأخضر",
+      "الأزرق والأبيض"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "colors_v1_p25",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q660",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما اللونان الشهيران لفريق كرة القدم في الأهلي بحسب الموقع الرسمي؟",
+    "options": [
+      "الأصفر والأزرق",
+      "الأبيض والأخضر",
+      "الأزرق والأبيض",
+      "الأحمر والأسود"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "colors_v2_p26",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q661",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما اللونان الشهيران لفريق كرة القدم في الأهلي بحسب الموقع الرسمي؟",
+    "options": [
+      "الأصفر والأزرق",
+      "الأزرق والأبيض",
+      "الأبيض والأخضر",
+      "الأحمر والأسود"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "colors_v3_p27",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q662",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما اللونان الشهيران لفريق كرة القدم في الأهلي بحسب الموقع الرسمي؟",
+    "options": [
+      "الأحمر والأسود",
+      "الأبيض والأخضر",
+      "الأزرق والأبيض",
+      "الأصفر والأزرق"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "colors_v4_p28",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q663",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: من أطلق على الأهلي لقب «سفير الوطن» بحسب موقع النادي؟",
+    "options": [
+      "الأمير سلطان بن فهد",
+      "الملك سلمان بن عبدالعزيز",
+      "الملك فهد بن عبدالعزيز",
+      "الملك عبدالله بن عبدالعزيز"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "ambassador_by_v1_p29",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q664",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، من أطلق على الأهلي لقب «سفير الوطن» بحسب موقع النادي؟",
+    "options": [
+      "الملك سلمان بن عبدالعزيز",
+      "الملك عبدالله بن عبدالعزيز",
+      "الأمير سلطان بن فهد",
+      "الملك فهد بن عبدالعزيز"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "ambassador_by_v2_p30",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q665",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: من أطلق على الأهلي لقب «سفير الوطن» بحسب موقع النادي؟",
+    "options": [
+      "الملك سلمان بن عبدالعزيز",
+      "الملك فهد بن عبدالعزيز",
+      "الملك عبدالله بن عبدالعزيز",
+      "الأمير سلطان بن فهد"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "ambassador_by_v3_p31",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q666",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: من أطلق على الأهلي لقب «سفير الوطن» بحسب موقع النادي؟",
+    "options": [
+      "الملك سلمان بن عبدالعزيز",
+      "الأمير سلطان بن فهد",
+      "الملك عبدالله بن عبدالعزيز",
+      "الملك فهد بن عبدالعزيز"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "ambassador_by_v4_p32",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q667",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: في أي تاريخ ميلادي مُنح الأهلي لقب «سفير الوطن»؟",
+    "options": [
+      "10 يوليو 2009",
+      "3 يوليو 2009",
+      "3 يوليو 2008",
+      "3 أغسطس 2009"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "ambassador_date_v1_p33",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q668",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، في أي تاريخ ميلادي مُنح الأهلي لقب «سفير الوطن»؟",
+    "options": [
+      "3 يوليو 2009",
+      "10 يوليو 2009",
+      "3 يوليو 2008",
+      "3 أغسطس 2009"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "ambassador_date_v2_p34",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q669",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: في أي تاريخ ميلادي مُنح الأهلي لقب «سفير الوطن»؟",
+    "options": [
+      "3 أغسطس 2009",
+      "10 يوليو 2009",
+      "3 يوليو 2008",
+      "3 يوليو 2009"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "ambassador_date_v3_p35",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q670",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: في أي تاريخ ميلادي مُنح الأهلي لقب «سفير الوطن»؟",
+    "options": [
+      "3 يوليو 2009",
+      "3 أغسطس 2009",
+      "10 يوليو 2009",
+      "3 يوليو 2008"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "ambassador_date_v4_p36",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q671",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: ما الدرع الذي تُوّج به الأهلي عند تكريمه بلقب سفير الوطن؟",
+    "options": [
+      "درع التفوق الرياضي",
+      "درع كأس الملك",
+      "درع الاتحاد الآسيوي",
+      "درع الدوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "excellence_shield_v1_p37",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q672",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما الدرع الذي تُوّج به الأهلي عند تكريمه بلقب سفير الوطن؟",
+    "options": [
+      "درع التفوق الرياضي",
+      "درع الدوري",
+      "درع كأس الملك",
+      "درع الاتحاد الآسيوي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "excellence_shield_v2_p38",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q673",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما الدرع الذي تُوّج به الأهلي عند تكريمه بلقب سفير الوطن؟",
+    "options": [
+      "درع الدوري",
+      "درع كأس الملك",
+      "درع التفوق الرياضي",
+      "درع الاتحاد الآسيوي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "excellence_shield_v3_p39",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q674",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما الدرع الذي تُوّج به الأهلي عند تكريمه بلقب سفير الوطن؟",
+    "options": [
+      "درع التفوق الرياضي",
+      "درع كأس الملك",
+      "درع الدوري",
+      "درع الاتحاد الآسيوي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "excellence_shield_v4_p40",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q675",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: كم بطولة خارجية ذكر موقع الأهلي أنه حققها في عام التكريم نفسه؟",
+    "options": [
+      "بطولتين",
+      "3 بطولات",
+      "5 بطولات",
+      "4 بطولات"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "four_external_v1_p41",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q676",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، كم بطولة خارجية ذكر موقع الأهلي أنه حققها في عام التكريم نفسه؟",
+    "options": [
+      "4 بطولات",
+      "3 بطولات",
+      "5 بطولات",
+      "بطولتين"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "four_external_v2_p42",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q677",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: كم بطولة خارجية ذكر موقع الأهلي أنه حققها في عام التكريم نفسه؟",
+    "options": [
+      "بطولتين",
+      "4 بطولات",
+      "5 بطولات",
+      "3 بطولات"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "four_external_v3_p43",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q678",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: كم بطولة خارجية ذكر موقع الأهلي أنه حققها في عام التكريم نفسه؟",
+    "options": [
+      "4 بطولات",
+      "5 بطولات",
+      "بطولتين",
+      "3 بطولات"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "four_external_v4_p44",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q679",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: أي فريق أهلاوي حقق بطولة آسيا في عام الإنجازات المذكور بالموقع؟",
+    "options": [
+      "فريق كرة الطائرة الأول",
+      "فريق كرة القدم الأول",
+      "فريق كرة اليد الأول",
+      "فريق كرة السلة الأول"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "handball_asia_v1_p45",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q680",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، أي فريق أهلاوي حقق بطولة آسيا في عام الإنجازات المذكور بالموقع؟",
+    "options": [
+      "فريق كرة الطائرة الأول",
+      "فريق كرة القدم الأول",
+      "فريق كرة السلة الأول",
+      "فريق كرة اليد الأول"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "handball_asia_v2_p46",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q681",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: أي فريق أهلاوي حقق بطولة آسيا في عام الإنجازات المذكور بالموقع؟",
+    "options": [
+      "فريق كرة الطائرة الأول",
+      "فريق كرة اليد الأول",
+      "فريق كرة القدم الأول",
+      "فريق كرة السلة الأول"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "handball_asia_v3_p47",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q682",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: أي فريق أهلاوي حقق بطولة آسيا في عام الإنجازات المذكور بالموقع؟",
+    "options": [
+      "فريق كرة الطائرة الأول",
+      "فريق كرة اليد الأول",
+      "فريق كرة السلة الأول",
+      "فريق كرة القدم الأول"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "handball_asia_v4_p48",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q683",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: أي فريقين من الأهلي حققا بطولتي الخليج لكرة القدم والطائرة في العام المذكور؟",
+    "options": [
+      "كرة الطائرة وكرة السلة",
+      "كرة اليد وكرة السلة",
+      "فريق كرة القدم الأول وفريق كرة الطائرة الأول",
+      "كرة القدم وكرة اليد"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "gulf_football_volley_v1_p49",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q684",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، أي فريقين من الأهلي حققا بطولتي الخليج لكرة القدم والطائرة في العام المذكور؟",
+    "options": [
+      "كرة الطائرة وكرة السلة",
+      "كرة القدم وكرة اليد",
+      "كرة اليد وكرة السلة",
+      "فريق كرة القدم الأول وفريق كرة الطائرة الأول"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "gulf_football_volley_v2_p50",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q685",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: أي فريقين من الأهلي حققا بطولتي الخليج لكرة القدم والطائرة في العام المذكور؟",
+    "options": [
+      "كرة القدم وكرة اليد",
+      "كرة اليد وكرة السلة",
+      "فريق كرة القدم الأول وفريق كرة الطائرة الأول",
+      "كرة الطائرة وكرة السلة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "gulf_football_volley_v3_p51",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q686",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: أي فريقين من الأهلي حققا بطولتي الخليج لكرة القدم والطائرة في العام المذكور؟",
+    "options": [
+      "كرة اليد وكرة السلة",
+      "فريق كرة القدم الأول وفريق كرة الطائرة الأول",
+      "كرة القدم وكرة اليد",
+      "كرة الطائرة وكرة السلة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "gulf_football_volley_v4_p52",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q687",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: في أي عام جمع الأهلي بين الدوري وكأس الملك وكأس السوبر السعودي؟",
+    "options": [
+      "2016",
+      "2012",
+      "2018",
+      "2014"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "triple_2016_v1_p53",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q688",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، في أي عام جمع الأهلي بين الدوري وكأس الملك وكأس السوبر السعودي؟",
+    "options": [
+      "2014",
+      "2018",
+      "2012",
+      "2016"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "triple_2016_v2_p54",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q689",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: في أي عام جمع الأهلي بين الدوري وكأس الملك وكأس السوبر السعودي؟",
+    "options": [
+      "2018",
+      "2014",
+      "2016",
+      "2012"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "triple_2016_v3_p55",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q690",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: في أي عام جمع الأهلي بين الدوري وكأس الملك وكأس السوبر السعودي؟",
+    "options": [
+      "2016",
+      "2012",
+      "2014",
+      "2018"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "triple_2016_v4_p56",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q691",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: ما النادي الذي يذكر موقع الأهلي أنه أول من جمع الدوري وكأس الملك وكأس السوبر في عام واحد؟",
+    "options": [
+      "النصر",
+      "الهلال",
+      "الأهلي السعودي",
+      "الاتحاد"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "first_triple_v1_p57",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q692",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما النادي الذي يذكر موقع الأهلي أنه أول من جمع الدوري وكأس الملك وكأس السوبر في عام واحد؟",
+    "options": [
+      "النصر",
+      "الهلال",
+      "الأهلي السعودي",
+      "الاتحاد"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "first_triple_v2_p58",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q693",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما النادي الذي يذكر موقع الأهلي أنه أول من جمع الدوري وكأس الملك وكأس السوبر في عام واحد؟",
+    "options": [
+      "الاتحاد",
+      "الأهلي السعودي",
+      "النصر",
+      "الهلال"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "first_triple_v3_p59",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q694",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما النادي الذي يذكر موقع الأهلي أنه أول من جمع الدوري وكأس الملك وكأس السوبر في عام واحد؟",
+    "options": [
+      "النصر",
+      "الاتحاد",
+      "الهلال",
+      "الأهلي السعودي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "first_triple_v4_p60",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q695",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب موقع الأهلي، ما البطولة التي كان الأهلي أول بطل رسمي لها؟",
+    "options": [
+      "كأس الاتحاد الآسيوي",
+      "كأس السوبر السعودي",
+      "كأس ولي العهد",
+      "دوري أبطال آسيا"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "first_crown_v1_p61",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q696",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، بحسب موقع الأهلي، ما البطولة التي كان الأهلي أول بطل رسمي لها؟",
+    "options": [
+      "دوري أبطال آسيا",
+      "كأس السوبر السعودي",
+      "كأس الاتحاد الآسيوي",
+      "كأس ولي العهد"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "first_crown_v2_p62",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q697",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: بحسب موقع الأهلي، ما البطولة التي كان الأهلي أول بطل رسمي لها؟",
+    "options": [
+      "كأس ولي العهد",
+      "دوري أبطال آسيا",
+      "كأس الاتحاد الآسيوي",
+      "كأس السوبر السعودي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "first_crown_v3_p63",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q698",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: بحسب موقع الأهلي، ما البطولة التي كان الأهلي أول بطل رسمي لها؟",
+    "options": [
+      "كأس الاتحاد الآسيوي",
+      "كأس السوبر السعودي",
+      "دوري أبطال آسيا",
+      "كأس ولي العهد"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "first_crown_v4_p64",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q699",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب موقع الأهلي، ما الثنائية التي كان أول من حققها؟",
+    "options": [
+      "الدوري السعودي وكأس الملك",
+      "الدوري وكأس ولي العهد",
+      "كأس الملك وكأس السوبر",
+      "الدوري ودوري أبطال آسيا"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "first_double_v1_p65",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q700",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، بحسب موقع الأهلي، ما الثنائية التي كان أول من حققها؟",
+    "options": [
+      "الدوري السعودي وكأس الملك",
+      "الدوري وكأس ولي العهد",
+      "الدوري ودوري أبطال آسيا",
+      "كأس الملك وكأس السوبر"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "first_double_v2_p66",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q701",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: بحسب موقع الأهلي، ما الثنائية التي كان أول من حققها؟",
+    "options": [
+      "الدوري وكأس ولي العهد",
+      "الدوري السعودي وكأس الملك",
+      "كأس الملك وكأس السوبر",
+      "الدوري ودوري أبطال آسيا"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "first_double_v3_p67",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q702",
+    "category": "إنجازات النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: بحسب موقع الأهلي، ما الثنائية التي كان أول من حققها؟",
+    "options": [
+      "كأس الملك وكأس السوبر",
+      "الدوري السعودي وكأس الملك",
+      "الدوري ودوري أبطال آسيا",
+      "الدوري وكأس ولي العهد"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "first_double_v4_p68",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q703",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: كم عدد الرياضات المختلفة التي يذكر الأهلي أنه يضمها حالياً تقريباً؟",
+    "options": [
+      "أقل من 5 رياضات",
+      "أكثر من 20 رياضة",
+      "15 رياضة فقط",
+      "10 رياضات فقط"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "sports_count_v1_p69",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q704",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، كم عدد الرياضات المختلفة التي يذكر الأهلي أنه يضمها حالياً تقريباً؟",
+    "options": [
+      "أكثر من 20 رياضة",
+      "10 رياضات فقط",
+      "أقل من 5 رياضات",
+      "15 رياضة فقط"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "sports_count_v2_p70",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q705",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: كم عدد الرياضات المختلفة التي يذكر الأهلي أنه يضمها حالياً تقريباً؟",
+    "options": [
+      "15 رياضة فقط",
+      "10 رياضات فقط",
+      "أقل من 5 رياضات",
+      "أكثر من 20 رياضة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "sports_count_v3_p71",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q706",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: كم عدد الرياضات المختلفة التي يذكر الأهلي أنه يضمها حالياً تقريباً؟",
+    "options": [
+      "15 رياضة فقط",
+      "10 رياضات فقط",
+      "أقل من 5 رياضات",
+      "أكثر من 20 رياضة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "sports_count_v4_p72",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q707",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي من الأسماء التالية ورد ضمن مؤسسي النادي الأهلي في الموقع الرسمي؟",
+    "options": [
+      "حسن شمس",
+      "عمر السومة",
+      "رياض محرز",
+      "إدوارد ميندي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "founder_1_a_p73",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q708",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: حسن شمس؟",
+    "options": [
+      "حسن بترجي",
+      "عبدالجليل بترجي",
+      "حسن شمس",
+      "إبراهيم نشار"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "founder_1_b_p74",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q709",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: عبدالرؤوف بترجي؟",
+    "options": [
+      "علي صابر",
+      "عمر شمس",
+      "حسن بترجي",
+      "عبدالرؤوف بترجي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "founder_2_b_p75",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q710",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: عبدالجليل بترجي؟",
+    "options": [
+      "عبدالجليل بترجي",
+      "عبدالرؤوف بترجي",
+      "محمد الصائغ",
+      "علي صابر"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "founder_3_b_p76",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q711",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: حسن بترجي؟",
+    "options": [
+      "حسن بترجي",
+      "إبراهيم نشار",
+      "حسين صابر",
+      "محمد الصائغ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "founder_4_b_p77",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q712",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: عمر شمس؟",
+    "options": [
+      "حسن بترجي",
+      "عبدالجليل بترجي",
+      "محمد تونسي",
+      "عمر شمس"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "founder_5_b_p78",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q713",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: محمد الصائغ؟",
+    "options": [
+      "محمد تونسي",
+      "حسين صابر",
+      "عمر شمس",
+      "محمد الصائغ"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "founder_6_b_p79",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q714",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: عمر باقيس؟",
+    "options": [
+      "محمد تونسي",
+      "عمر باقيس",
+      "محمد الصائغ",
+      "إبراهيم زهران"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "founder_7_b_p80",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q715",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: إبراهيم نشار؟",
+    "options": [
+      "محمد الصائغ",
+      "حسين صابر",
+      "إبراهيم نشار",
+      "عمر باقيس"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "founder_8_b_p81",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q716",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: إبراهيم بكر؟",
+    "options": [
+      "إبراهيم زهران",
+      "إبراهيم بكر",
+      "عمر باقيس",
+      "إبراهيم نشار"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "founder_9_b_p82",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q717",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: إبراهيم زهران؟",
+    "options": [
+      "إبراهيم بكر",
+      "إبراهيم زهران",
+      "حسن بترجي",
+      "حسن شمس"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "founder_10_b_p83",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q718",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: محمد تونسي؟",
+    "options": [
+      "إبراهيم نشار",
+      "محمد تونسي",
+      "علي صابر",
+      "محمد الصائغ"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "founder_11_b_p84",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q719",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: علي صابر؟",
+    "options": [
+      "علي صابر",
+      "عمر شمس",
+      "عمر باقيس",
+      "محمد تونسي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "founder_12_b_p85",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q720",
+    "category": "مؤسسو الأهلي",
+    "type": "text",
+    "question": "سؤال موثق: أي اسم من التالي هو المؤسس المطلوب ضمن قائمة مؤسسي الأهلي: حسين صابر؟",
+    "options": [
+      "عبدالجليل بترجي",
+      "عمر شمس",
+      "محمد تونسي",
+      "حسين صابر"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "founder_13_b_p86",
+    "sourceName": "Al-Ahli FC — Official Club History",
+    "sourceUrl": "https://www.alahlifc.sa/club-history"
+  },
+  {
+    "id": "q721",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: كم بطولة رسمية اعتمدها الأهلي للفريق الأول لكرة القدم في بيان 31 أغسطس 2025؟",
+    "options": [
+      "59 بطولة",
+      "53 بطولة",
+      "49 بطولة",
+      "43 بطولة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "titles_total_v1_p87",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q722",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، كم بطولة رسمية اعتمدها الأهلي للفريق الأول لكرة القدم في بيان 31 أغسطس 2025؟",
+    "options": [
+      "49 بطولة",
+      "59 بطولة",
+      "43 بطولة",
+      "53 بطولة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "titles_total_v2_p88",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q723",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: كم بطولة رسمية اعتمدها الأهلي للفريق الأول لكرة القدم في بيان 31 أغسطس 2025؟",
+    "options": [
+      "43 بطولة",
+      "59 بطولة",
+      "53 بطولة",
+      "49 بطولة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "titles_total_v3_p89",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q724",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: كم بطولة رسمية اعتمدها الأهلي للفريق الأول لكرة القدم في بيان 31 أغسطس 2025؟",
+    "options": [
+      "43 بطولة",
+      "59 بطولة",
+      "49 بطولة",
+      "53 بطولة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "titles_total_v4_p90",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q725",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: كم بطولة دوري تدخل ضمن الرقم الرسمي المعتمد للأهلي في بيان 2025؟",
+    "options": [
+      "9 بطولات دوري",
+      "12 بطولة دوري",
+      "6 بطولات دوري",
+      "3 بطولات دوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "league_total_v1_p91",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q726",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، كم بطولة دوري تدخل ضمن الرقم الرسمي المعتمد للأهلي في بيان 2025؟",
+    "options": [
+      "6 بطولات دوري",
+      "9 بطولات دوري",
+      "12 بطولة دوري",
+      "3 بطولات دوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "league_total_v2_p92",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q727",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: كم بطولة دوري تدخل ضمن الرقم الرسمي المعتمد للأهلي في بيان 2025؟",
+    "options": [
+      "9 بطولات دوري",
+      "3 بطولات دوري",
+      "12 بطولة دوري",
+      "6 بطولات دوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "league_total_v3_p93",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q728",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: كم بطولة دوري تدخل ضمن الرقم الرسمي المعتمد للأهلي في بيان 2025؟",
+    "options": [
+      "9 بطولات دوري",
+      "3 بطولات دوري",
+      "6 بطولات دوري",
+      "12 بطولة دوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "league_total_v4_p94",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q729",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: في أي تاريخ أعلن الأهلي اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "31 يوليو 2025",
+      "1 سبتمبر 2025",
+      "31 أغسطس 2024",
+      "31 أغسطس 2025"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "titles_date_v1_p95",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q730",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، في أي تاريخ أعلن الأهلي اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "1 سبتمبر 2025",
+      "31 أغسطس 2024",
+      "31 أغسطس 2025",
+      "31 يوليو 2025"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "titles_date_v2_p96",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q731",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: في أي تاريخ أعلن الأهلي اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "31 يوليو 2025",
+      "31 أغسطس 2025",
+      "31 أغسطس 2024",
+      "1 سبتمبر 2025"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "titles_date_v3_p97",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q732",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: في أي تاريخ أعلن الأهلي اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "31 يوليو 2025",
+      "31 أغسطس 2025",
+      "1 سبتمبر 2025",
+      "31 أغسطس 2024"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "titles_date_v4_p98",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q733",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: على قرار أي جهة استند الأهلي في اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "لجنة توثيق تاريخ كرة القدم السعودية",
+      "الاتحاد الآسيوي فقط",
+      "فيفا فقط",
+      "رابطة الدوري الإنجليزي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "titles_committee_v1_p99",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q734",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، على قرار أي جهة استند الأهلي في اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "رابطة الدوري الإنجليزي",
+      "فيفا فقط",
+      "لجنة توثيق تاريخ كرة القدم السعودية",
+      "الاتحاد الآسيوي فقط"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "titles_committee_v2_p100",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q735",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: على قرار أي جهة استند الأهلي في اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "لجنة توثيق تاريخ كرة القدم السعودية",
+      "الاتحاد الآسيوي فقط",
+      "فيفا فقط",
+      "رابطة الدوري الإنجليزي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "titles_committee_v3_p101",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q736",
+    "category": "البطولات",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: على قرار أي جهة استند الأهلي في اعتماد 53 بطولة رسمية؟",
+    "options": [
+      "رابطة الدوري الإنجليزي",
+      "الاتحاد الآسيوي فقط",
+      "لجنة توثيق تاريخ كرة القدم السعودية",
+      "فيفا فقط"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "titles_committee_v4_p102",
+    "sourceName": "Al-Ahli FC — 53 Official Titles",
+    "sourceUrl": "https://en.alahlifc.sa/news/53-official-titles-for-al-ahli-first-football-team"
+  },
+  {
+    "id": "q737",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: ما اللقب الذي يذكر برنامج عضوية الأهلي أن المشجعين يسمون النادي به؟",
+    "options": [
+      "الزعيم",
+      "الملكي",
+      "فارس الدهناء",
+      "العالمي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "nickname_malaki_v1_p103",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q738",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما اللقب الذي يذكر برنامج عضوية الأهلي أن المشجعين يسمون النادي به؟",
+    "options": [
+      "العالمي",
+      "فارس الدهناء",
+      "الزعيم",
+      "الملكي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "nickname_malaki_v2_p104",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q739",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما اللقب الذي يذكر برنامج عضوية الأهلي أن المشجعين يسمون النادي به؟",
+    "options": [
+      "الزعيم",
+      "فارس الدهناء",
+      "العالمي",
+      "الملكي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "nickname_malaki_v3_p105",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q740",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما اللقب الذي يذكر برنامج عضوية الأهلي أن المشجعين يسمون النادي به؟",
+    "options": [
+      "فارس الدهناء",
+      "العالمي",
+      "الملكي",
+      "الزعيم"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "nickname_malaki_v4_p106",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q741",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: ما اللقب الذي أطلقه الأمير سلطان بن فهد على الأهلي بحسب بوابة العضوية؟",
+    "options": [
+      "الراقي",
+      "سكري القصيم",
+      "العميد",
+      "الليث"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "nickname_raqi_v1_p107",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q742",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما اللقب الذي أطلقه الأمير سلطان بن فهد على الأهلي بحسب بوابة العضوية؟",
+    "options": [
+      "العميد",
+      "سكري القصيم",
+      "الليث",
+      "الراقي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "nickname_raqi_v2_p108",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q743",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما اللقب الذي أطلقه الأمير سلطان بن فهد على الأهلي بحسب بوابة العضوية؟",
+    "options": [
+      "العميد",
+      "الليث",
+      "سكري القصيم",
+      "الراقي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "nickname_raqi_v3_p109",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q744",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما اللقب الذي أطلقه الأمير سلطان بن فهد على الأهلي بحسب بوابة العضوية؟",
+    "options": [
+      "سكري القصيم",
+      "الليث",
+      "العميد",
+      "الراقي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "nickname_raqi_v4_p110",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q745",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: أي لقب آخر يذكره موقع عضوية الأهلي للنادي؟",
+    "options": [
+      "قلعة الذهب",
+      "فارس نجد",
+      "قلعة الكؤوس",
+      "نادي القرن"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "nickname_castle_v1_p111",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q746",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، أي لقب آخر يذكره موقع عضوية الأهلي للنادي؟",
+    "options": [
+      "فارس نجد",
+      "قلعة الذهب",
+      "قلعة الكؤوس",
+      "نادي القرن"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "nickname_castle_v2_p112",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q747",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: أي لقب آخر يذكره موقع عضوية الأهلي للنادي؟",
+    "options": [
+      "نادي القرن",
+      "فارس نجد",
+      "قلعة الكؤوس",
+      "قلعة الذهب"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "nickname_castle_v3_p113",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q748",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: أي لقب آخر يذكره موقع عضوية الأهلي للنادي؟",
+    "options": [
+      "نادي القرن",
+      "قلعة الكؤوس",
+      "قلعة الذهب",
+      "فارس نجد"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "nickname_castle_v4_p114",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q749",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: بأي اسم يُعرف الأهلي في البطولات العربية للتفريق بينه وبين أندية الأهلي الأخرى؟",
+    "options": [
+      "أهلي الرياض",
+      "أهلي مكة",
+      "أهلي جدة",
+      "أهلي الحجاز"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "arab_name_v1_p115",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q750",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، بأي اسم يُعرف الأهلي في البطولات العربية للتفريق بينه وبين أندية الأهلي الأخرى؟",
+    "options": [
+      "أهلي مكة",
+      "أهلي جدة",
+      "أهلي الرياض",
+      "أهلي الحجاز"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "arab_name_v2_p116",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q751",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: بأي اسم يُعرف الأهلي في البطولات العربية للتفريق بينه وبين أندية الأهلي الأخرى؟",
+    "options": [
+      "أهلي الحجاز",
+      "أهلي الرياض",
+      "أهلي جدة",
+      "أهلي مكة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "arab_name_v3_p117",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q752",
+    "category": "هوية النادي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: بأي اسم يُعرف الأهلي في البطولات العربية للتفريق بينه وبين أندية الأهلي الأخرى؟",
+    "options": [
+      "أهلي جدة",
+      "أهلي الحجاز",
+      "أهلي مكة",
+      "أهلي الرياض"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "arab_name_v4_p118",
+    "sourceName": "Al-Ahli FC — Official Membership Portal",
+    "sourceUrl": "https://membership.alahlifc.sa/ar/"
+  },
+  {
+    "id": "q753",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: ما المدينة المسجلة للنادي الأهلي في دليل أندية الاتحاد السعودي لموسم 2026-27؟",
+    "options": [
+      "جدة",
+      "الرياض",
+      "بريدة",
+      "الدمام"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "saff_city_v1_p119",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q754",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما المدينة المسجلة للنادي الأهلي في دليل أندية الاتحاد السعودي لموسم 2026-27؟",
+    "options": [
+      "الرياض",
+      "الدمام",
+      "جدة",
+      "بريدة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "saff_city_v2_p120",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q755",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما المدينة المسجلة للنادي الأهلي في دليل أندية الاتحاد السعودي لموسم 2026-27؟",
+    "options": [
+      "جدة",
+      "بريدة",
+      "الدمام",
+      "الرياض"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "saff_city_v3_p121",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q756",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما المدينة المسجلة للنادي الأهلي في دليل أندية الاتحاد السعودي لموسم 2026-27؟",
+    "options": [
+      "بريدة",
+      "جدة",
+      "الدمام",
+      "الرياض"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "saff_city_v4_p122",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q757",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: ما سنة تأسيس الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "1956",
+      "1927",
+      "1937",
+      "1945"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "saff_year_v1_p123",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q758",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما سنة تأسيس الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "1937",
+      "1927",
+      "1945",
+      "1956"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "saff_year_v2_p124",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q759",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما سنة تأسيس الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "1945",
+      "1937",
+      "1956",
+      "1927"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "saff_year_v3_p125",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q760",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما سنة تأسيس الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "1945",
+      "1956",
+      "1927",
+      "1937"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "saff_year_v4_p126",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q761",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: أي مكتب تابع له الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "المنطقة الشرقية",
+      "القصيم",
+      "جدة",
+      "عسير"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "saff_office_v1_p127",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q762",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، أي مكتب تابع له الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "القصيم",
+      "المنطقة الشرقية",
+      "جدة",
+      "عسير"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "saff_office_v2_p128",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q763",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: أي مكتب تابع له الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "جدة",
+      "عسير",
+      "القصيم",
+      "المنطقة الشرقية"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "saff_office_v3_p129",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q764",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: أي مكتب تابع له الأهلي في دليل الاتحاد السعودي؟",
+    "options": [
+      "جدة",
+      "عسير",
+      "القصيم",
+      "المنطقة الشرقية"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "saff_office_v4_p130",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q765",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: كم نادياً يظهر في أندية الدرجة الممتازة لموسم 2026-27 في صفحة الاتحاد السعودي؟",
+    "options": [
+      "22 نادياً",
+      "20 نادياً",
+      "18 نادياً",
+      "16 نادياً"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "saff_18_v1_p131",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q766",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، كم نادياً يظهر في أندية الدرجة الممتازة لموسم 2026-27 في صفحة الاتحاد السعودي؟",
+    "options": [
+      "18 نادياً",
+      "22 نادياً",
+      "20 نادياً",
+      "16 نادياً"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "saff_18_v2_p132",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q767",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: كم نادياً يظهر في أندية الدرجة الممتازة لموسم 2026-27 في صفحة الاتحاد السعودي؟",
+    "options": [
+      "16 نادياً",
+      "22 نادياً",
+      "18 نادياً",
+      "20 نادياً"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "saff_18_v3_p133",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q768",
+    "category": "الاتحاد السعودي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: كم نادياً يظهر في أندية الدرجة الممتازة لموسم 2026-27 في صفحة الاتحاد السعودي؟",
+    "options": [
+      "20 نادياً",
+      "22 نادياً",
+      "16 نادياً",
+      "18 نادياً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "saff_18_v4_p134",
+    "sourceName": "Saudi Arabian Football Federation — Club Directory",
+    "sourceUrl": "https://saff.com.sa/teams.php?id=1&season=26"
+  },
+  {
+    "id": "q769",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ما سعة ملعب مدينة الملك عبدالله الرياضية المذكورة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "62,241 متفرجاً",
+      "61,184 متفرجاً",
+      "70,000 متفرج",
+      "58,000 متفرج"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "stadium_capacity_2017_v1_p135",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q770",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما سعة ملعب مدينة الملك عبدالله الرياضية المذكورة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "58,000 متفرج",
+      "70,000 متفرج",
+      "62,241 متفرجاً",
+      "61,184 متفرجاً"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "stadium_capacity_2017_v2_p136",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q771",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما سعة ملعب مدينة الملك عبدالله الرياضية المذكورة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "58,000 متفرج",
+      "61,184 متفرجاً",
+      "70,000 متفرج",
+      "62,241 متفرجاً"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "stadium_capacity_2017_v3_p137",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q772",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما سعة ملعب مدينة الملك عبدالله الرياضية المذكورة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "62,241 متفرجاً",
+      "70,000 متفرج",
+      "58,000 متفرج",
+      "61,184 متفرجاً"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "stadium_capacity_2017_v4_p138",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q773",
+    "category": "الدوري",
+    "type": "text",
+    "question": "سؤال موثق: بحسب دليل AFC 2017، متى كان آخر لقب دوري للأهلي قبل تتويج 2016؟",
+    "options": [
+      "1990",
+      "1984",
+      "2005",
+      "1978"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "last_before_2016_v1_p139",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q774",
+    "category": "الدوري",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، بحسب دليل AFC 2017، متى كان آخر لقب دوري للأهلي قبل تتويج 2016؟",
+    "options": [
+      "1990",
+      "2005",
+      "1984",
+      "1978"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "last_before_2016_v2_p140",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q775",
+    "category": "الدوري",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: بحسب دليل AFC 2017، متى كان آخر لقب دوري للأهلي قبل تتويج 2016؟",
+    "options": [
+      "1978",
+      "1984",
+      "2005",
+      "1990"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "last_before_2016_v3_p141",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q776",
+    "category": "الدوري",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: بحسب دليل AFC 2017، متى كان آخر لقب دوري للأهلي قبل تتويج 2016؟",
+    "options": [
+      "1978",
+      "1990",
+      "2005",
+      "1984"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "last_before_2016_v4_p142",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q777",
+    "category": "الدوري",
+    "type": "text",
+    "question": "سؤال موثق: بكم نقطة تفوق الأهلي على وصيفه الهلال في دوري 2015-16 بحسب دليل AFC؟",
+    "options": [
+      "4 نقاط",
+      "10 نقاط",
+      "6 نقاط",
+      "8 نقاط"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "lead_8_v1_p143",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q778",
+    "category": "الدوري",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، بكم نقطة تفوق الأهلي على وصيفه الهلال في دوري 2015-16 بحسب دليل AFC؟",
+    "options": [
+      "6 نقاط",
+      "4 نقاط",
+      "8 نقاط",
+      "10 نقاط"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "lead_8_v2_p144",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q779",
+    "category": "الدوري",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: بكم نقطة تفوق الأهلي على وصيفه الهلال في دوري 2015-16 بحسب دليل AFC؟",
+    "options": [
+      "8 نقاط",
+      "6 نقاط",
+      "4 نقاط",
+      "10 نقاط"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "lead_8_v3_p145",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q780",
+    "category": "الدوري",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: بكم نقطة تفوق الأهلي على وصيفه الهلال في دوري 2015-16 بحسب دليل AFC؟",
+    "options": [
+      "6 نقاط",
+      "4 نقاط",
+      "8 نقاط",
+      "10 نقاط"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "lead_8_v4_p146",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q781",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة نهائي كأس الملك 2016 المذكورة في دليل AFC؟",
+    "options": [
+      "3-1 للأهلي على الاتحاد",
+      "2-1 للأهلي على النصر",
+      "1-0 للأهلي على الهلال",
+      "2-0 للأهلي على الشباب"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "kingcup_2016_v1_p147",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q782",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما نتيجة نهائي كأس الملك 2016 المذكورة في دليل AFC؟",
+    "options": [
+      "2-1 للأهلي على النصر",
+      "2-0 للأهلي على الشباب",
+      "3-1 للأهلي على الاتحاد",
+      "1-0 للأهلي على الهلال"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "kingcup_2016_v2_p148",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q783",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما نتيجة نهائي كأس الملك 2016 المذكورة في دليل AFC؟",
+    "options": [
+      "2-1 للأهلي على النصر",
+      "1-0 للأهلي على الهلال",
+      "3-1 للأهلي على الاتحاد",
+      "2-0 للأهلي على الشباب"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "kingcup_2016_v3_p149",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q784",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما نتيجة نهائي كأس الملك 2016 المذكورة في دليل AFC؟",
+    "options": [
+      "2-0 للأهلي على الشباب",
+      "3-1 للأهلي على الاتحاد",
+      "2-1 للأهلي على النصر",
+      "1-0 للأهلي على الهلال"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "kingcup_2016_v4_p150",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q785",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "سؤال موثق: في أي مركز أنهى الأهلي مجموعته في دوري أبطال آسيا 2016؟",
+    "options": [
+      "الرابع",
+      "الثالث",
+      "الأول",
+      "الثاني"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "acl2016_third_v1_p151",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q786",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، في أي مركز أنهى الأهلي مجموعته في دوري أبطال آسيا 2016؟",
+    "options": [
+      "الرابع",
+      "الثاني",
+      "الأول",
+      "الثالث"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "acl2016_third_v2_p152",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q787",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: في أي مركز أنهى الأهلي مجموعته في دوري أبطال آسيا 2016؟",
+    "options": [
+      "الأول",
+      "الثالث",
+      "الثاني",
+      "الرابع"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "acl2016_third_v3_p153",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q788",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: في أي مركز أنهى الأهلي مجموعته في دوري أبطال آسيا 2016؟",
+    "options": [
+      "الأول",
+      "الثاني",
+      "الرابع",
+      "الثالث"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "acl2016_third_v4_p154",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q789",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "سؤال موثق: أي فريقين أنهيا مجموعة آسيا 2016 أمام الأهلي بحسب دليل AFC؟",
+    "options": [
+      "السد والريان",
+      "العين والجيش",
+      "الهلال والنصر",
+      "بيروزي وباختاكور"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "acl2016_ahead_v1_p155",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q790",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، أي فريقين أنهيا مجموعة آسيا 2016 أمام الأهلي بحسب دليل AFC؟",
+    "options": [
+      "بيروزي وباختاكور",
+      "العين والجيش",
+      "السد والريان",
+      "الهلال والنصر"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "acl2016_ahead_v2_p156",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q791",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: أي فريقين أنهيا مجموعة آسيا 2016 أمام الأهلي بحسب دليل AFC؟",
+    "options": [
+      "بيروزي وباختاكور",
+      "العين والجيش",
+      "الهلال والنصر",
+      "السد والريان"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "acl2016_ahead_v3_p157",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q792",
+    "category": "آسيا 2016",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: أي فريقين أنهيا مجموعة آسيا 2016 أمام الأهلي بحسب دليل AFC؟",
+    "options": [
+      "الهلال والنصر",
+      "بيروزي وباختاكور",
+      "العين والجيش",
+      "السد والريان"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "acl2016_ahead_v4_p158",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q793",
+    "category": "بطولات الدوري",
+    "type": "text",
+    "question": "سؤال موثق: أي عام من التالي ورد ضمن ألقاب الدوري الثلاثة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "1978",
+      "1988",
+      "1995",
+      "2008"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "league_year_1978_v1_p159",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q794",
+    "category": "بطولات الدوري",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، أي عام من التالي ورد ضمن ألقاب الدوري الثلاثة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "1995",
+      "2008",
+      "1978",
+      "1988"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "league_year_1978_v2_p160",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q795",
+    "category": "بطولات الدوري",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: أي عام من التالي ورد ضمن ألقاب الدوري الثلاثة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "2008",
+      "1978",
+      "1995",
+      "1988"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "league_year_1978_v3_p161",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q796",
+    "category": "بطولات الدوري",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: أي عام من التالي ورد ضمن ألقاب الدوري الثلاثة في دليل AFC 2017 للأهلي؟",
+    "options": [
+      "1995",
+      "1988",
+      "2008",
+      "1978"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "league_year_1978_v4_p162",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q797",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "سؤال موثق: أي سنة من التالية وردت ضمن سنوات تتويج الأهلي بكأس الملك في دليل AFC 2017؟",
+    "options": [
+      "1968",
+      "1962",
+      "2009",
+      "1964"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "king_year_1962_v1_p163",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q798",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، أي سنة من التالية وردت ضمن سنوات تتويج الأهلي بكأس الملك في دليل AFC 2017؟",
+    "options": [
+      "1962",
+      "1968",
+      "1964",
+      "2009"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "king_year_1962_v2_p164",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q799",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: أي سنة من التالية وردت ضمن سنوات تتويج الأهلي بكأس الملك في دليل AFC 2017؟",
+    "options": [
+      "1968",
+      "1962",
+      "2009",
+      "1964"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "king_year_1962_v3_p165",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q800",
+    "category": "كأس الملك",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: أي سنة من التالية وردت ضمن سنوات تتويج الأهلي بكأس الملك في دليل AFC 2017؟",
+    "options": [
+      "2009",
+      "1968",
+      "1962",
+      "1964"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "king_year_1962_v4_p166",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q801",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: ما ترتيب الأهلي في الدوري عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف الدوري",
+      "بطل الدوري",
+      "الثالث في الدوري",
+      "الخامس في الدوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_league_2016_v1_p167",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q802",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما ترتيب الأهلي في الدوري عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "الخامس في الدوري",
+      "الثالث في الدوري",
+      "بطل الدوري",
+      "وصيف الدوري"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "dom_league_2016_v2_p168",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q803",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما ترتيب الأهلي في الدوري عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في الدوري",
+      "بطل الدوري",
+      "وصيف الدوري",
+      "الخامس في الدوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_league_2016_v3_p169",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q804",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما ترتيب الأهلي في الدوري عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف الدوري",
+      "الخامس في الدوري",
+      "بطل الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "dom_league_2016_v4_p170",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q805",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي في كأس الملك عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في كأس الملك",
+      "وصيف كأس الملك",
+      "بطل كأس الملك",
+      "دور الـ16 في كأس الملك"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "dom_cup_2016_v1_p171",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q806",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما نتيجة الأهلي في كأس الملك عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف كأس الملك",
+      "الثالث في كأس الملك",
+      "بطل كأس الملك",
+      "دور الـ16 في كأس الملك"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "dom_cup_2016_v2_p172",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q807",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما نتيجة الأهلي في كأس الملك عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل كأس الملك",
+      "وصيف كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_cup_2016_v3_p173",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q808",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما نتيجة الأهلي في كأس الملك عام 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16 في كأس الملك",
+      "بطل كأس الملك",
+      "الثالث في كأس الملك",
+      "وصيف كأس الملك"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_cup_2016_v4_p174",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q809",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: ما ترتيب الأهلي في الدوري عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في الدوري",
+      "وصيف الدوري",
+      "الخامس في الدوري",
+      "بطل الدوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_league_2015_v1_p175",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q810",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما ترتيب الأهلي في الدوري عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل الدوري",
+      "الثالث في الدوري",
+      "الخامس في الدوري",
+      "وصيف الدوري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_league_2015_v2_p176",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q811",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما ترتيب الأهلي في الدوري عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "الخامس في الدوري",
+      "وصيف الدوري",
+      "الثالث في الدوري",
+      "بطل الدوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_league_2015_v3_p177",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q812",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما ترتيب الأهلي في الدوري عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في الدوري",
+      "الخامس في الدوري",
+      "بطل الدوري",
+      "وصيف الدوري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_league_2015_v4_p178",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q813",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي في كأس الملك عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16 في كأس الملك",
+      "بطل كأس الملك",
+      "الثالث في كأس الملك",
+      "وصيف كأس الملك"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_cup_2015_v1_p179",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q814",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما نتيجة الأهلي في كأس الملك عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف كأس الملك",
+      "الثالث في كأس الملك",
+      "بطل كأس الملك",
+      "دور الـ16 في كأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_cup_2015_v2_p180",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q815",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما نتيجة الأهلي في كأس الملك عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك",
+      "بطل كأس الملك"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_cup_2015_v3_p181",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q816",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما نتيجة الأهلي في كأس الملك عام 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "وصيف كأس الملك",
+      "بطل كأس الملك"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_cup_2015_v4_p182",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q817",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: ما ترتيب الأهلي في الدوري عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف الدوري",
+      "بطل الدوري",
+      "الخامس في الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_league_2014_v1_p183",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q818",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما ترتيب الأهلي في الدوري عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في الدوري",
+      "بطل الدوري",
+      "الخامس في الدوري",
+      "وصيف الدوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_league_2014_v2_p184",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q819",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما ترتيب الأهلي في الدوري عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في الدوري",
+      "الخامس في الدوري",
+      "بطل الدوري",
+      "وصيف الدوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_league_2014_v3_p185",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q820",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما ترتيب الأهلي في الدوري عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف الدوري",
+      "الثالث في الدوري",
+      "الخامس في الدوري",
+      "بطل الدوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_league_2014_v4_p186",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q821",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي في كأس الملك عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك",
+      "وصيف كأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_cup_2014_v1_p187",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q822",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما نتيجة الأهلي في كأس الملك عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور الـ16 في كأس الملك",
+      "وصيف كأس الملك",
+      "بطل كأس الملك",
+      "الثالث في كأس الملك"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_cup_2014_v2_p188",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q823",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما نتيجة الأهلي في كأس الملك عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك",
+      "بطل كأس الملك"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_cup_2014_v3_p189",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q824",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما نتيجة الأهلي في كأس الملك عام 2014 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في كأس الملك",
+      "بطل كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "وصيف كأس الملك"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_cup_2014_v4_p190",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q825",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: ما ترتيب الأهلي في الدوري عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "الخامس في الدوري",
+      "وصيف الدوري",
+      "بطل الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_league_2013_v1_p191",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q826",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما ترتيب الأهلي في الدوري عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "الخامس في الدوري",
+      "وصيف الدوري",
+      "الثالث في الدوري",
+      "بطل الدوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_league_2013_v2_p192",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q827",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما ترتيب الأهلي في الدوري عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "الخامس في الدوري",
+      "وصيف الدوري",
+      "بطل الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_league_2013_v3_p193",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q828",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما ترتيب الأهلي في الدوري عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "الخامس في الدوري",
+      "الثالث في الدوري",
+      "بطل الدوري",
+      "وصيف الدوري"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_league_2013_v4_p194",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q829",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي في كأس الملك عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "بطل كأس الملك",
+      "وصيف كأس الملك"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_cup_2013_v1_p195",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q830",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما نتيجة الأهلي في كأس الملك عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف كأس الملك",
+      "بطل كأس الملك",
+      "الثالث في كأس الملك",
+      "دور الـ16 في كأس الملك"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "dom_cup_2013_v2_p196",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q831",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما نتيجة الأهلي في كأس الملك عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل كأس الملك",
+      "الثالث في كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "وصيف كأس الملك"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_cup_2013_v3_p197",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q832",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما نتيجة الأهلي في كأس الملك عام 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك",
+      "بطل كأس الملك"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "dom_cup_2013_v4_p198",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q833",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: ما ترتيب الأهلي في الدوري عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل الدوري",
+      "الخامس في الدوري",
+      "الثالث في الدوري",
+      "وصيف الدوري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_league_2012_v1_p199",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q834",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما ترتيب الأهلي في الدوري عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل الدوري",
+      "وصيف الدوري",
+      "الخامس في الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_league_2012_v2_p200",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q835",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما ترتيب الأهلي في الدوري عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل الدوري",
+      "الخامس في الدوري",
+      "وصيف الدوري",
+      "الثالث في الدوري"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "dom_league_2012_v3_p201",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q836",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما ترتيب الأهلي في الدوري عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "الثالث في الدوري",
+      "الخامس في الدوري",
+      "بطل الدوري",
+      "وصيف الدوري"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "dom_league_2012_v4_p202",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q837",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي في كأس الملك عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل كأس الملك",
+      "وصيف كأس الملك",
+      "الثالث في كأس الملك",
+      "دور الـ16 في كأس الملك"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_cup_2012_v1_p203",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q838",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، ما نتيجة الأهلي في كأس الملك عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل كأس الملك",
+      "وصيف كأس الملك",
+      "دور الـ16 في كأس الملك",
+      "الثالث في كأس الملك"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_cup_2012_v2_p204",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q839",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: ما نتيجة الأهلي في كأس الملك عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "بطل كأس الملك",
+      "الثالث في كأس الملك",
+      "وصيف كأس الملك",
+      "دور الـ16 في كأس الملك"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "dom_cup_2012_v3_p205",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q840",
+    "category": "السجل المحلي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: ما نتيجة الأهلي في كأس الملك عام 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "وصيف كأس الملك",
+      "بطل كأس الملك",
+      "الثالث في كأس الملك",
+      "دور الـ16 في كأس الملك"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "dom_cup_2012_v4_p206",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q841",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "ربع النهائي",
+      "دور المجموعات",
+      "دور الـ16",
+      "الوصيف"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2012_v1_p207",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q842",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "دور الـ16",
+      "ربع النهائي",
+      "دور المجموعات"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2012_v2_p208",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q843",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "ربع النهائي",
+      "دور الـ16",
+      "الوصيف",
+      "دور المجموعات"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2012_v3_p209",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q844",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2012 بحسب دليل AFC 2017؟",
+    "options": [
+      "ربع النهائي",
+      "دور المجموعات",
+      "الوصيف",
+      "دور الـ16"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2012_v4_p210",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q845",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "ربع النهائي",
+      "البطل",
+      "نصف النهائي",
+      "الوصيف"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2013_v1_p211",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q846",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "ربع النهائي",
+      "الوصيف",
+      "نصف النهائي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2013_v2_p212",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q847",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "البطل",
+      "ربع النهائي",
+      "نصف النهائي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2013_v3_p213",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q848",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2013 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "الوصيف",
+      "البطل",
+      "ربع النهائي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2013_v4_p214",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q849",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2005 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "نصف النهائي",
+      "البطل",
+      "ربع النهائي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2005_v1_p215",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q850",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2005 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "البطل",
+      "الوصيف",
+      "ربع النهائي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2005_v2_p216",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q851",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2005 بحسب دليل AFC 2017؟",
+    "options": [
+      "ربع النهائي",
+      "نصف النهائي",
+      "البطل",
+      "الوصيف"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2005_v3_p217",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q852",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2005 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "ربع النهائي",
+      "نصف النهائي",
+      "الوصيف"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2005_v4_p218",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q853",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "البطل",
+      "دور الـ16",
+      "الوصيف"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2015_v1_p219",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q854",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "دور الـ16",
+      "نصف النهائي",
+      "البطل"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2015_v2_p220",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q855",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "البطل",
+      "دور الـ16",
+      "نصف النهائي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2015_v3_p221",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q856",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2015 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "الوصيف",
+      "البطل",
+      "دور الـ16"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2015_v4_p222",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q857",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "البطل",
+      "دور المجموعات",
+      "نصف النهائي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2016_v1_p223",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q858",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور المجموعات",
+      "البطل",
+      "نصف النهائي",
+      "الوصيف"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2016_v2_p224",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q859",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "نصف النهائي",
+      "دور المجموعات",
+      "الوصيف"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2016_v3_p225",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q860",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2016 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "دور المجموعات",
+      "البطل",
+      "الوصيف"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2016_v4_p226",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q861",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2010 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور المجموعات",
+      "الوصيف",
+      "البطل",
+      "نصف النهائي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2010_v1_p227",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q862",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2010 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "الوصيف",
+      "البطل",
+      "دور المجموعات"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2010_v2_p228",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q863",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2010 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "البطل",
+      "الوصيف",
+      "دور المجموعات"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2010_v3_p229",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q864",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2010 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "دور المجموعات",
+      "نصف النهائي",
+      "البطل"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2010_v4_p230",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q865",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2008 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور المجموعات",
+      "نصف النهائي",
+      "الوصيف",
+      "البطل"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2008_v1_p231",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q866",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2008 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "الوصيف",
+      "البطل",
+      "دور المجموعات"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2008_v2_p232",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q867",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2008 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "الوصيف",
+      "دور المجموعات",
+      "نصف النهائي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2008_v3_p233",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q868",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2008 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "البطل",
+      "نصف النهائي",
+      "دور المجموعات"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2008_v4_p234",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q869",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2003 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "البطل",
+      "الوصيف",
+      "الدور التأهيلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2003_v1_p235",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q870",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2003 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "الوصيف",
+      "البطل",
+      "الدور التأهيلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2003_v2_p236",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q871",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2003 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "نصف النهائي",
+      "البطل",
+      "الدور التأهيلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2003_v3_p237",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q872",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في دوري أبطال آسيا 2003 بحسب دليل AFC 2017؟",
+    "options": [
+      "البطل",
+      "الدور التأهيلي",
+      "نصف النهائي",
+      "الوصيف"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_دوري أبطال آسيا 2003_v4_p238",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q873",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: إلى أي مرحلة وصل الأهلي في بطولة الأندية الآسيوية 1986 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "ربع النهائي",
+      "دور الـ16",
+      "دور المجموعات"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_بطولة الأندية الآسيوية 1986_v1_p239",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q874",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في بطولة الأندية الآسيوية 1986 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "دور الـ16",
+      "دور المجموعات",
+      "ربع النهائي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_بطولة الأندية الآسيوية 1986_v2_p240",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q875",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في بطولة الأندية الآسيوية 1986 بحسب دليل AFC 2017؟",
+    "options": [
+      "دور المجموعات",
+      "دور الـ16",
+      "ربع النهائي",
+      "الوصيف"
+    ],
+    "correctIndex": 3,
+    "difficulty": "hard",
+    "factId": "continental_بطولة الأندية الآسيوية 1986_v3_p241",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q876",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في بطولة الأندية الآسيوية 1986 بحسب دليل AFC 2017؟",
+    "options": [
+      "ربع النهائي",
+      "دور المجموعات",
+      "الوصيف",
+      "دور الـ16"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_بطولة الأندية الآسيوية 1986_v4_p242",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q877",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: إلى أي مرحلة وصل الأهلي في كأس الكؤوس الآسيوية 2000 بحسب دليل AFC 2017؟",
+    "options": [
+      "ربع النهائي",
+      "الوصيف",
+      "نصف النهائي",
+      "البطل"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard",
+    "factId": "continental_كأس الكؤوس الآسيوية 2000_v1_p243",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q878",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: بحسب المصدر الرسمي، إلى أي مرحلة وصل الأهلي في كأس الكؤوس الآسيوية 2000 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "البطل",
+      "ربع النهائي",
+      "نصف النهائي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_كأس الكؤوس الآسيوية 2000_v2_p244",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q879",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: في تاريخ الأهلي: إلى أي مرحلة وصل الأهلي في كأس الكؤوس الآسيوية 2000 بحسب دليل AFC 2017؟",
+    "options": [
+      "نصف النهائي",
+      "البطل",
+      "ربع النهائي",
+      "الوصيف"
+    ],
+    "correctIndex": 2,
+    "difficulty": "hard",
+    "factId": "continental_كأس الكؤوس الآسيوية 2000_v3_p245",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q880",
+    "category": "السجل الآسيوي",
+    "type": "text",
+    "question": "سؤال موثق: اختبر معلوماتك عن الأهلي: إلى أي مرحلة وصل الأهلي في كأس الكؤوس الآسيوية 2000 بحسب دليل AFC 2017؟",
+    "options": [
+      "الوصيف",
+      "ربع النهائي",
+      "نصف النهائي",
+      "البطل"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard",
+    "factId": "continental_كأس الكؤوس الآسيوية 2000_v4_p246",
+    "sourceName": "AFC Champions League — Official Media Guide 2017",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2017-media-guide-34848"
+  },
+  {
+    "id": "q881",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 21 فبراير 2017؟",
+    "options": [
+      "بونيودكور",
+      "الاتحاد",
+      "الجزيرة",
+      "العين"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_1_opp_p247",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q882",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام بونيودكور في دور المجموعات بتاريخ 21 فبراير 2017؟",
+    "options": [
+      "1-0",
+      "0-2",
+      "2-0",
+      "2-1"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_1_score_p248",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q883",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام بونيودكور في 21 فبراير 2017؟",
+    "options": [
+      "خسر الأهلي",
+      "تعادل الأهلي",
+      "فاز الأهلي",
+      "أُلغيت المباراة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2017_1_result_p249",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q884",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع بونيودكور بتاريخ 21 فبراير 2017 وفق سجل AFC؟",
+    "options": [
+      "لم تُلعب",
+      "خارج أرض الأهلي",
+      "على أرض محايدة",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_1_home_p250",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q885",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 28 فبراير 2017؟",
+    "options": [
+      "الجزيرة",
+      "الاتحاد",
+      "الاستقلال",
+      "ذوب آهن"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_2_opp_p251",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q886",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام ذوب آهن في دور المجموعات بتاريخ 28 فبراير 2017؟",
+    "options": [
+      "1-2",
+      "1-1",
+      "2-2",
+      "2-1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_2_score_p252",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q887",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام ذوب آهن في 28 فبراير 2017؟",
+    "options": [
+      "خسر الأهلي",
+      "أُلغيت المباراة",
+      "فاز الأهلي",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2017_2_result_p253",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q888",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع ذوب آهن بتاريخ 28 فبراير 2017 وفق سجل AFC؟",
+    "options": [
+      "على أرض الأهلي",
+      "خارج أرض الأهلي",
+      "على أرض محايدة",
+      "لم تُلعب"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2017_2_home_p254",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q889",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 13 مارس 2017؟",
+    "options": [
+      "بونيودكور",
+      "تراكتور",
+      "شباب الأهلي",
+      "العين"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_3_opp_p255",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q890",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام العين في دور المجموعات بتاريخ 13 مارس 2017؟",
+    "options": [
+      "2-2",
+      "2-3",
+      "3-0",
+      "1-2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_3_score_p256",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q891",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام العين في 13 مارس 2017؟",
+    "options": [
+      "فاز الأهلي",
+      "خسر الأهلي",
+      "أُلغيت المباراة",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2017_3_result_p257",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q892",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع العين بتاريخ 13 مارس 2017 وفق سجل AFC؟",
+    "options": [
+      "على أرض الأهلي",
+      "على أرض محايدة",
+      "خارج أرض الأهلي",
+      "لم تُلعب"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_3_home_p258",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q893",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 11 أبريل 2017؟",
+    "options": [
+      "السد",
+      "الهلال",
+      "العين",
+      "باختاكور"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_4_opp_p259",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q894",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام العين في دور المجموعات بتاريخ 11 أبريل 2017؟",
+    "options": [
+      "2-3",
+      "2-2",
+      "1-2",
+      "3-0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2017_4_score_p260",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q895",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام العين في 11 أبريل 2017؟",
+    "options": [
+      "تعادل الأهلي",
+      "فاز الأهلي",
+      "أُلغيت المباراة",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "m2017_4_result_p261",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q896",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع العين بتاريخ 11 أبريل 2017 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "لم تُلعب",
+      "على أرض الأهلي",
+      "على أرض محايدة"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_4_home_p262",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q897",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 24 أبريل 2017؟",
+    "options": [
+      "بيروزي",
+      "النصر",
+      "بونيودكور",
+      "ذوب آهن"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_5_opp_p263",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q898",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام بونيودكور في دور المجموعات بتاريخ 24 أبريل 2017؟",
+    "options": [
+      "0-2",
+      "0-3",
+      "2-0",
+      "0-0"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_5_score_p264",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q899",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام بونيودكور في 24 أبريل 2017؟",
+    "options": [
+      "فاز الأهلي",
+      "تعادل الأهلي",
+      "أُلغيت المباراة",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2017_5_result_p265",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q900",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع بونيودكور بتاريخ 24 أبريل 2017 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "لم تُلعب",
+      "على أرض محايدة",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_5_home_p266",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q901",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 8 مايو 2017؟",
+    "options": [
+      "الشرطة",
+      "الهلال",
+      "ذوب آهن",
+      "النصر"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_6_opp_p267",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q902",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام ذوب آهن في دور المجموعات بتاريخ 8 مايو 2017؟",
+    "options": [
+      "0-2",
+      "1-0",
+      "2-0",
+      "2-1"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_6_score_p268",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q903",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام ذوب آهن في 8 مايو 2017؟",
+    "options": [
+      "خسر الأهلي",
+      "تعادل الأهلي",
+      "فاز الأهلي",
+      "أُلغيت المباراة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2017_6_result_p269",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q904",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع ذوب آهن بتاريخ 8 مايو 2017 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "خارج أرض الأهلي",
+      "لم تُلعب",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_6_home_p270",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q905",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور الـ16 - الذهاب يوم 22 مايو 2017؟",
+    "options": [
+      "تراكتور",
+      "الهلال",
+      "الأهلي الإماراتي",
+      "النصر"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_7_opp_p271",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q906",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام الأهلي الإماراتي في دور الـ16 - الذهاب بتاريخ 22 مايو 2017؟",
+    "options": [
+      "1-1",
+      "4-0",
+      "0-1",
+      "1-2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_7_score_p272",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q907",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الأهلي الإماراتي في 22 مايو 2017؟",
+    "options": [
+      "أُلغيت المباراة",
+      "خسر الأهلي",
+      "تعادل الأهلي",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2017_7_result_p273",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q908",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع الأهلي الإماراتي بتاريخ 22 مايو 2017 وفق سجل AFC؟",
+    "options": [
+      "على أرض الأهلي",
+      "على أرض محايدة",
+      "لم تُلعب",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_7_home_p274",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q909",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور الـ16 - الإياب يوم 29 مايو 2017؟",
+    "options": [
+      "الاستقلال",
+      "بيروزي",
+      "الأهلي الإماراتي",
+      "العين"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_8_opp_p275",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q910",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام الأهلي الإماراتي في دور الـ16 - الإياب بتاريخ 29 مايو 2017؟",
+    "options": [
+      "3-2",
+      "2-1",
+      "1-3",
+      "3-1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_8_score_p276",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q911",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الأهلي الإماراتي في 29 مايو 2017؟",
+    "options": [
+      "فاز الأهلي",
+      "أُلغيت المباراة",
+      "خسر الأهلي",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "m2017_8_result_p277",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q912",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع الأهلي الإماراتي بتاريخ 29 مايو 2017 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "خارج أرض الأهلي",
+      "لم تُلعب",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2017_8_home_p278",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q913",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في ربع النهائي - الذهاب يوم 22 أغسطس 2017؟",
+    "options": [
+      "السد",
+      "الشرطة",
+      "بيروزي",
+      "باختاكور"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_9_opp_p279",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q914",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام بيروزي في ربع النهائي - الذهاب بتاريخ 22 أغسطس 2017؟",
+    "options": [
+      "2-2",
+      "1-2",
+      "2-3",
+      "خيار 1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_9_score_p280",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q915",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام بيروزي في 22 أغسطس 2017؟",
+    "options": [
+      "خسر الأهلي",
+      "فاز الأهلي",
+      "أُلغيت المباراة",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2017_9_result_p281",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q916",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع بيروزي بتاريخ 22 أغسطس 2017 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "على أرض الأهلي",
+      "خارج أرض الأهلي",
+      "لم تُلعب"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2017_9_home_p282",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q917",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في ربع النهائي - الإياب يوم 12 سبتمبر 2017؟",
+    "options": [
+      "بونيودكور",
+      "بيروزي",
+      "الاستقلال",
+      "شباب الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2017_10_opp_p283",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q918",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام بيروزي في ربع النهائي - الإياب بتاريخ 12 سبتمبر 2017؟",
+    "options": [
+      "1-3",
+      "1-4",
+      "3-1",
+      "0-3"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2017_10_score_p284",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q919",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام بيروزي في 12 سبتمبر 2017؟",
+    "options": [
+      "أُلغيت المباراة",
+      "فاز الأهلي",
+      "خسر الأهلي",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2017_10_result_p285",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q920",
+    "category": "آسيا 2017",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع بيروزي بتاريخ 12 سبتمبر 2017 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "لم تُلعب",
+      "على أرض محايدة",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2017_10_home_p286",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2017",
+    "sourceUrl": "https://stats.the-afc.com/tournament/195/teams/198/profile"
+  },
+  {
+    "id": "q921",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 12 فبراير 2018؟",
+    "options": [
+      "شباب الأهلي",
+      "تراكتور",
+      "باختاكور",
+      "السد"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2018_1_opp_p287",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q922",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام تراكتور في دور المجموعات بتاريخ 12 فبراير 2018؟",
+    "options": [
+      "1-0",
+      "0-0",
+      "1-1",
+      "0-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2018_1_score_p288",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q923",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام تراكتور في 12 فبراير 2018؟",
+    "options": [
+      "تعادل الأهلي",
+      "أُلغيت المباراة",
+      "فاز الأهلي",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2018_1_result_p289",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q924",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع تراكتور بتاريخ 12 فبراير 2018 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "على أرض محايدة",
+      "على أرض الأهلي",
+      "لم تُلعب"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2018_1_home_p290",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q925",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 19 فبراير 2018؟",
+    "options": [
+      "بيروزي",
+      "شباب الأهلي",
+      "الجزيرة",
+      "الاستقلال"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_2_opp_p291",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q926",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام الجزيرة في دور المجموعات بتاريخ 19 فبراير 2018؟",
+    "options": [
+      "2-2",
+      "1-1",
+      "1-2",
+      "2-1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_2_score_p292",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q927",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الجزيرة في 19 فبراير 2018؟",
+    "options": [
+      "فاز الأهلي",
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy",
+    "factId": "m2018_2_result_p293",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q928",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع الجزيرة بتاريخ 19 فبراير 2018 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "لم تُلعب",
+      "على أرض الأهلي",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_2_home_p294",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q929",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 5 مارس 2018؟",
+    "options": [
+      "الاستقلال",
+      "الغرافة",
+      "العين",
+      "الشرطة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2018_3_opp_p295",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q930",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام الغرافة في دور المجموعات بتاريخ 5 مارس 2018؟",
+    "options": [
+      "0-1",
+      "1-2",
+      "1-4",
+      "1-1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_3_score_p296",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q931",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الغرافة في 5 مارس 2018؟",
+    "options": [
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "خسر الأهلي",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2018_3_result_p297",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q932",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع الغرافة بتاريخ 5 مارس 2018 وفق سجل AFC؟",
+    "options": [
+      "لم تُلعب",
+      "على أرض الأهلي",
+      "خارج أرض الأهلي",
+      "على أرض محايدة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_3_home_p298",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q933",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 13 مارس 2018؟",
+    "options": [
+      "الجزيرة",
+      "الاستقلال",
+      "الغرافة",
+      "تراكتور"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_4_opp_p299",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q934",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام الغرافة في دور المجموعات بتاريخ 13 مارس 2018؟",
+    "options": [
+      "1-1",
+      "0-1",
+      "1-0",
+      "1-2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2018_4_score_p300",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q935",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الغرافة في 13 مارس 2018؟",
+    "options": [
+      "خسر الأهلي",
+      "تعادل الأهلي",
+      "فاز الأهلي",
+      "أُلغيت المباراة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2018_4_result_p301",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q936",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع الغرافة بتاريخ 13 مارس 2018 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "لم تُلعب",
+      "على أرض الأهلي",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_4_home_p302",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q937",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 3 أبريل 2018؟",
+    "options": [
+      "شباب الأهلي",
+      "ذوب آهن",
+      "تراكتور",
+      "السد"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_5_opp_p303",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q938",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام تراكتور في دور المجموعات بتاريخ 3 أبريل 2018؟",
+    "options": [
+      "2-1",
+      "2-0",
+      "0-2",
+      "1-0"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2018_5_score_p304",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q939",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام تراكتور في 3 أبريل 2018؟",
+    "options": [
+      "خسر الأهلي",
+      "فاز الأهلي",
+      "أُلغيت المباراة",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2018_5_result_p305",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q940",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع تراكتور بتاريخ 3 أبريل 2018 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "خارج أرض الأهلي",
+      "لم تُلعب",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_5_home_p306",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q941",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 17 أبريل 2018؟",
+    "options": [
+      "الاستقلال",
+      "السد",
+      "ذوب آهن",
+      "الجزيرة"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_6_opp_p307",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q942",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام الجزيرة في دور المجموعات بتاريخ 17 أبريل 2018؟",
+    "options": [
+      "1-1",
+      "1-2",
+      "2-1",
+      "2-2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_6_score_p308",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q943",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الجزيرة في 17 أبريل 2018؟",
+    "options": [
+      "خسر الأهلي",
+      "تعادل الأهلي",
+      "أُلغيت المباراة",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2018_6_result_p309",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q944",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع الجزيرة بتاريخ 17 أبريل 2018 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "لم تُلعب",
+      "على أرض الأهلي",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2018_6_home_p310",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q945",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور الـ16 - الذهاب يوم 7 مايو 2018؟",
+    "options": [
+      "ذوب آهن",
+      "تراكتور",
+      "السد",
+      "بونيودكور"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_7_opp_p311",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q946",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام السد في دور الـ16 - الذهاب بتاريخ 7 مايو 2018؟",
+    "options": [
+      "0-2",
+      "1-2",
+      "1-3",
+      "2-1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2018_7_score_p312",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q947",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام السد في 7 مايو 2018؟",
+    "options": [
+      "أُلغيت المباراة",
+      "فاز الأهلي",
+      "تعادل الأهلي",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2018_7_result_p313",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q948",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع السد بتاريخ 7 مايو 2018 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "على أرض محايدة",
+      "على أرض الأهلي",
+      "لم تُلعب"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2018_7_home_p314",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q949",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور الـ16 - الإياب يوم 14 مايو 2018؟",
+    "options": [
+      "السد",
+      "الاستقلال",
+      "النصر",
+      "الهلال"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2018_8_opp_p315",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q950",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام السد في دور الـ16 - الإياب بتاريخ 14 مايو 2018؟",
+    "options": [
+      "2-3",
+      "3-3",
+      "2-2",
+      "1-2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2018_8_score_p316",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q951",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام السد في 14 مايو 2018؟",
+    "options": [
+      "خسر الأهلي",
+      "تعادل الأهلي",
+      "أُلغيت المباراة",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2018_8_result_p317",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q952",
+    "category": "آسيا 2018",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع السد بتاريخ 14 مايو 2018 وفق سجل AFC؟",
+    "options": [
+      "على أرض الأهلي",
+      "على أرض محايدة",
+      "لم تُلعب",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2018_8_home_p318",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2018",
+    "sourceUrl": "https://stats.the-afc.com/tournament/223/teams/198/profile"
+  },
+  {
+    "id": "q953",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في الدور التأهيلي يوم 28 يناير 2020؟",
+    "options": [
+      "العين",
+      "الهلال",
+      "استقلال دوشنبه",
+      "شباب الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_1_opp_p319",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q954",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام استقلال دوشنبه في الدور التأهيلي بتاريخ 28 يناير 2020؟",
+    "options": [
+      "0-0",
+      "0-1",
+      "1-0",
+      "1-1"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_1_score_p320",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q955",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام استقلال دوشنبه في 28 يناير 2020؟",
+    "options": [
+      "خسر الأهلي",
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2020_1_result_p321",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q956",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع استقلال دوشنبه بتاريخ 28 يناير 2020 وفق سجل AFC؟",
+    "options": [
+      "على أرض الأهلي",
+      "على أرض محايدة",
+      "لم تُلعب",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2020_1_home_p322",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q957",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 10 فبراير 2020؟",
+    "options": [
+      "تراكتور",
+      "الاتحاد",
+      "الوحدة الإماراتي",
+      "الهلال"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_2_opp_p323",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q958",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام الوحدة الإماراتي في دور المجموعات بتاريخ 10 فبراير 2020؟",
+    "options": [
+      "0-1",
+      "1-2",
+      "0-4",
+      "1-1"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2020_2_score_p324",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q959",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الوحدة الإماراتي في 10 فبراير 2020؟",
+    "options": [
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "فاز الأهلي",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2020_2_result_p325",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q960",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع الوحدة الإماراتي بتاريخ 10 فبراير 2020 وفق سجل AFC؟",
+    "options": [
+      "على أرض الأهلي",
+      "على أرض محايدة",
+      "لم تُلعب",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2020_2_home_p326",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q961",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 17 فبراير 2020؟",
+    "options": [
+      "الشرطة",
+      "ذوب آهن",
+      "الغرافة",
+      "الاستقلال الإيراني"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2020_3_opp_p327",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q962",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام الاستقلال الإيراني في دور المجموعات بتاريخ 17 فبراير 2020؟",
+    "options": [
+      "2-1",
+      "2-2",
+      "1-2",
+      "1-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2020_3_score_p328",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q963",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الاستقلال الإيراني في 17 فبراير 2020؟",
+    "options": [
+      "تعادل الأهلي",
+      "فاز الأهلي",
+      "خسر الأهلي",
+      "أُلغيت المباراة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2020_3_result_p329",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q964",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع الاستقلال الإيراني بتاريخ 17 فبراير 2020 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "على أرض الأهلي",
+      "لم تُلعب",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2020_3_home_p330",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q965",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 14 سبتمبر 2020؟",
+    "options": [
+      "الشرطة العراقي",
+      "النصر",
+      "تراكتور",
+      "ذوب آهن"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2020_4_opp_p331",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q966",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام الشرطة العراقي في دور المجموعات بتاريخ 14 سبتمبر 2020؟",
+    "options": [
+      "1-0",
+      "0-0",
+      "0-1",
+      "1-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2020_4_score_p332",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q967",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الشرطة العراقي في 14 سبتمبر 2020؟",
+    "options": [
+      "تعادل الأهلي",
+      "أُلغيت المباراة",
+      "خسر الأهلي",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2020_4_result_p333",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q968",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع الشرطة العراقي بتاريخ 14 سبتمبر 2020 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "لم تُلعب",
+      "على أرض محايدة",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2020_4_home_p334",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q969",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 17 سبتمبر 2020؟",
+    "options": [
+      "بونيودكور",
+      "الجزيرة",
+      "الشرطة العراقي",
+      "ذوب آهن"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_5_opp_p335",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q970",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام الشرطة العراقي في دور المجموعات بتاريخ 17 سبتمبر 2020؟",
+    "options": [
+      "1-2",
+      "1-3",
+      "0-2",
+      "2-1"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2020_5_score_p336",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q971",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الشرطة العراقي في 17 سبتمبر 2020؟",
+    "options": [
+      "فاز الأهلي",
+      "تعادل الأهلي",
+      "خسر الأهلي",
+      "أُلغيت المباراة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2020_5_result_p337",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q972",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع الشرطة العراقي بتاريخ 17 سبتمبر 2020 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "خارج أرض الأهلي",
+      "على أرض الأهلي",
+      "لم تُلعب"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2020_5_home_p338",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q973",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور المجموعات يوم 23 سبتمبر 2020؟",
+    "options": [
+      "الاستقلال الإيراني",
+      "الغرافة",
+      "السد",
+      "بيروزي"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2020_6_opp_p339",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q974",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام الاستقلال الإيراني في دور المجموعات بتاريخ 23 سبتمبر 2020؟",
+    "options": [
+      "0-4",
+      "3-0",
+      "0-3",
+      "0-0"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_6_score_p340",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q975",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الاستقلال الإيراني في 23 سبتمبر 2020؟",
+    "options": [
+      "تعادل الأهلي",
+      "خسر الأهلي",
+      "أُلغيت المباراة",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2020_6_result_p341",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q976",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع الاستقلال الإيراني بتاريخ 23 سبتمبر 2020 وفق سجل AFC؟",
+    "options": [
+      "على أرض الأهلي",
+      "لم تُلعب",
+      "خارج أرض الأهلي",
+      "على أرض محايدة"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_6_home_p342",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q977",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور الـ16 يوم 26 سبتمبر 2020؟",
+    "options": [
+      "تراكتور",
+      "باختاكور",
+      "بيروزي",
+      "شباب الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2020_7_opp_p343",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q978",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام شباب الأهلي في دور الـ16 بتاريخ 26 سبتمبر 2020؟",
+    "options": [
+      "1-2",
+      "1-1",
+      "3-3",
+      "0-1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2020_7_score_p344",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q979",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام شباب الأهلي في 26 سبتمبر 2020؟",
+    "options": [
+      "فاز الأهلي",
+      "تعادل الأهلي",
+      "أُلغيت المباراة",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2020_7_result_p345",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q980",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع شباب الأهلي بتاريخ 26 سبتمبر 2020 وفق سجل AFC؟",
+    "options": [
+      "خارج أرض الأهلي",
+      "على أرض الأهلي",
+      "على أرض محايدة",
+      "لم تُلعب"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2020_7_home_p346",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q981",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في ربع النهائي يوم 30 سبتمبر 2020؟",
+    "options": [
+      "باختاكور",
+      "النصر",
+      "الجزيرة",
+      "بيروزي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2020_8_opp_p347",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q982",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام النصر في ربع النهائي بتاريخ 30 سبتمبر 2020؟",
+    "options": [
+      "0-3",
+      "4-4",
+      "2-0",
+      "0-2"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2020_8_score_p348",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q983",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام النصر في 30 سبتمبر 2020؟",
+    "options": [
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "خسر الأهلي",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "easy",
+    "factId": "m2020_8_result_p349",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q984",
+    "category": "آسيا 2020",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع النصر بتاريخ 30 سبتمبر 2020 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "لم تُلعب",
+      "خارج أرض الأهلي",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2020_8_home_p350",
+    "sourceName": "AFC Stats — Al Ahli Saudi FC 2020",
+    "sourceUrl": "https://stats.the-afc.com/tournament/297/teams/198/profile"
+  },
+  {
+    "id": "q985",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في دور الـ16 يوم 22 مايو 2012؟",
+    "options": [
+      "الجزيرة الإماراتي",
+      "الهلال",
+      "الغرافة",
+      "تراكتور"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2012_1_opp_p351",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q986",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام الجزيرة الإماراتي في دور الـ16 بتاريخ 22 مايو 2012؟",
+    "options": [
+      "2-3",
+      "3-3",
+      "3-4",
+      "2-1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2012_1_score_p352",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q987",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الجزيرة الإماراتي في 22 مايو 2012؟",
+    "options": [
+      "أُلغيت المباراة",
+      "فاز الأهلي",
+      "خسر الأهلي",
+      "تعادل الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2012_1_result_p353",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q988",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع الجزيرة الإماراتي بتاريخ 22 مايو 2012 وفق سجل AFC؟",
+    "options": [
+      "على أرض الأهلي",
+      "خارج أرض الأهلي",
+      "على أرض محايدة",
+      "لم تُلعب"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2012_1_home_p354",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q989",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في ربع النهائي - الذهاب يوم 19 سبتمبر 2012؟",
+    "options": [
+      "الاستقلال",
+      "سباهان",
+      "الاتحاد",
+      "الغرافة"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2012_2_opp_p355",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q990",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام سباهان في ربع النهائي - الذهاب بتاريخ 19 سبتمبر 2012؟",
+    "options": [
+      "3-0",
+      "0-0",
+      "1-0",
+      "0-1"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium",
+    "factId": "m2012_2_score_p356",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q991",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام سباهان في 19 سبتمبر 2012؟",
+    "options": [
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "خسر الأهلي",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 1,
+    "difficulty": "easy",
+    "factId": "m2012_2_result_p357",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q992",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع سباهان بتاريخ 19 سبتمبر 2012 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "على أرض الأهلي",
+      "لم تُلعب",
+      "خارج أرض الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2012_2_home_p358",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q993",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في ربع النهائي - الإياب يوم 2 أكتوبر 2012؟",
+    "options": [
+      "بيروزي",
+      "الهلال",
+      "سباهان",
+      "ذوب آهن"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2012_3_opp_p359",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q994",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام سباهان في ربع النهائي - الإياب بتاريخ 2 أكتوبر 2012؟",
+    "options": [
+      "3-1",
+      "1-4",
+      "4-1",
+      "4-2"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2012_3_score_p360",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q995",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام سباهان في 2 أكتوبر 2012؟",
+    "options": [
+      "خسر الأهلي",
+      "أُلغيت المباراة",
+      "تعادل الأهلي",
+      "فاز الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2012_3_result_p361",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q996",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع سباهان بتاريخ 2 أكتوبر 2012 وفق سجل AFC؟",
+    "options": [
+      "على أرض الأهلي",
+      "خارج أرض الأهلي",
+      "على أرض محايدة",
+      "لم تُلعب"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2012_3_home_p362",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q997",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: من كان خصم الأهلي في نصف النهائي - الذهاب يوم 24 أكتوبر 2012؟",
+    "options": [
+      "بيروزي",
+      "الغرافة",
+      "الاستقلال",
+      "الاتحاد"
+    ],
+    "correctIndex": 3,
+    "difficulty": "medium",
+    "factId": "m2012_4_opp_p363",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q998",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: ما نتيجة الأهلي أمام الاتحاد في نصف النهائي - الذهاب بتاريخ 24 أكتوبر 2012؟",
+    "options": [
+      "0-1",
+      "1-0",
+      "0-2",
+      "3-2"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium",
+    "factId": "m2012_4_score_p364",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q999",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: ماذا كانت نتيجة الأهلي من حيث الفوز أو التعادل أو الخسارة أمام الاتحاد في 24 أكتوبر 2012؟",
+    "options": [
+      "تعادل الأهلي",
+      "فاز الأهلي",
+      "أُلغيت المباراة",
+      "خسر الأهلي"
+    ],
+    "correctIndex": 3,
+    "difficulty": "easy",
+    "factId": "m2012_4_result_p365",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  },
+  {
+    "id": "q1000",
+    "category": "آسيا 2012",
+    "type": "text",
+    "question": "سؤال موثق: أين لُعبت مواجهة الأهلي مع الاتحاد بتاريخ 24 أكتوبر 2012 وفق سجل AFC؟",
+    "options": [
+      "على أرض محايدة",
+      "لم تُلعب",
+      "خارج أرض الأهلي",
+      "على أرض الأهلي"
+    ],
+    "correctIndex": 2,
+    "difficulty": "medium",
+    "factId": "m2012_4_home_p366",
+    "sourceName": "AFC Champions League — Official Media Guide 2015",
+    "sourceUrl": "https://assets.the-afc.com/migration/a/c/acl-2015-media-guide-23747"
+  }
+];
