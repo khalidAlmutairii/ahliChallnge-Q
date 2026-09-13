@@ -1423,3 +1423,76 @@ nav {
     grid-template-columns: 1fr;
   }
 }
+
+/* ===== مميزات قادمة قريبًا ===== */
+
+.coming-soon {
+  width: min(1320px, 90%);
+  margin: 25px auto 0;
+  padding: 22px;
+  border: 2px solid #d9ad4a;
+  border-radius: 24px;
+  background: rgba(3, 35, 25, 0.75);
+  box-shadow: 0 0 25px rgba(217, 173, 74, 0.10);
+}
+
+.coming-soon h2 {
+  text-align: center;
+  color: #e1b74f;
+  font-size: 22px;
+  margin: 0 0 20px;
+}
+
+.coming-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+}
+
+.coming-card {
+  min-height: 125px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 1px solid rgba(45, 212, 140, 0.20);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.025);
+  transition: 0.25s ease;
+}
+
+.coming-card:hover {
+  transform: translateY(-4px);
+  border-color: #d9ad4a;
+  background: rgba(19, 169, 95, 0.08);
+}
+
+.coming-icon {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.coming-card strong {
+  font-size: 16px;
+  margin-bottom: 6px;
+  color: white;
+}
+
+.coming-card small {
+  font-size: 11px;
+  opacity: 0.65;
+}
+
+/* للجوال */
+@media (max-width: 800px) {
+  .coming-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .coming-grid {
+    grid-template-columns: 1fr;
+  }
+}
